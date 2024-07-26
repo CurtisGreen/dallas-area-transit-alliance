@@ -12,10 +12,11 @@ import { Navbar } from "@/app/_components/navbar";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: `Dallas Area Transit Alliance`,
+  metadataBase: new URL("https://DallasAreaTransitAdvocates.org"),
+  title: "Dallas Area Transit Alliance",
   description: "Dallas Area Transit Alliance (DATA)",
   openGraph: {
-    images: ["https://DallasAreaTransitAlliance.org/logo-blue.png"],
+    images: ["/logo-blue.png"],
   },
 };
 
