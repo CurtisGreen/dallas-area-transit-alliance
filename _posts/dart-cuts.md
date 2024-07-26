@@ -69,6 +69,10 @@ After citizens spoke in protest at the meeting, the council members were confuse
 
 Farmers Branch on the other hand was more hostile towards transit. Several citizens voiced their support for DART and also suggested ride narrowing. The mayor and one of the city council members voiced contempt for DART, transit, and even said *"there's nothing but a chain link fence between them and all the **trash** that comes here on their train"*. Unsurprisingly, it also passed unanimously.
 
+## What's Next
+These member cities, led by Plano and Irving, are looking to lobby at the January 2025 Texas legislature to reduce the amount a transit agency can collect from 1% sales tax to 0.75%.
+
+Dallas has mentioned they will vote on this at an upcoming September meeting.
 
 ## Current voting status:
 
