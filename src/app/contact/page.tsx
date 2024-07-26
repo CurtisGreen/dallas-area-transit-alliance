@@ -1,3 +1,6 @@
+import { DiscordIcon } from "@/app/_components/discord-icon";
+import { GroupMeIcon } from "@/app/_components/groupme-icon";
+
 export default function Index() {
   return (
     <>
@@ -5,20 +8,15 @@ export default function Index() {
         Contact Us
       </h1>
       <div>
-        <div>
-          <a
-            className="underline hover:text-blue-700"
-            href="https://discord.gg/ZKwDE2s4qx"
-          >
-            Discord
+        <div className="pb-4">
+          <a href="https://discord.gg/ZKwDE2s4qx">
+            <DiscordIcon className="h-8 fill-slate-700 dark:fill-white hover:fill-blue-700 dark:hover:fill-blue-700" />
           </a>
         </div>
+
         <div>
-          <a
-            className="underline hover:text-blue-700"
-            href="https://groupme.com/join_group/92468276/JsoCAH57"
-          >
-            Groupme
+          <a href="https://groupme.com/join_group/92468276/JsoCAH57">
+            <GroupMeIcon className="h-9 fill-slate-700 dark:fill-white hover:fill-blue-700 dark:hover:fill-blue-700" />
           </a>
         </div>
       </div>

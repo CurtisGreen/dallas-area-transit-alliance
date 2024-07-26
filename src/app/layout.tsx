@@ -1,10 +1,10 @@
-import Footer from "@/app/_components/footer";
-import type { Metadata } from "next";
-import { Inter } from "next/font/google";
 import cn from "classnames";
-import { ThemeSwitcher } from "@/app/_components/theme-switcher";
+import { Inter } from "next/font/google";
 
 import "./globals.css";
+import Footer from "@/app/_components/footer";
+import type { Metadata } from "next";
+import { ThemeSwitcher } from "@/app/_components/theme-switcher";
 import Container from "@/app/_components/container";
 import { Navbar } from "@/app/_components/navbar";
 
