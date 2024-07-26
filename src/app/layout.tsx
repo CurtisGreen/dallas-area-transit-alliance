@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   title: `Dallas Area Transit Alliance`,
   description: "Dallas Area Transit Alliance (DATA)",
   openGraph: {
-    images: ["/logo.png"],
+    images: ["https://DallasAreaTransitAlliance.org/logo-blue.png"],
   },
 };
 
