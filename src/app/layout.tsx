@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   title: "Dallas Area Transit Alliance",
   description: "Dallas Area Transit Alliance (DATA)",
   openGraph: {
-    images: ["/logo-blue.png"],
+    images: ["/logos/logo-blue.png"],
   },
 };
 
@@ -49,15 +49,15 @@ export default function RootLayout({
         <link
           rel="mask-icon"
           href="/favicon/safari-pinned-tab.svg"
-          color="#000000"
+          color="#5bbad5"
         />
         <link rel="shortcut icon" href="/favicon/favicon.ico" />
-        <meta name="msapplication-TileColor" content="#000000" />
+        <meta name="msapplication-TileColor" content="#2b5797" />
         <meta
           name="msapplication-config"
           content="/favicon/browserconfig.xml"
         />
-        <meta name="theme-color" content="#000" />
+        <meta name="theme-color" content="#ffffff" />
         <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
       </head>
       <body
