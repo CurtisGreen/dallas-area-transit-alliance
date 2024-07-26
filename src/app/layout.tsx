@@ -1,5 +1,6 @@
 import cn from "classnames";
 import { Inter } from "next/font/google";
+import { Analytics } from "@vercel/analytics/react";
 
 import "./globals.css";
 import Footer from "@/app/_components/footer";
@@ -67,6 +68,7 @@ export default function RootLayout({
             <Container>
               <Navbar />
               {children}
+              <Analytics />
             </Container>
           </main>
         </div>
