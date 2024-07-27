@@ -66,7 +66,7 @@ Carrollton's agenda item was titled "Supporting Transit 2.0". It had a lot of fo
 
 After citizens spoke in protest at the meeting, the council members were confused. What does Transit 2.0 have to do with cutting DART? Why was this titled this way? But ultimately, the mayor and city attourney waved away their worries by saying this was simply a symbolic vote, and it didn't actually reduce DART funding. So it passed, 6 for, 1 against.
 
-Farmers Branch, conversely, was evidently hostile towards transit. Several citizens voiced their support for DART and suggested road narrowing, but to no avail. The mayor and one of the city council members voiced contempt for DART and transit, and they even said *"there's nothing but a chain link fence between them and all the **trash** that comes here on their trains"*. Unsurprisingly, it passed unanimously.
+Farmers Branch, conversely, was evidently hostile towards transit. Several citizens voiced their support for DART and suggested road narrowing, but to no avail. The mayor and one of the city council members voiced contempt for DART and transit, and they even said *"there's nothing but a chain link fence between them and all the **trash** that comes up here on their trains."* Unsurprisingly, it passed unanimously.
 
 ## What's Next
 These member cities, led by Plano and Irving, are looking to lobby at the January 2025 Texas legislature to reduce transit agency sales tax collection from 1% to 0.75%.
