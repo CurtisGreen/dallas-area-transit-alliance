@@ -16,20 +16,19 @@ There are some statements that cities or elected officials have been making that
 
 ---
 ## Myth: Cutting DART's funding won't impact service.
-**Fact**: The NCTCOG Transit 2.0 RFP does not call for a cutting in the DART sales tax, it has been stated that   
+**Fact**: The NCTCOG Transit 2.0 RFP does not call for cutting DART sales tax. Instead, it stated:   
 > “Currently there is no evidence that a lower tax rate at DART is possible. If it is possible, what are the impacts to **service, debt obligations and future service commitments**.” 
 
 Without careful consideration, these cuts could jeopardize critical projects like the Silver Line or the Tier 2 Bus Network.  
 *Source: [NCTCOG Transit 2.0 RFP](https://www.nctcog.org/getmedia/89832cd2-9626-44c8-bb9b-d868febce6f0/RFP-_Regional-Transit-2-0-FINAL.pdf)*
 
 ## Myth: DART's sales tax cut will not impact services significantly.
-**Fact**: DART's Chief Communications Officer, Jeamy Molina, has clearly stated that any cut to the DART sales use tax could result in reduced services, staff layoffs, and a significant funding loss of nearly **$6 billion** over the next 20 years.  
+**Fact**: DART's Chief Communications Officer, Jeamy Molina, has clearly stated that any cut to the DART sales tax could result in reduced services, staff layoffs, and a significant funding loss of nearly **$6 billion** over the next 20 years.  
 *Source: [KDFW FOX 4](https://www.fox4news.com/news/farmers-branch-dart-trash-money), [WFAA ABC 8](https://www.wfaa.com/article/news/local/dallas-county/farmers-branch-councilman-dart-trash-comment/287-8e2c934d-5c2c-4c14-99f4-50da22838c74)*
 
 ## Myth: DART is not expanding its services.
-**Fact**: DART's phase 2 (also known as tier 2) bus network is giving all member cities a massive boost in bus service, especially on the highest performing routes. This includes many over-performing suburban bus routes that DART is rewarding with extra frequent service. The phase 2 bus network gives the average DART resident access to 30% more jobs within an hour commute. DART has started implementing their new bus network this year with new bus routes in Irving and Plano, and frequency boosts on the light rail.  
+**Fact**: DART's phase 2 (also known as tier 2) bus network is giving all member cities a massive boost in bus service, especially on the highest performing routes. This includes many over-performing suburban bus routes that DART is rewarding with extra frequent service. The phase 2 bus network gives the average DART resident access to 30% more jobs within an hour commute. DART has started implementing their new bus network this year with new bus routes in Irving and Plano, and with frequency boosts on the light rail.  
 *Source: [DART News Release](https://www.dart.org/about/news-and-events/newsreleases/newsrelease-detail/dart-to-expand-golink-services--roll-out-new-bus-routes)*
-
 
 ## Myth: DART's ridership is declining.
 **Fact**: While the pandemic caused a temporary decline, DART's ridership has been recovering rapidly. The notion that ridership is continuously declining is misleading; recent trends show significant growth.  
@@ -51,5 +50,5 @@ A dedicated Real Estate & Economic Development Department was established to sup
 
 ---
 # Bottom Line
-DART is proactively addressing customer concerns, expanding services, and improving overall transit quality. Cutting DART's funding would undermine these efforts, despite the clear evidence of progress and growth in ridership. DART's continuous improvements and strategic vision showcase a commitment to enhancing transit for the community, making any funding cuts counterproductive.
+DART is proactively addressing customer concerns, expanding services, and improving overall transit quality. Cutting DART's funding would undermine these efforts, despite growth in ridership and clear evidence of progress. DART's continuous improvement and strategic vision showcase a commitment to enhancing transit for the community, making any funding cuts counterproductive.
 
