@@ -1,6 +1,6 @@
 # Myth versus Fact
 
-There are some statements that cities or elected officials have been making that are incorrect regarding DART and their services, funding, or safety. DATA has complied some of them and debunked every myth. [We need to check the syntax of this paragraph I'm writting this at 2am]: # 
+There are some statements that cities or elected officials have been making that are incorrect regarding DART and their services, funding, or safety. DATA has complied some of them and debunked every myth. 
 
 ---
 ## Myth: Transit 2.0 RFP calls for cutting the DART sales tax, leading to inevitable service cuts.
@@ -21,29 +21,23 @@ Without careful consideration, these cuts could jeopardize critical projects lik
 
 ## Myth: DART's ridership is declining.
 **Fact**: While the pandemic caused a temporary decline, DART's ridership has been recovering rapidly. The notion that ridership is continuously declining is misleading; recent trends show significant growth.  
-Source: [DART Scorecard]() and [DART FY2025 Strategic Plan]()
+Source: [DART Key Performance Indicators (KPIs)](https://www.dart.org/about/about-dart/key-performance-indicator) and [DART FY2025 Strategic Plan](https://dartorgcmsblob.dart.org/prod/docs/default-source/about-dart/dart-point-b-strategic-plan-june-2024.pdf?sfvrsn=2f939b41_3)
 
 ## Myth: DART is not addressing cleanliness and security.
 **Fact**: DART has upgraded all bus and light rail seats to vinyl for easier cleaning and has enhanced security by hiring additional officers and improving response times. Upgraded CCTV systems further bolster safety measures.  
-*Source: DART News Release on [Vinyl Seat Upgrade]() and on [Security Enhancements](), [Dallas Express]() [I really don't want to use Dallas Express so try to find another source]: #*
+*Source: DART News Release on [Vinyl Seat Upgrade](https://dart.org/about/news-and-events/newsreleases/newsrelease-detail/dart-completes-vinyl-seat-upgrade-on-light-rail-vehicle-fleet) and on [Security Enhancements](https://www.dart.org/about/news-and-events/newsreleases/newsrelease-detail/dart-enhances-security-focus-with-contract-security-officers), [Dallas Express]https://dallasexpress.com/city/dart-focuses-on-improving-security-sanitation/() 
 
 ## Myth: DART is not investing in rider amenities.
 **Fact**: DART is modernizing its infrastructure with new Next Generation Bus Shelters designed for safety, climate control, adaptability, and enhanced rider experience. These shelters will also feature Real Time Displays for bus arrival information.  (Because we have more room now use the UTA spiel)
-*Source/Attributions: Reddit/DART Opr8r, DART Daily, DART Press Release, UTA/Nancy Lozano*
+*Source/Attributions: [Reddit/DART Opr8r](https://www.reddit.com/r/dart/comments/1e7mgr9/next_gen_bus_shelter_lighting_standard_size/), [DART Daily](https://dartdaily.dart.org/home/architecture-students-help-design-darts-next-bus-shelters), [DART Press Release](https://www.dart.org/about/news-and-events/newsreleases/newsrelease-detail/dart-pilot-program-to-test-next-generation-bus-shelters)*
 
 ## Myth: DART is not contributing to local development.
 **Fact**: DART's FY2025 strategic vision includes assisting 11 transit-oriented development (TOD) projects in multiple cities. 
 
-> * City 1 (Development 1)
-> * City 2 (Development 2) 
-> * O  
-
 A dedicated Real Estate & Economic Development Department was established to support these initiatives.  
-*Source: DART FY2025 Strategic Plan*
+*Source: [DART FY2025 Strategic Plan](https://dartorgcmsblob.dart.org/prod/docs/default-source/about-dart/dart-point-b-strategic-plan-june-2024.pdf?sfvrsn=2f939b41_3)*
 
 ---
 # Bottom Line
 DART is proactively addressing customer concerns, expanding services, and improving overall transit quality. Cutting DART's funding would undermine these efforts, despite the clear evidence of progress and growth in ridership. DART's continuous improvements and strategic vision showcase a commitment to enhancing transit for the community, making any funding cuts counterproductive.
-
-*Written by: Connor Hulla, Qui Le, and Keun Lee*
 
