@@ -1,3 +1,15 @@
+---
+title: "Myth versus Fact"
+excerpt: "There are some statements that cities or elected officials have been making that are incorrect regarding DART and their services, funding, or safety. DATA has complied some of them and debunked every myth."
+coverImage: "/assets/blog/dart-cuts/cover.jpg"
+date: "2024-07-27T05:00:00.000Z"
+author:
+  name: Qui Le
+  picture: "/assets/blog/authors/jj.jpeg"
+ogImage:
+  url: "/assets/blog/dart-cuts/cover.jpg"
+---
+
 # Myth versus Fact
 
 There are some statements that cities or elected officials have been making that are incorrect regarding DART and their services, funding, or safety. DATA has complied some of them and debunked every myth. 
