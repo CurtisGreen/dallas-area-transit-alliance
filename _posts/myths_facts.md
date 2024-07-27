@@ -3,7 +3,7 @@
 There are some statements that cities or elected officials have been making that are incorrect regarding DART and their services, funding, or safety. DATA has complied some of them and debunked every myth. 
 
 ---
-## Myth: Transit 2.0 RFP calls for cutting the DART sales tax, leading to inevitable service cuts.
+## Myth: Cutting DART's funding won't impact service.
 **Fact**: The NCTCOG Transit 2.0 RFP does not call for a cutting in the DART sales tax, it has been stated that   
 > “Currently there is no evidence that a lower tax rate at DART is possible. If it is possible, what are the impacts to **service, debt obligations and future service commitments**.” 
 
