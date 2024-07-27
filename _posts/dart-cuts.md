@@ -1,6 +1,6 @@
 ---
 title: "Background on DART cuts"
-excerpt: "At the time of writing this, 5 cities have voted for, and 2 cities have voted against a reduction in DART's funding by 25%. Here's how we got here and what's coming next."
+excerpt: "At the time of writing this, 5 cities have voted for and 2 cities have voted against a reduction in DART's funding by 25%. Here's how we got here and what's coming next."
 coverImage: "/assets/blog/dart-cuts/cover.jpg"
 date: "2024-07-26T05:00:00.000Z"
 author:
@@ -10,12 +10,12 @@ ogImage:
   url: "/assets/blog/dart-cuts/cover.jpg"
 ---
 
-At the time of writing this, 5 cities have voted for, and 2 cities have voted against a reduction in DART's funding by 25%. Here's how we got here and what's coming next.
+At the time of writing this, 5 cities have voted for and 2 cities have voted against a reduction in DART's funding by 25%. Here's how we got here and what's coming next.
 
 ## Background
-In 2023 some of the member cities of DART, Trinity Metro, and DCTA sent a letter to NCTCOG (North Central Texas Council of Governments) Regional Transportation Council asking for a comprehensive study to *"assess the effectiveness of regional transit today and what regional transit should look like for the next 40 years"*. They asked NCTCOG because they the region's *"neutral transportation planner"*.
+In 2023, some member cities of DART, Trinity Metro, and DCTA sent a letter to the NCTCOG (North Central Texas Council of Governments) Regional Transportation Council asking for a comprehensive study to "assess the effectiveness of regional transit today and what regional transit should look like for the next 40 years."
 
-NCTCOG released their Request For Proposals (RFP) in late 2023 titled [*"North Central Texas Regional Transit 2.0: Planning for Year 2050"*](https://www.nctcog.org/getmedia/89832cd2-9626-44c8-bb9b-d868febce6f0/RFP-_Regional-Transit-2-0-FINAL.pdf). It writes about wanting to research the best way to make transit more widely available, used by many, and financially sustainable. The way to achieve those would be through:
+As the region's "neutral transportation planner", NCTCOG released their Request For Proposals (RFP) in late 2023 titled ["North Central Texas Regional Transit 2.0: Planning for Year 2050"](https://www.nctcog.org/getmedia/89832cd2-9626-44c8-bb9b-d868febce6f0/RFP-_Regional-Transit-2-0-FINAL.pdf). This document discusses topics of further research to make transit more widely available, used by many, and financially sustainable. The way to achieve those would be through:
 
 1. Develop more aggressive transit legislation
 2. Increase transit authority membership
