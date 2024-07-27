@@ -27,7 +27,7 @@ Without careful consideration, these cuts could jeopardize critical projects lik
 *Source: [KDFW FOX 4](https://www.fox4news.com/news/farmers-branch-dart-trash-money), [WFAA ABC 8](https://www.wfaa.com/article/news/local/dallas-county/farmers-branch-councilman-dart-trash-comment/287-8e2c934d-5c2c-4c14-99f4-50da22838c74)*
 
 ## Myth: DART is not expanding its services.
-**Fact**: DART is actively expanding services, including new suburban bus routes and increased weekend light rail frequencies. These efforts aim to enhance ridership and improve overall transit accessibility.  
+**Fact**: DART's phase 2 (also known as tier 2) bus network is giving all member cities a massive boost in bus service, especially on the highest performing routes. This includes many over-performing suburban bus routes that DART is rewarding with extra frequent service. The phase 2 bus network gives the average DART resident access to 30% more jobs within an hour commute. DART has started implementing their new bus network this year with new bus routes in Irving and Plano, and frequency boosts on the light rail.
 *Source: [DART News Release](https://www.dart.org/about/news-and-events/newsreleases/newsrelease-detail/dart-to-expand-golink-services--roll-out-new-bus-routes)*
 
 
@@ -40,7 +40,7 @@ Source: [DART Key Performance Indicators (KPIs)](https://www.dart.org/about/abou
 *Source: DART News Release on [Vinyl Seat Upgrade](https://dart.org/about/news-and-events/newsreleases/newsrelease-detail/dart-completes-vinyl-seat-upgrade-on-light-rail-vehicle-fleet) and on [Security Enhancements](https://www.dart.org/about/news-and-events/newsreleases/newsrelease-detail/dart-enhances-security-focus-with-contract-security-officers), [Dallas Express]https://dallasexpress.com/city/dart-focuses-on-improving-security-sanitation/() 
 
 ## Myth: DART is not investing in rider amenities.
-**Fact**: DART is modernizing its infrastructure with new Next Generation Bus Shelters designed for safety, climate control, adaptability, and enhanced rider experience. These shelters will also feature Real Time Displays for bus arrival information.  (Because we have more room now use the UTA spiel)
+**Fact**: DART is modernizing its infrastructure with new Next Generation Bus Shelters designed by UTA students from the College of Architecture, Planning, and Public Affairs with a focus on safety, climate control, adaptability, and enhanced rider experience. These shelters will also feature Real Time Displays for bus arrival information. 
 *Source/Attributions: [Reddit/DART Opr8r](https://www.reddit.com/r/dart/comments/1e7mgr9/next_gen_bus_shelter_lighting_standard_size/), [DART Daily](https://dartdaily.dart.org/home/architecture-students-help-design-darts-next-bus-shelters), [DART Press Release](https://www.dart.org/about/news-and-events/newsreleases/newsrelease-detail/dart-pilot-program-to-test-next-generation-bus-shelters)*
 
 ## Myth: DART is not contributing to local development.
