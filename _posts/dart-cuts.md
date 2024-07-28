@@ -46,7 +46,7 @@ and finally
 
 The cities had reached out for a study, NCTCOG started working on it, and in the meantime, the cities do exactly the opposite of the current recommendations. Why ask for help in the first place?
 
-In spite of this firm letter, the cities continue with the cuts.
+In spite of this firm letter, the cities continue supporting the cuts.
 
 ## Rowlett
 July 2nd - Rowlett's city council put forward a resolution with identical wording to Plano's. Plano's presenter sounded like a politician, talking about going to the Texas legislature, including only facts that support their narrative, and using careful wording to imply certain things without actually saying them. On the other hand, Rowlett's presentation was a bit rougher. It included numerous errors, perplexing assumptions, and projections based off of those previous errors that gave an even more egregious result. But without the relevant background knowledge, the council voted unanimously in support of it anyways.
@@ -54,7 +54,7 @@ July 2nd - Rowlett's city council put forward a resolution with identical wordin
 A slide-by-slide fact-check of Rowlett's presentation can be seen [here](https://docs.google.com/presentation/d/1GKMZaz76c3Sck3ZZscDksqYOR-HvFt7lSw7mv2DeDCg).
 
 ## Irving
-July 11th - Irving city council had DART budget cuts on the agenda. At first, it was under the consent agenda, a part of the agenda that is supposed to contain rote items that can be voted on for approval in bulk. Many residents reached out asking for them to remove it from the consent agenda so it could've had the full discussion it deserved. Irving obliged, and citizens flocked to the meeting urging the council to vote against the resolution. Similar to Plano's council meeting, however, Irving council members made vague arguments of fiscal responsibility and examples of the cut DART funding instead paying for police and fire, or lower property taxes. The vote passed unanimously.
+July 11th - Irving city council had DART budget cuts on the agenda. At first, it was under the consent agenda, a part of the agenda that is supposed to contain rote items that can be voted on for approval in bulk. Many residents reached out asking for them to remove it from the consent agenda to give the resolution the full discussion it deserved. Irving obliged, and citizens flocked to the meeting urging the council to vote against the resolution. Similar to Plano's council meeting, however, Irving council members made vague arguments of fiscal responsibility and examples of the cut DART funding instead paying for police and fire, or lower property taxes. The vote passed unanimously.
 
 ## Garland & Richardson
 Thankfully, the councils of Garland and Richardson unanimously voted in support of DART's current funding levels, a stark contrast to their neighbors. Downtown Garland and CityLine in Richardson have been seeing a lot of development efforts around their transit centers, and it's paying dividends - so maybe it's not too surprising they're against these cuts.
@@ -62,11 +62,11 @@ Thankfully, the councils of Garland and Richardson unanimously voted in support 
 ## Carrollton & Farmers Branch
 July 16th - Carrollton and Farmers Branch had their meetings on the same day, with the same result - but the way they went about it couldn't be any different. 
 
-Carrollton's agenda item was titled "Supporting Transit 2.0". It had a lot of formal text talking about what Transit 2.0 is and why they support it, but if you read all the way to the bottom, you saw a little blurb saying that in support of Transit 2.0, they support a 25% funding cut to DART. Carrollton has a large Transit-Oriented Development being built around their Trinity Mills station, it has a connection to the Denton A-Train, and it's getting a new Silver Line station in Downtown Carrolton. They knew that cutting DART at this time of growth would be unpopular, so they hid it under language that sounds positive for transit.
+Carrollton's agenda item was titled "Supporting Transit 2.0". It had a lot of formal text talking about what Transit 2.0 is and why they support it, but if you read all the way to the bottom, you'll see a little blurb saying that *in support of Transit 2.0, they support a 25% funding cut to DART*. Carrollton has a large Transit-Oriented Development being built around their Trinity Mills station, it has a connection to the Denton A-Train, and it's getting a new Silver Line station in Downtown Carrolton. They knew that cutting DART at this time of growth would be unpopular, so they hid it under language that sounds positive for transit.
 
-After citizens spoke in protest at the meeting, the council members were confused. What does Transit 2.0 have to do with cutting DART? Why was this titled this way? But ultimately, the mayor and city attourney waved away their worries by saying this was simply a symbolic vote, and it didn't actually reduce DART funding. So it passed, 6 for, 1 against.
+After citizens spoke in protest at the meeting, the council members were confused. What does Transit 2.0 have to do with cutting DART? Why was the agenda item titled this way? Ultimately, the mayor and city attorney waved away their worries by saying this was merely a symbolic vote and didn't actually reduce DART funding. So it passed, 6 for, 1 against.
 
-Farmers Branch, conversely, was evidently hostile towards transit. Several citizens voiced their support for DART and suggested road narrowing, but to no avail. The mayor and one of the city council members voiced contempt for DART and transit, and they even said *"there's nothing but a chain link fence between them and all the **trash** that comes up here on their trains."* Unsurprisingly, it passed unanimously.
+Farmers Branch, however, was evidently hostile towards transit. Several citizens voiced their support for DART and suggested road narrowing, but to no avail. The mayor and one of the city council members voiced contempt for DART and transit, and they even said, "*there's nothing but a chain link fence between them and all the **trash** that comes up here on their trains.*" Unsurprisingly, it passed unanimously.
 
 ## What's Next
 These member cities, led by Plano and Irving, are looking to lobby at the January 2025 Texas legislature to reduce transit agency sales tax collection from 1% to 0.75%.
