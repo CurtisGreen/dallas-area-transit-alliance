@@ -1,6 +1,6 @@
 ---
 title: "Myth versus Fact"
-excerpt: "There are some statements that cities or elected officials have been making that are incorrect regarding DART and their services, funding, or safety. DATA has complied some of them and debunked every myth."
+excerpt: "There are some statements that cities or elected officials have been making that are incorrect regarding DART and their services, funding, or safety. DATA has compiled some of them and debunked every myth."
 coverImage: "/assets/blog/dart-cuts/cover.jpg"
 date: "2024-07-27T05:00:00.000Z"
 author:
@@ -12,7 +12,7 @@ ogImage:
 
 # Myth versus Fact
 
-There are some statements that cities or elected officials have been making that are incorrect regarding DART and their services, funding, or safety. DATA has complied some of them and debunked every myth. 
+There are some statements that cities or elected officials have been making that are incorrect regarding DART and their services, funding, or safety. DATA has compiled some of them and debunked every myth. 
 
 ---
 ## Myth: DART's sales tax cut won't impact service.
@@ -35,7 +35,7 @@ Without careful consideration, these cuts could jeopardize critical projects lik
 *Source: DART News Release on [Vinyl Seat Upgrade](https://dart.org/about/news-and-events/newsreleases/newsrelease-detail/dart-completes-vinyl-seat-upgrade-on-light-rail-vehicle-fleet) and on [Security Enhancements](https://www.dart.org/about/news-and-events/newsreleases/newsrelease-detail/dart-enhances-security-focus-with-contract-security-officers), [Dallas Express](https://dallasexpress.com/city/dart-focuses-on-improving-security-sanitation/)*
 
 ## Myth: DART is not investing in rider amenities.
-**Fact**: DART is modernizing its infrastructure with new Next Generation Bus Shelters designed by UTA students from the College of Architecture, Planning, and Public Affairs with a focus on safety, climate control, adaptability, and enhanced rider experience. These shelters will also feature Real Time Displays for bus arrival information.   
+**Fact**: DART is modernizing its infrastructure with new Next Generation Bus Shelters designed by University of Texas at Arlington students with a focus on safety, climate control, adaptability, and enhanced rider experience. These shelters will also feature Real Time Displays for bus arrival information.   
 *Source/Attributions: [Reddit/DART Opr8r](https://www.reddit.com/r/dart/comments/1e7mgr9/next_gen_bus_shelter_lighting_standard_size/), [DART Daily](https://dartdaily.dart.org/home/architecture-students-help-design-darts-next-bus-shelters), [DART Press Release](https://www.dart.org/about/news-and-events/newsreleases/newsrelease-detail/dart-pilot-program-to-test-next-generation-bus-shelters)*
 
 ## Myth: DART is not contributing to local development.
