@@ -10,7 +10,7 @@ ogImage:
   url: "/assets/blog/dart-cuts/SW Med Dist Parkland-0758.jpg"
 ---
 
-# Myth versus Fact
+### Myth versus Fact
 
 There are some statements that cities or elected officials have been making that are incorrect regarding DART and their services, funding, or safety. DATA has compiled some of them and debunked every myth. 
 
@@ -45,6 +45,6 @@ A dedicated Real Estate & Economic Development Department was established to sup
 *Source: [DART FY2025 Strategic Plan](https://dartorgcmsblob.dart.org/prod/docs/default-source/about-dart/dart-point-b-strategic-plan-june-2024.pdf?sfvrsn=2f939b41_3)*
 
 ---
-# Bottom Line
+### Bottom Line
 DART is proactively addressing customer concerns, expanding services, and improving overall transit quality. Cutting DART's funding would undermine these efforts, despite growth in ridership and clear evidence of progress. DART's continuous improvement and strategic vision showcase a commitment to enhancing transit for the community, making any funding cuts counterproductive.
 
