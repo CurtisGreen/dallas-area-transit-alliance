@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import { Logo } from "@/app/_components/logo";
+import { ThemeSwitcher } from "./theme-switcher";
 
 export const Navbar2 = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -37,7 +38,7 @@ export const Navbar = () => {
       <div className="flex flex-wrap items-center justify-between mx-auto py-4">
         <a href="/" className="flex items-center space-x-3 rtl:space-x-reverse">
           <Logo className="w-24 max-lg:w-16" />
-          <span className="self-center text-3xl max-lg:text-2xl max-md:text-xl max-md:text-lg font-semibold whitespace-nowrap">
+          <span className="self-center text-3xl max-lg:text-2xl max-md:text-xl font-semibold whitespace-nowrap">
             Dallas Area Transit Alliance
           </span>
         </a>
@@ -69,7 +70,7 @@ export const Navbar = () => {
             isOpen ? "" : "hidden"
           }`}
         >
-          <ul className="font-medium flex flex-col p-4 md:p-0 mt-4 border border-slate-100 rounded-lg bg-slate-50 md:flex-row md:space-x-8 rtl:space-x-reverse md:mt-0 md:border-0 md:bg-white dark:bg-slate-800 md:dark:bg-slate-900 dark:border-slate-700">
+          <ul className="font-medium flex flex-col md:items-center p-4 md:p-0 mt-4 border border-slate-100 rounded-lg bg-slate-50 md:flex-row md:space-x-8 rtl:space-x-reverse md:mt-0 md:border-0 md:bg-white dark:bg-slate-800 md:dark:bg-slate-900 dark:border-slate-700 leading-none">
             <li>
               <a
                 href="/"
@@ -104,6 +105,11 @@ export const Navbar = () => {
               >
                 Contact
               </a>
+            </li>
+            <li>
+              <div className="flex items-center h-8 px-3 md:h-auto md:p-0">
+                <ThemeSwitcher />
+              </div>
             </li>
           </ul>
         </div>
