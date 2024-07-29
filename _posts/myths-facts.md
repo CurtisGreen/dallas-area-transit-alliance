@@ -1,13 +1,13 @@
 ---
 title: "Myth versus Fact"
 excerpt: "There are some statements that cities or elected officials have been making that are incorrect regarding DART and their services, funding, or safety. DATA has compiled some of them and debunked every myth."
-coverImage: "/assets/blog/dart-cuts/SW Med Dist Parkland-0758.jpg"
+coverImage: "/assets/blog/dart-cuts/sw-med-dist-parkland-0758.jpg"
 date: "2024-07-27T05:00:00.000Z"
 author:
   name: Qui Le
   picture: "/assets/blog/authors/jj.jpeg"
 ogImage:
-  url: "/assets/blog/dart-cuts/SW Med Dist Parkland-0758.jpg"
+  url: "/assets/blog/dart-cuts/sw-med-dist-parkland-0758.jpg"
 ---
 
 ### Myth versus Fact
@@ -29,7 +29,7 @@ Without careful consideration, these cuts could jeopardize critical projects lik
 ## Myth: DART's ridership is declining.
 **Fact**: While the pandemic caused a temporary decline, DART's ridership has been recovering rapidly. The notion that ridership is continuously declining is misleading; recent trends show significant growth.  
 
-![Image](assets/blog/myths-facts/RidershipFY21-FY24.png)  
+![Image](assets/blog/myths-facts/ridership-fy21-to-fy24)  
 
 *Source: [DART Key Performance Indicators (KPIs)](https://www.dart.org/about/about-dart/key-performance-indicator) and [DART FY2025 Strategic Plan](https://dartorgcmsblob.dart.org/prod/docs/default-source/about-dart/dart-point-b-strategic-plan-june-2024.pdf?sfvrsn=2f939b41_3)*
 
@@ -43,7 +43,7 @@ Without careful consideration, these cuts could jeopardize critical projects lik
 ## Myth: DART is not investing in rider amenities.
 **Fact**: DART is modernizing its infrastructure with new Next Generation Bus Shelters designed by University of Texas at Arlington students with a focus on safety, climate control, adaptability, and enhanced rider experience. These shelters will also feature Real Time Displays for bus arrival information.   
 
-![Image](assets/blog/myths-facts/DARTFullSizeShelter.jpeg)  
+![Image](assets/blog/myths-facts/dart-full-size-shelter.jpeg)  
 
 *Source/Attributions: [Reddit/DART Opr8r](https://www.reddit.com/r/dart/comments/1e7mgr9/next_gen_bus_shelter_lighting_standard_size/), [DART Daily](https://dartdaily.dart.org/home/architecture-students-help-design-darts-next-bus-shelters), [DART Press Release](https://www.dart.org/about/news-and-events/newsreleases/newsrelease-detail/dart-pilot-program-to-test-next-generation-bus-shelters)*
 
