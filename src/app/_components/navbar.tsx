@@ -4,6 +4,7 @@ import { useState } from "react";
 import Link from "next/link";
 
 import { Logo } from "@/app/_components/logo";
+import { ThemeSwitcher } from "./theme-switcher";
 
 export const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -44,11 +45,11 @@ export const Navbar = () => {
           </svg>
         </button>
         <div
-          className={`md:block md:w-auto max-md:mr-2 max-md:absolute top-16 right-0 ${
+          className={`md:mt-4 lg:mt-0 md:block md:w-auto max-md:mr-2 max-md:absolute top-16 right-0 ${
             isOpen ? "" : "hidden"
           }`}
         >
-          <ul className="font-medium flex flex-col p-4 md:p-0 mt-4 border border-slate-100 rounded-lg bg-slate-50 md:flex-row md:space-x-8 rtl:space-x-reverse md:mt-0 md:border-0 md:bg-white dark:bg-slate-800 md:dark:bg-slate-900 dark:border-slate-700">
+          <ul className="font-medium flex flex-col md:items-center p-4 md:p-0 mt-4 border border-slate-100 rounded-lg bg-slate-50 md:flex-row md:space-x-8 rtl:space-x-reverse md:mt-0 md:border-0 md:bg-white dark:bg-slate-800 md:dark:bg-slate-900 dark:border-slate-700 leading-none">
             <li>
               <a
                 href="/"
@@ -83,6 +84,11 @@ export const Navbar = () => {
               >
                 Contact
               </a>
+            </li>
+            <li>
+              <div className="flex items-center h-8 px-3 md:h-auto md:p-0">
+                <ThemeSwitcher />
+              </div>
             </li>
           </ul>
         </div>
