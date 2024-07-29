@@ -1,13 +1,13 @@
 ---
 title: "DATA Announces Formation"
 excerpt: "FOR IMMEDIATE RELEASE - Dallas, Texas"
-coverImage: "/assets/blog/data-announces-formation/cover.jpg"
+coverImage: "/assets/blog/data-announces-formation/cover.png"
 date: "2024-07-30T05:00:00.000Z"
 author:
   name: DATA Team
   picture: "/assets/blog/authors/jj.jpeg"
 ogImage:
-  url: "/assets/blog/data-announces-formation/cover.jpg"
+  url: "/assets/blog/data-announces-formation/cover.png"
 ---
 
 ### For Immediate Release 
