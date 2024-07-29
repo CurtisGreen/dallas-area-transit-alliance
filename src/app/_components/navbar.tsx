@@ -66,7 +66,7 @@ export const Navbar = () => {
           </svg>
         </button>
         <div
-          className={`md:block md:w-auto max-md:mr-2 max-md:absolute top-16 right-0 ${
+          className={`md:mt-4 lg:mt-0 md:block md:w-auto max-md:mr-2 max-md:absolute top-16 right-0 ${
             isOpen ? "" : "hidden"
           }`}
         >
