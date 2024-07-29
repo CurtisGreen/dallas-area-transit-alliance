@@ -29,7 +29,7 @@ Without careful consideration, these cuts could jeopardize critical projects lik
 ## Myth: DART's ridership is declining.
 **Fact**: While the pandemic caused a temporary decline, DART's ridership has been recovering rapidly. The notion that ridership is continuously declining is misleading; recent trends show significant growth.  
 
-![Image](assets/blog/myths-facts/ridership-fy21-to-fy24)  
+![Image](assets/blog/myths-facts/ridership-fy21-to-fy24.png)  
 
 *Source: [DART Key Performance Indicators (KPIs)](https://www.dart.org/about/about-dart/key-performance-indicator) and [DART FY2025 Strategic Plan](https://dartorgcmsblob.dart.org/prod/docs/default-source/about-dart/dart-point-b-strategic-plan-june-2024.pdf?sfvrsn=2f939b41_3)*
 
