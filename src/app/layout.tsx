@@ -6,7 +6,6 @@ import { SpeedInsights } from "@vercel/speed-insights/next";
 import "./globals.css";
 import Footer from "@/app/_components/footer";
 import type { Metadata } from "next";
-import { ThemeSwitcher } from "@/app/_components/theme-switcher";
 import Container from "@/app/_components/container";
 import { Navbar } from "@/app/_components/navbar";
 
@@ -64,7 +63,6 @@ export default function RootLayout({
       <body
         className={cn(inter.className, "dark:bg-slate-900 dark:text-slate-400")}
       >
-        <ThemeSwitcher />
         <div className="min-h-screen">
           <main>
             <Container>
