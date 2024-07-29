@@ -1,34 +1,10 @@
 "use client";
 
 import { useState } from "react";
+import Link from "next/link";
+
 import { Logo } from "@/app/_components/logo";
 import { ThemeSwitcher } from "./theme-switcher";
-
-export const Navbar2 = () => {
-  const [isOpen, setIsOpen] = useState(false);
-  return (
-    <>
-      <button
-        className="btn btn-primary mb-5"
-        onClick={() => setIsOpen(!isOpen)}
-      >
-        Toggle Content
-      </button>
-      <div
-        className={`${isOpen || "hidden "} card transition-all duration-1000`}
-      >
-        <div className="card-header">
-          <h3 className="card-title">Collapsible</h3>
-        </div>
-        <div className="card-body">
-          Centralize your team information with our management tools. Access
-          detailed instructions, expert advice, and technical documentation to
-          maintain an up-to-date team directory.
-        </div>
-      </div>
-    </>
-  );
-};
 
 export const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -36,12 +12,15 @@ export const Navbar = () => {
   return (
     <nav>
       <div className="flex flex-wrap items-center justify-between mx-auto py-4">
-        <a href="/" className="flex items-center space-x-3 rtl:space-x-reverse">
-          <Logo className="w-24 max-lg:w-16" />
-          <span className="self-center text-3xl max-lg:text-2xl max-md:text-xl font-semibold whitespace-nowrap">
+        <Link
+          href="/"
+          className="flex items-center space-x-3 rtl:space-x-reverse"
+        >
+          <Logo className="w-24 max-lg:w-16 max-md:w-12" />
+          <span className="self-center text-3xl max-lg:text-2xl max-md:text-xl max-sm:text-lg max-[420px]:text-sm font-semibold whitespace-nowrap">
             Dallas Area Transit Alliance
           </span>
-        </a>
+        </Link>
         <button
           type="button"
           className="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-slate-500 rounded-lg md:hidden hover:bg-slate-100 focus:outline-none focus:ring-2 focus:ring-slate-200 dark:text-slate-400 dark:hover:bg-slate-700 dark:focus:ring-slate-600"
