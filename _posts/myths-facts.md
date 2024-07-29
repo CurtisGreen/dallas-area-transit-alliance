@@ -1,7 +1,7 @@
 ---
 title: "Myth versus Fact"
 excerpt: "There are some statements that cities or elected officials have been making that are incorrect regarding DART and their services, funding, or safety. DATA has compiled some of them and debunked every myth."
-coverImage: "/assets/blog/myth-facts/SW Med Dist Parkland-0758.jpg"
+coverImage: "/assets/blog/myths-facts/SW Med Dist Parkland-0758.jpg"
 date: "2024-07-27T05:00:00.000Z"
 author:
   name: Qui Le
