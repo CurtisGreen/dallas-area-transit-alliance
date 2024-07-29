@@ -23,10 +23,13 @@ The proposed cuts would severely affect the 220,000 daily DART passengers, espec
 
 We are building our movement rapidly and invite all transit riders and advocates to join us at our upcoming events:  
 
-* Farmers Branch Trash Pickup and Brunch on Sunday, August 4th, 9:00 AM - 1:00 PM  
-    * 12800 Denton Drive, Farmers Branch
-* General Meeting on Aunday, August 18th, 3:00 PM - 5:00 PM
-    * Address?
+**Farmers Branch Trash Pickup and Brunch on Sunday, August 4th, 9:00 AM - 1:00 PM**  
+* 12800 Denton Drive, Farmers Branch  
+* Bring gloves, trash bags, and etc...
+
+**General Meeting on Sunday, August 18th, 3:00 PM - 5:00 PM**
+* Address?
+* Details for access
 
 DATA was formed in response to the recent wave of city council resolutions aimed at reducing DART funding. Our organization represents 13 DART member cities: Dallas, Addison, Carrollton, Cockrell Hill, Farmers Branch, Garland, Glenn Heights, Highland Park, Irving, Plano, Richardson, Rowlett, and University Park.  
 
