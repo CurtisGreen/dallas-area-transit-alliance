@@ -30,21 +30,21 @@ Without careful consideration, these cuts could jeopardize critical projects lik
 ## Myth: DART's ridership is declining.
 **Fact**: While the pandemic caused a temporary decline, DART's ridership has been recovering rapidly. The notion that ridership is continuously declining is misleading; recent trends show significant growth.
 
-![Image](assets/blog/myths-facts/ridership-fy21-to-fy24.png)
+![Image](/assets/blog/myths-facts/ridership-fy21-to-fy24.png)
 
 *Source: [DART Key Performance Indicators (KPIs)](https://www.dart.org/about/about-dart/key-performance-indicator) and [DART FY2025 Strategic Plan](https://dartorgcmsblob.dart.org/prod/docs/default-source/about-dart/dart-point-b-strategic-plan-june-2024.pdf?sfvrsn=2f939b41_3)*
 
 ## Myth: DART is not addressing cleanliness and security.
 **Fact**: DART has upgraded all bus and light rail seats to vinyl for easier cleaning and has enhanced security by hiring additional officers and improving response times. Upgraded CCTV systems further bolster safety measures.
 
-![Image](assets/blog/myths-facts/lrv-vinyl-seat-photo.jpg)
+![Image](/assets/blog/myths-facts/lrv-vinyl-seat-photo.jpg)
 
 *Source: DART News Release on [Vinyl Seat Upgrade](https://dart.org/about/news-and-events/newsreleases/newsrelease-detail/dart-completes-vinyl-seat-upgrade-on-light-rail-vehicle-fleet) and on [Security Enhancements](https://www.dart.org/about/news-and-events/newsreleases/newsrelease-detail/dart-enhances-security-focus-with-contract-security-officers), [Dallas Express](https://dallasexpress.com/city/dart-focuses-on-improving-security-sanitation/)*
 
 ## Myth: DART is not investing in rider amenities.
 **Fact**: DART is modernizing its infrastructure with new Next Generation Bus Shelters designed by University of Texas at Arlington students with a focus on safety, climate control, adaptability, and enhanced rider experience. These shelters will also feature Real Time Displays for bus arrival information.
 
-![Image](assets/blog/myths-facts/dart-full-size-shelter.jpeg)
+![Image](/assets/blog/myths-facts/dart-full-size-shelter.jpeg)
 
 *Source/Attributions: [Reddit/DART Opr8r](https://www.reddit.com/r/dart/comments/1e7mgr9/next_gen_bus_shelter_lighting_standard_size/), [DART Daily](https://dartdaily.dart.org/home/architecture-students-help-design-darts-next-bus-shelters), [DART Press Release](https://www.dart.org/about/news-and-events/newsreleases/newsrelease-detail/dart-pilot-program-to-test-next-generation-bus-shelters)*
 
