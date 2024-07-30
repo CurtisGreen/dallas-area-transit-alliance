@@ -23,10 +23,10 @@ export function HeroPost({
 }: Props) {
   return (
     <section>
-        <div className="grid grid-cols-1 gap-x-8 md:grid-cols-2 mb-8">
+        <div className="grid grid-cols-1 gap-x-8 md:grid-cols-2 mt-8 mb-8 md:mb-16">
           <div className="mb-2">
-          <CoverImage title={title} src={coverImage} slug={slug} />
-        </div>
+            <CoverImage title={title} src={coverImage} slug={slug} />
+          </div>
         <div>
           <h3 className="mb-4 text-4xl lg:text-5xl">
             <Link href={`/posts/${slug}`} className="hover:underline">

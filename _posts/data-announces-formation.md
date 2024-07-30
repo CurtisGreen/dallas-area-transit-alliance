@@ -56,7 +56,6 @@ Connor Hulla, Interim Co-Chair
 Dallas Area Transit Alliance (DATA)  
 Email: [info@ridewithdata.org](mailto:info@ridewithdata.org)   
 Website: [dallasareatransitalliance.org](https://dallasareatransitalliance.org) or [ridewithdata.org](https://ridewithdata.org)  
-Phone: (214) 555-1234  
 
 **Social Media:**  
 Dallas Area Transit Alliance [Facebook Group](https://www.facebook.com/groups/7092451177524504) and [Facebook Page](https://www.facebook.com/profile.php?id=61563559341185)  
