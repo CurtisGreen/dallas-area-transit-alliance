@@ -25,11 +25,6 @@ The proposed cuts would severely affect the 220,000 daily DART passengers, espec
 
 We are building our movement rapidly and invite all transit riders and advocates to join us at our upcoming events:  
 
-**Canvassing at MLK Jr Station**
-* Wednesday, July 31st, 6:30 PM
-* [MLK Jr Station, Dallas](https://maps.app.goo.gl/1wUeFvP6cFug1eyP9)
-* Upon arrival, look for Connor Hulla
-
 **Trash Pickup & Brunch at Farmers Branch Station**  
 * Sunday, August 4th, 9:00 AM to 1:00 PM
 * [12800 Denton Drive, Farmers Branch](https://maps.app.goo.gl/qmVfaaUEvLKamUV39)
