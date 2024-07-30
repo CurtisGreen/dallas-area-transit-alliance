@@ -12,4 +12,5 @@ export type Post = {
   };
   content: string;
   preview?: boolean;
+  banner?: string;
 };
