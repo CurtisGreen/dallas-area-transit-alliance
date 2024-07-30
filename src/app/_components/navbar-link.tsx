@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { usePathname } from "next/navigation";
 
@@ -9,7 +9,9 @@ type Props = Omit<
 
 export const NavbarLink = (props: Props) => {
   const pathname = usePathname();
-  const isCurrentPage = pathname === props.href;
+  const isCurrentPage =
+    pathname === props.href ||
+    (pathname.startsWith("/posts/") && props.href === "/");
 
   return (
     <a
