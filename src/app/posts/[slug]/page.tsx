@@ -42,7 +42,7 @@ export function generateMetadata({ params }: Params): Metadata {
     return notFound();
   }
 
-  const title = `${post.title} | Dallas Area Transit Alliance`;
+  const title = `${post.title} | ${post.author.name} | Dallas Area Transit Alliance`;
 
   return {
     title,
