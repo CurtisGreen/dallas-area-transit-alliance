@@ -17,7 +17,7 @@ ogImage:
 Formation of the Dallas Area Transit Alliance (DATA)
 ---
 
-**[DALLAS, Texas, July 30, 2024 --]** Today we officially announce the formation of the Dallas Area Transit Alliance (DATA), a grassroots organization committed to the preservation and advancement of Dallas Area Rapid Transit (DART). DATA is a community of transit riders from across the Metroplex, united by the common goal of advocating for a robust and equitable public transit system.
+**[DALLAS, Texas, July 30, 2024 —]** Today we officially announce the formation of the Dallas Area Transit Alliance (DATA), a grassroots organization committed to the preservation and advancement of Dallas Area Rapid Transit (DART). DATA is a community of transit riders from across the Metroplex, united by the common goal of advocating for a robust and equitable public transit system.
 As the DFW region is projected to grow by 4 million people over the next 30 years, the necessity for a comprehensive transit system that connects the entire region has never been more pressing. DATA firmly believes that this growth cannot be sustained by highways alone—public transit must play a pivotal role.  
 
 Our immediate focus is on advocating for the continuation of the 1% sales tax allotment from DART member cities, which serves as DART's primary source of income. Recent resolutions by several city councils, including Plano, Irving, Rowlett, Carrollton, and Farmers Branch, have called for a 25% reduction in sales tax contributions to DART. While frustrations with DART's past performance are understandable, the agency has undergone tremendous positive transformation under the current CEO, Nadine Lee. Buses and trains have become more frequent, direct, and reliable, and significant investments have been made in safety and cleanliness. Major projects like the Silver Line, which will connect northern suburbs to each other and DFW Airport, are critical advancements that could be curtailed if funding is reduced.  
@@ -33,11 +33,11 @@ We are building our movement rapidly and invite all transit riders and advocates
 **General Meeting at the The Metropolitian on Sunday, August 18th, 3:00 PM - 5:00 PM**
 * [1200 Main Street, Dallas](https://maps.app.goo.gl/Lzb4EAPdPrvLsM1k9)
 * 6th Floor, Community Room
-* When you arrive please inform the concierge that you are here for a meeting in the Community Room
+* When you arrive please inform the concierge that you are here for a meeting in the Community Room  
 
 DATA was formed in response to the recent wave of [city council resolutions](/posts/dart-cuts) aimed at reducing DART funding. Our organization represents all 13 DART member cities: Dallas, Addison, Carrollton, Cockrell Hill, Farmers Branch, Garland, Glenn Heights, Highland Park, Irving, Plano, Richardson, Rowlett, and University Park.  
 
-The idea for DATA emerged during a meeting on June 15, 2024, at Cole Park in Uptown Dallas, where approximately 15 people gathered to explore the possibility of forming a group. A second meeting on July 10, 2024, at the Metropolitan Building in Downtown Dallas saw over 50 attendees, during which interim co-chairs Tyler Wright and Connor Hulla were [s]elected, and the organization's priorities were set. Our organization’s official name was chosen on July 25 after 137 people cast their votes.  
+The idea for DATA emerged during a meeting on June 15, 2024, at Cole Park in Uptown Dallas, where approximately 15 people gathered to explore the possibility of forming a group. A second meeting on July 10, 2024, at the Metropolitan Building in Downtown Dallas saw over 50 attendees, during which interim co-chairs Tyler Wright and Connor Hulla were elected, and the organization's priorities were set. Our organization’s official name was chosen on July 25 after 137 people cast their votes.  
 
 As part of our advocacy efforts, Dallas transportation advocate Hexel Colorado started a petition on [Change.org](https://www.change.org/p/protect-our-public-transit-say-no-to-dart-funding-cuts), urging the DART Board of Directors to reject proposed funding cuts. Since its launch on July 16, the petition has garnered over 1,160 signatures and counting. As stated in the petition, we call upon the DART Board of Directors to reject any proposals to reduce the sales tax contributions from the thirteen member cities. Should the board vote on this matter, we implore every board member to stand against the cuts.  
 
@@ -51,7 +51,7 @@ Tyler Wright, Interim Co-Chair
 Connor Hulla, Interim Co-Chair  
 Dallas Area Transit Alliance (DATA)  
 Email: [info@ridewithdata.org](mailto:info@ridewithdata.org)   
-Website: [dallasareatransitalliance.org](https://dallasareatransitalliance.org)  
+Website: [dallasareatransitalliance.org](https://dallasareatransitalliance.org)  and [ridewithdata.org](https://ridewithdata.org)  
 Phone: (214) 555-1234  
 
 **Social Media:**  
