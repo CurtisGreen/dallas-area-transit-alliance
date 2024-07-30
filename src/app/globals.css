@@ -1,3 +1,20 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+p {
+  margin-bottom: 1em;
+  text-wrap: pretty;
+
+  a {
+    text-decoration: underline;
+    text-decoration-style: solid;
+    text-decoration-thickness: 1px;
+    text-decoration-skip-ink: all;
+    text-underline-offset: 2px;
+  }
+}
+
+h1, h2, h3, h4, h5, h6 {
+  text-wrap: pretty;
+}
