@@ -12,7 +12,7 @@ ogImage:
 
 ====
 
-## FOR IMMEDIATE RELEASE
+## **FOR IMMEDIATE RELEASE**
 
 Formation of the Dallas Area Transit Alliance (DATA)
 ---
