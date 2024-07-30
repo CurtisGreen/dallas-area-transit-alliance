@@ -14,7 +14,7 @@ ogImage:
 
 ## FOR IMMEDIATE RELEASE
 
-Dallas, Texas -- Today we officially announce the formation of the Dallas Area Transit Alliance (DATA), a grassroots organization committed to the preservation and advancement of Dallas Area Rapid Transit (DART). DATA is a community of transit riders from across the Metroplex, united by the common goal of advocating for a robust and equitable public transit system.
+**[DALLAS, Texas, July 30, 2024 --]** Today we officially announce the formation of the Dallas Area Transit Alliance (DATA), a grassroots organization committed to the preservation and advancement of Dallas Area Rapid Transit (DART). DATA is a community of transit riders from across the Metroplex, united by the common goal of advocating for a robust and equitable public transit system.
 As the DFW region is projected to grow by 4 million people over the next 30 years, the necessity for a comprehensive transit system that connects the entire region has never been more pressing. DATA firmly believes that this growth cannot be sustained by highways alone—public transit must play a pivotal role.  
 
 Our immediate focus is on advocating for the continuation of the 1% sales tax allotment from DART member cities, which serves as DART's primary source of income. Recent resolutions by several city councils, including Plano, Irving, Rowlett, Carrollton, and Farmers Branch, have called for a 25% reduction in sales tax contributions to DART. While frustrations with DART's past performance are understandable, the agency has undergone tremendous positive transformation under the current CEO, Nadine Lee. Buses and trains have become more frequent, direct, and reliable, and significant investments have been made in safety and cleanliness. Major projects like the Silver Line, which will connect northern suburbs to each other and DFW Airport, are critical advancements that could be curtailed if funding is reduced.  
@@ -52,7 +52,7 @@ Website: [dallasareatransitalliance.org](https://dallasareatransitalliance.org)
 Phone: (214) 555-1234  
 
 **Social Media:**  
-[Dallas Area Transit Alliance Facebook Group](https://)  
+Dallas Area Transit Alliance [Facebook Group](https://) and [Facebook Page](https://)  
 @ridewithdata on [Instagram](https://instagram.com/ridewithdata) and [Twitter/X](https://twitter.com/ridewithdata)  
 
 **About DATA:**  
