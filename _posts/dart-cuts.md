@@ -8,7 +8,6 @@ author:
   picture: "/assets/blog/authors/curtis-green.jpg"
 ogImage:
   url: "/assets/blog/dart-cuts/dart-cuts.png"
-banner: "[Read our response to statements made by your elected officials.]($slug)"
 ---
 
 At the time of writing this, 5 cities have voted for and 2 cities have voted against a reduction in DART's funding by 25%. Here's how we got here and what's coming next.
