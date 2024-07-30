@@ -1,13 +1,13 @@
 ---
 title: "Background on DART cuts"
 excerpt: "At the time of writing this, 5 cities have voted for and 2 cities have voted against a reduction in DART's funding by 25%. Here's how we got here and what's coming next."
-coverImage: "/assets/blog/dart-cuts/dart-cuts.png"
+coverImage: "/assets/blog/dart-cuts/cover.png"
 date: "2024-07-26T05:00:00.000Z"
 author:
   name: Curtis Green
   picture: "/assets/blog/authors/curtis-green.jpg"
 ogImage:
-  url: "/assets/blog/dart-cuts/dart-cuts.png"
+  url: "/assets/blog/dart-cuts/cover.png"
 ---
 
 At the time of writing this, 5 cities have voted for and 2 cities have voted against a reduction in DART's funding by 25%. Here's how we got here and what's coming next.
