@@ -8,35 +8,30 @@ export default function Index() {
         Our Mission
       </div>
       <div className="text-lg">
-        Fighting for affordable, accessible, and reliable public transit for the
-        continually growing Dallas area.
+        Advocate for better public transit in the Greater Dallas area.
       </div>
       <div className="text-2xl md:text-3xl mt-8 md:mt-12 mb-4 font-bold">
         History
       </div>
       <div className="text-lg">
-        Since forming in 2024, the Dallas Area Transit Alliance (DATA) has
-        become a movement to shine a light on vital issues with public transit
-        in Dallas and the surrounding cities. DATA has mobilized to address
-        concerns with local officials and representatives, organized with our
-        local communities, and correspond with media to make our voices heard.
-        We are committed to improving public transit holistically, including
-        advocating for better land use.
+        <p><i>Dallas Area Transit Alliance</i>, or <i>DATA</i>, was formed in response to the recent wave of <a href="/posts/dart-cuts">city council resolutions</a> aimed at reducing DART funding. Our organization represents all 13 DART member cities: Dallas, Addison, Carrollton, Cockrell Hill, Farmers Branch, Garland, Glenn Heights, Highland Park, Irving, Plano, Richardson, Rowlett, and University Park.</p>
+
+        <p>The idea for DATA emerged during a meeting on June 15, 2024, at Cole Park in Uptown Dallas, where approximately 15 people gathered to explore the possibility of forming a group. A second meeting on July 10, 2024, at the Metropolitan Building in Downtown Dallas saw over 50 attendees, during which interim co-chairs Tyler Wright and Connor Hulla were elected, and the organization's priorities were set. Our organization’s official name was chosen on July 25 after 137 people cast their votes.</p>
+
+        <p>As part of our advocacy efforts, Dallas transportation advocate Hexel Colorado started a <a href="https://www.change.org/p/protect-our-public-transit-say-no-to-dart-funding-cuts">petition on Change.org</a>, urging the DART Board of Directors to reject proposed funding cuts. Since its launch on July 16, the petition has garnered over 1,160 signatures and counting. As stated in the petition, we call upon the DART Board of Directors to reject any proposals to reduce the sales tax contributions from the thirteen member cities. Should the board vote on this matter, we implore every board member to stand against the cuts.</p>
       </div>
       <div className="text-2xl md:text-3xl mt-8 md:mt-12 mb-4 font-bold">
-        Goals:
+        Goals
       </div>
       <ol className="mb-16 md:mb-12 text-lg">
         <li className="mb-1">
-          1. Ensure public transit remains a viable option for everyone in the
-          Dallas area
+          1. Safeguard the future of public transit in Greater Dallas.
         </li>
         <li className="mb-1">
-          2. Engage and collaborate with elected officials to promote transit
-          positive agendas
+          2. Compel elected officials to prioritize public transit.
         </li>
         <li className="mb-1">
-          3. Identify problem areas with transit and provide desirable solutions
+          3. Offer practical solutions to enhance public transit.
         </li>
       </ol>
     </div>
