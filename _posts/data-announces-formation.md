@@ -8,6 +8,7 @@ author:
   picture: "/assets/blog/authors/data-team.png"
 ogImage:
   url: "/assets/blog/data-announces-formation/data-meeting-july-20.webp"
+banner: "[Read our latest press release announcing our formation.]($slug)"
 ---
 
 FOR IMMEDIATE RELEASE
