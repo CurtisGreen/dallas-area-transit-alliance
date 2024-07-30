@@ -32,7 +32,7 @@ We are building our movement rapidly and invite all transit riders and advocates
 * 6th Floor, Community Room
 * When you arrive please inform the concierge that you are here for a meeting in the Community Room
 
-DATA was formed in response to the recent wave of city council resolutions aimed at reducing DART funding. Our organization represents all 13 DART member cities: Dallas, Addison, Carrollton, Cockrell Hill, Farmers Branch, Garland, Glenn Heights, Highland Park, Irving, Plano, Richardson, Rowlett, and University Park.  
+DATA was formed in response to the recent wave of [city council resolutions](/posts/dart-cuts) aimed at reducing DART funding. Our organization represents all 13 DART member cities: Dallas, Addison, Carrollton, Cockrell Hill, Farmers Branch, Garland, Glenn Heights, Highland Park, Irving, Plano, Richardson, Rowlett, and University Park.  
 
 The idea for DATA emerged during a meeting on June 15, 2024, at Cole Park in Uptown Dallas, where approximately 15 people gathered to explore the possibility of forming a group. A second meeting on July 10, 2024, at the Metropolitan Building in Downtown Dallas saw over 50 attendees, during which interim co-chairs Tyler Wright and Connor Hulla were [s]elected, and the organization's priorities were set. Our organization’s official name was chosen on July 25 after 137 people cast their votes.  
 
