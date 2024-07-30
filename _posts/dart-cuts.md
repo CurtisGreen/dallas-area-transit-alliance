@@ -8,6 +8,7 @@ author:
   picture: "/assets/blog/authors/curtis-green.jpg"
 ogImage:
   url: "/assets/blog/dart-cuts/dart-cuts.png"
+banner: "[Read our response to statements made by your elected officials.]($slug)"
 ---
 
 At the time of writing this, 5 cities have voted for and 2 cities have voted against a reduction in DART's funding by 25%. Here's how we got here and what's coming next.
@@ -36,7 +37,7 @@ June 28th - Michael Morris, the Director of Transportation at NCTCOG, sent an em
 
 > *"we see non-financially supported ideas to support transit revenues used to fund pensions and proposed sales tax reductions"*
 
-and 
+and
 
 > *"local cities claim DART isn’t listening and I’m sure DART would make the same claim"*.
 
@@ -60,7 +61,7 @@ July 11th - Irving city council had DART budget cuts on the agenda. At first, it
 Thankfully, the councils of Garland and Richardson unanimously voted in support of DART's current funding levels, a stark contrast to their neighbors. Downtown Garland and CityLine in Richardson have been seeing a lot of development efforts around their transit centers, and it's paying dividends - so maybe it's not too surprising they're against these cuts.
 
 ## Carrollton & Farmers Branch
-July 16th - Carrollton and Farmers Branch had their meetings on the same day, with the same result - but the way they went about it couldn't be any different. 
+July 16th - Carrollton and Farmers Branch had their meetings on the same day, with the same result - but the way they went about it couldn't be any different.
 
 Carrollton's agenda item was titled "Supporting Transit 2.0". It had a lot of formal text talking about what Transit 2.0 is and why they support it, but if you read all the way to the bottom, you'll see a little blurb saying that *in support of Transit 2.0, they support a 25% funding cut to DART*. Carrollton has a large Transit-Oriented Development being built around their Trinity Mills station, it has a connection to the Denton A-Train, and it's getting a new Silver Line station in Downtown Carrolton. They knew that cutting DART at this time of growth would be unpopular, so they hid it under language that sounds positive for transit.
 

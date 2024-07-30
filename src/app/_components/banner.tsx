@@ -3,12 +3,14 @@ import Container from "./container";
 import markdownToHtml from "@/lib/markdownToHtml";
 
 export async function Banner() {
-  const bannerPost = getAllPosts().find((p) => p.banner);
+  const bannerPost = getAllPosts().find((p) => p.banner !== undefined);
 
   if (!bannerPost || !bannerPost.banner) return null;
 
   const bannerContent = await markdownToHtml(
-    bannerPost.banner.replaceAll("$slug", `/posts/${bannerPost.slug}`)
+    bannerPost.banner
+      .toString()
+      .replaceAll("$slug", `/posts/${bannerPost.slug}`)
   );
 
   return (

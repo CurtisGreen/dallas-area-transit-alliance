@@ -8,7 +8,7 @@ author:
   picture: "/assets/blog/authors/jj.jpeg"
 ogImage:
   url: "/assets/blog/myths-facts/sw-med-dist-parkland-0758.jpg"
-banner: "[Read our response to statements made by your elected officials.]($slug)"
+banner: null
 ---
 
 ### Myth versus Fact
