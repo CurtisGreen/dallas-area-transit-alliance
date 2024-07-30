@@ -55,6 +55,14 @@ export const Navbar = () => {
               <NavbarLink href="/">Home</NavbarLink>
             </li>
             <li>
+              <NavbarLink
+                href="https://www.change.org/p/protect-our-public-transit-say-no-to-dart-funding-cuts"
+                target="_blank"
+              >
+                Petition
+              </NavbarLink>
+            </li>
+            <li>
               <NavbarLink href="/about">About</NavbarLink>
             </li>
             <li>
