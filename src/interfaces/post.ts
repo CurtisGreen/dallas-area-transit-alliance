@@ -1,4 +1,5 @@
 import { type Author } from "./author";
+import { type Banner } from "./banner";
 
 export type Post = {
   slug: string;
@@ -12,5 +13,5 @@ export type Post = {
   };
   content: string;
   preview?: boolean;
-  banner?: string | boolean;
+  banner?: Banner;
 };
