@@ -1,5 +1,5 @@
-import { type Author } from "./author";
-import { type Banner } from "./banner";
+import { type Author } from "@/interfaces/author";
+import { type Banner } from "@/interfaces/banner";
 
 export type Post = {
   slug: string;

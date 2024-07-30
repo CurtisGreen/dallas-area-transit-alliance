@@ -1,5 +1,5 @@
+import { BannerBody } from "@/app/_components/banner-body";
 import { getAllPosts } from "@/lib/api";
-import { BannerBody } from "./banner-body";
 
 export async function Banner() {
   const bannerPost = getAllPosts().find((p) => p.banner !== undefined);

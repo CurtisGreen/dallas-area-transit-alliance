@@ -7,8 +7,8 @@ import "./globals.css";
 import Footer from "@/app/_components/footer";
 import type { Metadata } from "next";
 import Container from "@/app/_components/container";
+import { Banner } from "@/app/_components/banner";
 import { Navbar } from "@/app/_components/navbar";
-import { Banner } from "./_components/banner";
 
 const inter = Inter({ subsets: ["latin"] });
 
