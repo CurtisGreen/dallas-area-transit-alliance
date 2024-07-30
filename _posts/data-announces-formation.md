@@ -14,6 +14,9 @@ ogImage:
 
 ## FOR IMMEDIATE RELEASE
 
+Formation of the Dallas Area Transit Alliance (DATA)
+---
+
 **[DALLAS, Texas, July 30, 2024 --]** Today we officially announce the formation of the Dallas Area Transit Alliance (DATA), a grassroots organization committed to the preservation and advancement of Dallas Area Rapid Transit (DART). DATA is a community of transit riders from across the Metroplex, united by the common goal of advocating for a robust and equitable public transit system.
 As the DFW region is projected to grow by 4 million people over the next 30 years, the necessity for a comprehensive transit system that connects the entire region has never been more pressing. DATA firmly believes that this growth cannot be sustained by highways alone—public transit must play a pivotal role.  
 
