@@ -8,6 +8,7 @@ import Footer from "@/app/_components/footer";
 import type { Metadata } from "next";
 import Container from "@/app/_components/container";
 import { Navbar } from "@/app/_components/navbar";
+import { Banner } from "./_components/banner";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -63,6 +64,7 @@ export default function RootLayout({
       <body
         className={cn(inter.className, "dark:bg-slate-900 dark:text-slate-400")}
       >
+        <Banner />
         <div className="min-h-screen">
           <main>
             <Container>
