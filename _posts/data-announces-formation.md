@@ -53,7 +53,7 @@ Phone: (214) 555-1234
 
 **Social Media:**  
 [Dallas Area Transit Alliance Facebook Group](https://)  
-@ridewithdata on [Instagram](https://instagram.com/rideiwthdata) and [Twitter/X](https://twitter.com/)  
+@ridewithdata on [Instagram](https://instagram.com/ridewithdata) and [Twitter/X](https://twitter.com/ridewithdata)  
 
 **About DATA:**  
 The Dallas Area Transit Alliance (DATA) is a grassroots organization dedicated to preserving and advancing public transit in the service area of Dallas Area Rapid Transit (DART). Founded in 2024, DATA advocates for the continued funding and improvement of services, ensuring that all residents have access to safe, reliable, and efficient public transportation.  
