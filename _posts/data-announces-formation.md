@@ -1,20 +1,20 @@
 ---
 title: "Formation of Dallas Area Transit Alliance (DATA)"
 excerpt: "Today we officially announce the formation of the Dallas Area Transit Alliance (DATA), a grassroots organization committed to the preservation and advancement of Dallas Area Rapid Transit (DART)."
-coverImage: "/assets/blog/data-announces-formation/data-meeting-july-20.webp"
+coverImage: "/assets/blog/data-announces-formation/cover.jpg"
 date: "2024-07-30T05:00:00.000Z"
 author:
   name: DATA Press Release
   picture: "/assets/blog/authors/data-team.png"
 ogImage:
-  url: "/assets/blog/data-announces-formation/data-meeting-july-20.webp"
+  url: "/assets/blog/data-announces-formation/cover.jpg"
 banner: 
   text: "Read our latest press release announcing our formation."
 ---
 
 FOR IMMEDIATE RELEASE
 
-**Formation of Dallas Area Transit Alliance (DATA)**
+**Formation of Dallas Area Transit Alliance (DATA)**  
 
 DALLAS, TEXAS — Today we officially announce the formation of the Dallas Area Transit Alliance (DATA), a grassroots organization committed to the preservation and advancement of Dallas Area Rapid Transit (DART). DATA is a community of transit riders from across the Metroplex, united by the common goal of advocating for a robust and equitable public transit system.
 
@@ -31,7 +31,7 @@ We are building our movement rapidly and invite all transit riders and advocates
 * [12800 Denton Drive, Farmers Branch](https://maps.app.goo.gl/qmVfaaUEvLKamUV39)
 * Bring gloves, trash bags, and a water bottle
 
-**General Meeting at The Metropolitan**
+**General Meeting at The Metropolitan**  
 * Sunday, August 18th, 3:00 PM to 5:00 PM
 * [1200 Main Street, Dallas](https://maps.app.goo.gl/Lzb4EAPdPrvLsM1k9)
 * 6th Floor, Community Room
@@ -47,12 +47,11 @@ Join us in our fight to ensure that public transit remains a viable and thriving
 
 ---
 
-**For more information, please contact:**   
-
+**For more information, please contact:**  
 Tyler Wright, Interim Co-Chair  
 Connor Hulla, Interim Co-Chair  
 Dallas Area Transit Alliance (DATA)  
-Email: [info@ridewithdata.org](mailto:info@ridewithdata.org)   
+Email: [info@ridewithdata.org](mailto:info@ridewithdata.org)  
 Website: [dallasareatransitalliance.org](https://dallasareatransitalliance.org) or [ridewithdata.org](https://ridewithdata.org)  
 
 **Social Media:**  
