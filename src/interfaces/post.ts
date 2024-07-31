@@ -1,4 +1,5 @@
-import { type Author } from "./author";
+import { type Author } from "@/interfaces/author";
+import { type Banner } from "@/interfaces/banner";
 
 export type Post = {
   slug: string;
@@ -12,4 +13,5 @@ export type Post = {
   };
   content: string;
   preview?: boolean;
+  banner?: Banner;
 };
