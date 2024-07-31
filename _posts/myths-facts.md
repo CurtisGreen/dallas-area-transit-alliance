@@ -5,7 +5,7 @@ coverImage: "/assets/blog/myths-facts/cover.jpg"
 date: "2024-07-27T05:00:00.000Z"
 author:
   name: Qui Le
-  picture: "/assets/blog/authors/jj.jpeg"
+  picture: "/assets/blog/authors/qui-le.jpg"
 ogImage:
   url: "/assets/blog/myths-facts/cover.jpg"
 ---
