@@ -6,12 +6,11 @@ export async function Banner() {
 
   if (
     !bannerPost ||
-    !bannerPost.banner || // redundant check to satisfy type checking
-    bannerPost.banner.hide === true
+    bannerPost.banner?.hide === true
   ) {
     return null;
   } else {
-    const bannerData = bannerPost.banner;
+    const bannerData = bannerPost.banner!;
     return (
       <BannerBody
         text={bannerData.text}
