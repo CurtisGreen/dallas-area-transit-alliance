@@ -2,19 +2,20 @@ import { BannerBody } from "@/app/_components/banner-body";
 import { getAllPosts } from "@/lib/api";
 
 export async function Banner() {
-  const bannerPost = getAllPosts().find((p) => p.banner !== undefined);
+  const bannerPost = getAllPosts().find((post) => post.banner);
 
-  if (!bannerPost || !bannerPost.banner) {
+  if (
+    !bannerPost ||
+    !bannerPost.banner || // redundant check to satisfy type checking
+    bannerPost.banner.hide === true
+  ) {
     return null;
-  } else if (typeof bannerPost.banner === "object") {
-    return (
-      <BannerBody text={bannerPost.banner.text} href={bannerPost.banner.href} />
-    );
   } else {
+    const bannerData = bannerPost.banner;
     return (
       <BannerBody
-        text={bannerPost.banner.toString()}
-        href={`/posts/${bannerPost.slug}`}
+        text={bannerData.text}
+        href={bannerData.href ? bannerData.href : `/posts/${bannerPost.slug}`}
       />
     );
   }
