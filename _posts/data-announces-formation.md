@@ -9,7 +9,7 @@ author:
 ogImage:
   url: "/assets/blog/data-announces-formation/cover.jpg"
 banner: 
-  text: "Read our latest press release announcing our formation!"
+  text: "Read our latest press release announcing our formation."
 ---
 
 FOR IMMEDIATE RELEASE
