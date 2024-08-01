@@ -39,7 +39,9 @@ export default function Index() {
         </div>
 
         <div className="mb-2 mt-10">Press Contact</div>
-        <div className="text-white">info@ridewithdata.org</div>
+        <div className="font-semibold dark:text-white dark:font-normal">
+          info@ridewithdata.org
+        </div>
       </div>
     </>
   );
