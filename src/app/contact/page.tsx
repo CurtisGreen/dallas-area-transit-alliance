@@ -4,7 +4,7 @@ import { GroupMeIcon } from "@/app/_components/groupme-icon";
 export default function Index() {
   return (
     <>
-      <h1 className="my-16 md:mb-12 text-5xl md:text-8xl font-bold tracking-tighter leading-tight md:pr-8">
+      <h1 className="my-16 md:mb-12 text-5xl md:text-7xl font-bold tracking-tighter leading-tight md:pr-8">
         Contact Us
       </h1>
       <div>
