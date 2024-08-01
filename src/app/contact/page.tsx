@@ -30,11 +30,11 @@ export default function Index() {
 
         <div className="mb-2 mt-10">Or join the conversation!</div>
         <div className="mb-4 flex gap-6">
-          <a href="https://discord.gg/ZKwDE2s4qx">
-            <DiscordIcon className="h-8 fill-slate-700 dark:fill-white hover:fill-blue-700 dark:hover:fill-blue-700" />
-          </a>
           <a href="https://groupme.com/join_group/92468276/JsoCAH57">
             <GroupMeIcon className="h-9 fill-slate-700 dark:fill-white hover:fill-blue-700 dark:hover:fill-blue-700" />
+          </a>
+          <a href="https://discord.gg/ZKwDE2s4qx">
+            <DiscordIcon className="h-8 fill-slate-700 dark:fill-white hover:fill-blue-700 dark:hover:fill-blue-700" />
           </a>
         </div>
 
