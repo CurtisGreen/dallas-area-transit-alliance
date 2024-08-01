@@ -19,6 +19,9 @@ export const metadata: Metadata = {
   openGraph: {
     images: ["/logos/logo-blue.png"],
   },
+  twitter: {
+    images: ["/logos/logo-blue.png"],
+  },
 };
 
 export default function RootLayout({
