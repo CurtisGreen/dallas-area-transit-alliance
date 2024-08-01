@@ -51,6 +51,11 @@ export function generateMetadata({ params }: Params): Metadata {
       images: [post.ogImage.url],
       description: post.excerpt,
     },
+    twitter: {
+      title,
+      images: [post.ogImage.url],
+      description: post.excerpt,
+    },
   };
 }
 
