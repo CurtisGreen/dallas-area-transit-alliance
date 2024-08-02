@@ -57,7 +57,7 @@ export const Navbar = () => {
               isOpen ? "" : "hidden"
             }`}
           >
-            <ul className="font-medium flex flex-col lg:items-center p-4 lg:p-0 border border-slate-100 rounded-lg bg-slate-50 lg:flex-row lg:space-x-8 rtl:space-x-reverse lg:border-0 lg:bg-white dark:bg-slate-800 lg:dark:bg-slate-900 dark:border-slate-700 leading-none">
+            <ul className="font-medium flex flex-col max-lg:gap-2 lg:items-center p-3 lg:p-0 border border-slate-100 rounded-lg bg-slate-50 lg:flex-row lg:space-x-8 rtl:space-x-reverse lg:border-0 lg:bg-white dark:bg-slate-800 lg:dark:bg-slate-900 dark:border-slate-700 leading-none">
               <li>
                 <NavbarLink href="/">Home</NavbarLink>
               </li>
@@ -76,7 +76,7 @@ export const Navbar = () => {
                 <NavbarLink href="/contact">Contact</NavbarLink>
               </li>
               <li>
-                <div className="flex items-center h-8 px-3 lg:h-auto lg:p-0">
+                <div className="flex items-center h-8 px-4 lg:h-auto lg:p-0">
                   <ThemeSwitcher />
                 </div>
               </li>
