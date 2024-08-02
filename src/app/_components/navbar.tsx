@@ -12,10 +12,11 @@ export const Navbar = () => {
 
   return (
     <nav>
+      {/* invisible div to catch clicking out of the mobile menu */}
       <div
         className={`fixed inset-0 ${isOpen ? "" : "hidden"}`}
         onClick={() => setIsOpen(false)}
-      ></div>
+      />
       <div className="flex flex-wrap items-center justify-between mx-auto py-4">
         <Link
           href="/"
@@ -29,7 +30,7 @@ export const Navbar = () => {
         <div className="relative">
           <button
             type="button"
-            className="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-slate-500 rounded-lg md:hidden hover:bg-slate-100 focus:outline-none focus:ring-2 focus:ring-slate-200 dark:text-slate-400 dark:hover:bg-slate-700 dark:focus:ring-slate-600"
+            className="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-slate-500 rounded-lg lg:hidden hover:bg-slate-100 focus:outline-none focus:ring-2 focus:ring-slate-200 dark:text-slate-400 dark:hover:bg-slate-700 dark:focus:ring-slate-600"
             aria-expanded="false"
             onClick={() => setIsOpen(!isOpen)}
           >
@@ -52,11 +53,11 @@ export const Navbar = () => {
           </button>
 
           <div
-            className={`md:mt-4 lg:mt-0 md:block md:w-auto max-md:absolute top-12 right-0 ${
+            className={`lg:block lg:w-auto max-lg:absolute top-12 right-0 ${
               isOpen ? "" : "hidden"
             }`}
           >
-            <ul className="font-medium flex flex-col md:items-center p-4 md:p-0 border border-slate-100 rounded-lg bg-slate-50 md:flex-row md:space-x-8 rtl:space-x-reverse md:border-0 md:bg-white dark:bg-slate-800 md:dark:bg-slate-900 dark:border-slate-700 leading-none">
+            <ul className="font-medium flex flex-col lg:items-center p-4 lg:p-0 border border-slate-100 rounded-lg bg-slate-50 lg:flex-row lg:space-x-8 rtl:space-x-reverse lg:border-0 lg:bg-white dark:bg-slate-800 lg:dark:bg-slate-900 dark:border-slate-700 leading-none">
               <li>
                 <NavbarLink href="/">Home</NavbarLink>
               </li>
@@ -75,7 +76,7 @@ export const Navbar = () => {
                 <NavbarLink href="/contact">Contact</NavbarLink>
               </li>
               <li>
-                <div className="flex items-center h-8 px-3 md:h-auto md:p-0">
+                <div className="flex items-center h-8 px-3 lg:h-auto lg:p-0">
                   <ThemeSwitcher />
                 </div>
               </li>
