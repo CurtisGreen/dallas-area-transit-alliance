@@ -1,6 +1,6 @@
 ---
 title: "August Newsletter"
-excerpt: ""
+excerpt: "Our August newsletter highlights key events, including our General Meeting on August 18 and upcoming public meetings at the DART Board and Dallas City Council."
 coverImage: "/assets/blog/august-2024-newsletter/cover.jpg"
 date: "2024-08-08T05:00:00.000Z"
 author:
