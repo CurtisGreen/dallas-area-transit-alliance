@@ -24,7 +24,7 @@ We will be discussing our strategy for two upcoming public meetings that we want
 
 ---
 
-The first meeting is the DART Board meeting at [DART Headquarters](https://maps.app.goo.gl/36uCk3suvRdJPfM47)on August 27, 2024 at 6pm, please arrive 30 minutes early to register for public comments.
+The first meeting is the DART Board meeting at [DART Headquarters](https://maps.app.goo.gl/36uCk3suvRdJPfM47) on August 27, 2024 at 6pm, please arrive 30 minutes early to register for public comments.
 
 Some members of the DART board are not very supportive of transit. Right now, there is a push among some board members to cut DART’s operating budget by 5-10% this year, and cap DART’s revenue growth. Other DART board members have expressed willingness to compromise with these cities that want to cut DART’s funding.
 
