@@ -10,7 +10,7 @@ ogImage:
   url: "/assets/blog/august-2024-newsletter/cover.jpg"
 ---
 
-We have three upcoming events that I want you to be aware of this month.  
+DATA's August newsletter highlights key events, including our General Meeting on August 18 and upcoming public meetings at the DART Board and Dallas City Council.
 
 ## August General Meeting
 
