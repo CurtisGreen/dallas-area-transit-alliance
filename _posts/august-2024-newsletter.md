@@ -38,8 +38,6 @@ We are here to to communicate 3 things
 4. Express how DART should oppose any state legislation that cuts/caps their budget
 
 
-My name is XYZ, I reside at, and I am with the **“Dallas Area Transit Alliance”, also known as DATA**, I believe that DART should…
-
 [Add to your calendar here](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MXF0OWFwc3E0YnNwbjNhc2M4cjhvMzNoMGcgY19iODQxODVmYjBjNTc5OGJmYzhkOTI2YWM1MDEzZDRlZDFmZGJkMGMzZmI3OWE5NjA2ODZmYmI5MjUwMDM3NTk1QGc&tmsrc=c_b84185fb0c5798bfc8d926ac5013d4ed1fdbd0c3fb79a960686fbb9250037595%40group.calendar.google.com)
 
 
@@ -64,10 +62,6 @@ In general, registration will open on the 22nd at 8:15 am, you can register to s
 3. Call the office at [+1 (214) 670-3738](tel:2146703738) with your name, address, phone number and meeting method (teleconference or in-person)
 
  > As a reminder, the City of Dallas limits speakers to one public comment per month so please be aware of that. You can read the full policy on the [Dallas City Council website](https://dallascityhall.com/government/citysecretary/pages/ccrules.aspx). 
-
-This is a sample script, but please change the script to get the overall message across. 
-
-My name is XYZ, I reside at, and I am with the **“Dallas Area Transit Alliance”, also known as DATA**, I believe that 
 
 [Add to your calendar here](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NzVqdjJoMGxxMGYzZTMycnU4OHFtdjRoNnEgY19iODQxODVmYjBjNTc5OGJmYzhkOTI2YWM1MDEzZDRlZDFmZGJkMGMzZmI3OWE5NjA2ODZmYmI5MjUwMDM3NTk1QGc&tmsrc=c_b84185fb0c5798bfc8d926ac5013d4ed1fdbd0c3fb79a960686fbb9250037595%40group.calendar.google.com)
 
