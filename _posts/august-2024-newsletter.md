@@ -14,42 +14,40 @@ DATA's August newsletter highlights key events, including our General Meeting on
 
 ## August General Meeting
 
----
-* August 18, 2024 from 3pm to 5pm
-* The Metropolitan Condos [1200 Main Street, Dallas](https://maps.app.goo.gl/pPBSUsQeJYZr1hxf7) 
+* August 18, 2024 from 3:00-5:00pm
+* The Metropolitan Condos at [1200 Main Street, Dallas](https://maps.app.goo.gl/pPBSUsQeJYZr1hxf7)
 * Use the Murphy Drive entrance. The meeting will be in the Community Room on the 6th floor (same room as the first general meeting).
 * We will have light snacks and refreshments available.
 
 We will be discussing our strategy for two upcoming public meetings that we want to show up in large numbers for.
 
-## DART Board Meeting
-
 ---
 
+## DART Board Meeting
+
 * August 27, 2024 at 6:00pm
-* [DART Headquarters](https://maps.app.goo.gl/36uCk3suvRdJPfM47) at Akard Station
+* DART Headquarters at Akard Station, [1401 Pacific Avenue, Dallas](https://maps.app.goo.gl/36uCk3suvRdJPfM47)
 * Please arrive 30 minutes early to register for public comments.
 
 Some members of the DART board are not very supportive of transit. Right now, there is a push among some board members to cut DART’s operating budget by 5-10% this year and cap DART’s revenue growth. Other DART board members have expressed willingness to compromise with cities that want to cut DART’s funding.
 
-By showing up, we wish to communicate these points to the DART board:
+By showing up, we wish to communicate to the DART board:
 
-1. Our opposition to these draconian budget cut resolutions, and our disappointment with the member cities who passed them
-2. More frequency/service improvements in next year's budget.
-3. Our opposition to ANY revenue capping.
-4. Express how DART should oppose any state legislation that cuts/caps their budget
+1. Our opposition to these harsh budget cut resolutions, and our disappointment with the member cities who passed them.
+2. Our opposition to ANY revenue capping.
+3. Improvements in frequency and service in next year's budget.
+4. Opposition from DART to oppose any state legislation that cuts or caps their budget.
 
 ## Dallas City Council Meeting
 
----
 * August 28, 2024 at 9:00 am
-* [City Hall](https://maps.app.goo.gl/BgTdpbSjKRe73pF88)  
+* Dallas City Hall at [1500 Marilla Street, Dallas](https://maps.app.goo.gl/BgTdpbSjKRe73pF88)  
 
 We intend to make a big showing here in support of DART funding, and we wish to communicate that we are:
 
-1. ***Opposed*** to DART Cuts
-2. ***Opposed*** to DART revenue caps
-3. ***Opposed*** to any state legislation that seeks to cap/cut DART’s revenue. We do NOT need to get the state legislature involved in DART’s budget.
+1. ***Opposed*** to DART funding cuts.
+2. ***Opposed*** to DART revenue caps.
+3. ***Opposed*** to any state legislation that seeks to cap or cut DART’s revenue. The state legislature should *not* be involved in DART’s budget.
 
 This meeting is just one day after the DART board meeting. If you can only attend one meeting, Dallas residents should prioritize this one.
 
@@ -65,4 +63,4 @@ Registration to speak at the City Council meeting will open on August 22nd at 8:
 
 As a reminder, the public meetings we plan on attending are back to back - the DART Board meeting is Tuesday evening, and the Dallas City Council meeting is Wednesday morning. If you can only attend one, Dallas residents should prioritize attending the Dallas City Council meeting.
 
-To get the latest updates and news, follow DATA's social media at [https://dallasareatransitalliance.org/contact](https://dallasareatransitalliance.org/contact).
+To get the latest updates and news, follow DATA's social media listed at [https://dallasareatransitalliance.org/contact](https://dallasareatransitalliance.org/contact).
