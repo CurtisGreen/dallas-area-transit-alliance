@@ -13,7 +13,8 @@ Hello there,
 
 We have three upcoming events that I want you to be aware of this month.  
 
-August General Meeting
+## August General Meeting
+
 ---
 First, our August General Meeting will be on August 18, 2024 from 3pm to 5pm at the Metropolitan [1200 Main Street, Dallas](https://) (Enter via Murphy Drive) on the 6th floor, same room as the first meeting we held. We will have light snacks and refreshments available.   
 
@@ -21,7 +22,8 @@ We will be discussing our strategy for two upcoming public meetings that we want
  
 [Sign Up Here](https://)
 
-DART Board Meeting
+## DART Board Meeting
+
 ---
 
 The first meeting is the DART Board meeting on August 27, 2024 at 6pm, please arrive 30 minutes early to register for public comments.
@@ -41,8 +43,7 @@ My name is XYZ, I reside at, and I am with the **“Dallas Area Transit Alliance
 Sign up for a Calendar reminder at the following link:
 > google calendar link (Need to generate ics links)
 
-Dallas City Council Meeting
----
+## Dallas City Council Meeting
 
 ---
 The second meeting is the City of Dallas City Council meeting on August 28, 2024 at 9am. We intend to make a big showing here in support of DART funding, and communicate that we are:
