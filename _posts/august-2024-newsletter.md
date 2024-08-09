@@ -59,7 +59,7 @@ Registration for public comments will close at 5pm on August 27th.If you plan on
 In general, registration will open on the 22nd at 8:15 am, you can register to speak 3 ways.
 1. Register online at [personalfinance.dallascityhall.com/speakers.aspx](https://personalfinance.dallascityhall.com/speakers.aspx)
 2. Email [secspeakerrequest@dallas.gov](mailto:secspeakerrequest@dallas.gov) with your name, address, phone number and meeting method (teleconference or in-person)
-3. Call the office at [+1 (214) 670-3738](tel:2146703738) with your name, address, phone number and meeting method (teleconference or in-person)
+3. Call the office at [+1 (214) 670-3738](tel:+12146703738) with your name, address, phone number and meeting method (teleconference or in-person)
 
  > As a reminder, the City of Dallas limits speakers to one public comment per month so please be aware of that. You can read the full policy on the [Dallas City Council website](https://dallascityhall.com/government/citysecretary/pages/ccrules.aspx). 
 
