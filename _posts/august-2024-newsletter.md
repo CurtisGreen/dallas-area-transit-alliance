@@ -63,6 +63,6 @@ Registration to speak at the City Council meeting will open on August 22nd at 8:
 
  > NOTE: The City of Dallas limits speakers to one public comment per month, so please be wary of that. You can read the full policy on the [Dallas City Council website](https://dallascityhall.com/government/citysecretary/pages/ccrules.aspx).
 
-The DART board meeting and the Dallas City Council Meeting we plan on attending are back to back, the board meeting is Tuesday Evening, the Dallas City Council meeting is Wednesday morning.
+As a reminder, the public meetings we plan on attending are back to back - the DART Board meeting is Tuesday evening, and the Dallas City Council meeting is Wednesday morning. If you can only attend one, Dallas residents should prioritize attending the Dallas City Council meeting.
 
-Please make sure to follow all of our social media for the latest updates and news.
+To get the latest updates and news, follow DATA's social media at [https://dallasareatransitalliance.org/contact](https://dallasareatransitalliance.org/contact).
