@@ -44,6 +44,7 @@ Sign up for a Calendar reminder at the following link:
 Dallas City Council Meeting
 ---
 
+---
 The second meeting is the City of Dallas City Council meeting on August 28, 2024 at 9am. We intend to make a big showing here in support of DART funding, and communicate that we are:
 
 
