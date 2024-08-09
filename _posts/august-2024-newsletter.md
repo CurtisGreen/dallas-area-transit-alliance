@@ -2,15 +2,13 @@
 title: "August Newsletter"
 excerpt: "Our August newsletter highlights key events, including our General Meeting on August 18 and upcoming public meetings at the DART Board and Dallas City Council."
 coverImage: "/assets/blog/august-2024-newsletter/cover.jpg"
-date: "2024-08-08T05:00:00.000Z"
+date: "2024-08-09T05:00:00.000Z"
 author:
   name: DATA Newsletter
   picture: "/assets/blog/authors/data-team.png"
 ogImage:
   url: "/assets/blog/august-2024-newsletter/cover.jpg"
 ---
-
-Hello there,  
 
 We have three upcoming events that I want you to be aware of this month.  
 
@@ -29,10 +27,10 @@ The first meeting is the DART Board meeting at [DART Headquarters](https://maps.
 
 Some members of the DART board are not very supportive of transit. Right now, there is a push among some board members to cut DART’s operating budget by 5-10% this year, and cap DART’s revenue growth. Other DART board members have expressed willingness to compromise with these cities that want to cut DART’s funding.
 
-We are here to to communicate 3 things
+We are here to to communicate 4 things
 
-1. More frequency/service improvements in next year's budget.
-2. Our opposition to these draconian budget cut resolutions, and our disappointment with the member cities who passed them
+1. Our opposition to these draconian budget cut resolutions, and our disappointment with the member cities who passed them
+2. More frequency/service improvements in next year's budget.
 3. Our opposition to ANY revenue capping.
 4. Express how DART should oppose any state legislation that cuts/caps their budget
 
@@ -60,5 +58,3 @@ Registration will open on the 22nd at 8:15 am, you can register to speak 3 ways.
 The DART board meeting and the Dallas City Council Meeting we plan on attending are back to back, the board meeting is Tuesday Evening, the Dallas City Council meeting is Wednesday morning.
 
 Please make sure to follow all of our social media for the latest updates and news.
-
-Thanks,
