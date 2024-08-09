@@ -67,6 +67,4 @@ In general, registration will open on the 22nd at 8:15 am, you can register to s
 
 The DART board meeting and the Dallas City Council Meeting we plan on attending are back to back, the board meeting is Tuesday Evening, the Dallas City Council meeting is Wednesday morning.
 
-If you are only able to attend one of these meetings, Dallas residents should prioritize the City Council meetings.
-
 Thanks,
