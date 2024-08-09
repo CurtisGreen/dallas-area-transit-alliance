@@ -20,7 +20,7 @@ First, our August General Meeting will be on August 18, 2024 from 3pm to 5pm at 
 
 We will be discussing our strategy for two upcoming public meetings that we want to show up in large numbers for.
  
-[Add to your calendar here](https://)
+[Add to your calendar here](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MXJjM2szYnViaTQ1ajhuZGdhNzIzOHYyaWIgY19iODQxODVmYjBjNTc5OGJmYzhkOTI2YWM1MDEzZDRlZDFmZGJkMGMzZmI3OWE5NjA2ODZmYmI5MjUwMDM3NTk1QGc&tmsrc=c_b84185fb0c5798bfc8d926ac5013d4ed1fdbd0c3fb79a960686fbb9250037595%40group.calendar.google.com)
 
 ## DART Board Meeting
 
@@ -40,7 +40,7 @@ We are here to to communicate 3 things
 
 My name is XYZ, I reside at, and I am with the **“Dallas Area Transit Alliance”, also known as DATA**, I believe that DART should…
 
-[Add to your calendar here](https://)
+[Add to your calendar here](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MXF0OWFwc3E0YnNwbjNhc2M4cjhvMzNoMGcgY19iODQxODVmYjBjNTc5OGJmYzhkOTI2YWM1MDEzZDRlZDFmZGJkMGMzZmI3OWE5NjA2ODZmYmI5MjUwMDM3NTk1QGc&tmsrc=c_b84185fb0c5798bfc8d926ac5013d4ed1fdbd0c3fb79a960686fbb9250037595%40group.calendar.google.com)
 
 
 ## Dallas City Council Meeting
@@ -69,11 +69,10 @@ This is a sample script, but please change the script to get the overall message
 
 My name is XYZ, I reside at, and I am with the **“Dallas Area Transit Alliance”, also known as DATA**, I believe that 
 
-[Add to your calendar here](https://)
+[Add to your calendar here](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NzVqdjJoMGxxMGYzZTMycnU4OHFtdjRoNnEgY19iODQxODVmYjBjNTc5OGJmYzhkOTI2YWM1MDEzZDRlZDFmZGJkMGMzZmI3OWE5NjA2ODZmYmI5MjUwMDM3NTk1QGc&tmsrc=c_b84185fb0c5798bfc8d926ac5013d4ed1fdbd0c3fb79a960686fbb9250037595%40group.calendar.google.com)
 
 The DART board meeting and the Dallas City Council Meeting we plan on attending are back to back, the board meeting is Tuesday Evening, the Dallas City Council meeting is Wednesday morning.
 
 If you are only able to attend one of these meetings, Dallas residents should prioritize the City Council meetings.
 
-Follow us on our new social media channels and check out our [Linktree](https://)
 Thanks,
