@@ -57,11 +57,11 @@ This meeting is just one day after the DART board meeting. If you can only atten
 Registration for public comments will close at 5pm on August 27th.If you plan on attending this meeting in-person, please let us know so we can get a count. The City of Dallas also allows speaking virtually as an option in the event you are unable to attend due to other obligations.
 
 In general, registration will open on the 22nd at 8:15 am, you can register to speak 3 ways.
-1. Register online at https://personalfinance.dallascityhall.com/speakers.aspx
-2. Email secspeakerrequest@dallas.gov with your name, address, phone number and meeting method (teleconference or in-person)
-3. Call the office at +1 (214) 670-3738 with your name, address, phone number and meeting method (teleconference or in-person)
+1. Register online at [personalfinance.dallascityhall.com/speakers.aspx](https://personalfinance.dallascityhall.com/speakers.aspx)
+2. Email [secspeakerrequest@dallas.gov](mailto:secspeakerrequest@dallas.gov) with your name, address, phone number and meeting method (teleconference or in-person)
+3. Call the office at [+1 (214) 670-3738](tel:2146703738) with your name, address, phone number and meeting method (teleconference or in-person)
 
- > As a reminder, the City of Dallas limits speakers to one public comment per month so please be aware of that. You can read the full policy on the Dallas City Council website. 
+ > As a reminder, the City of Dallas limits speakers to one public comment per month so please be aware of that. You can read the full policy on the [Dallas City Council website](https://dallascityhall.com/government/citysecretary/pages/ccrules.aspx). 
 
 This is a sample script, but please change the script to get the overall message across. 
 
