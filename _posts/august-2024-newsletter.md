@@ -17,7 +17,7 @@ We have three upcoming events that I want you to be aware of this month.
 ---
 * August 18, 2024 from 3pm to 5pm
 * The Metropolitan Condos [1200 Main Street, Dallas](https://maps.app.goo.gl/pPBSUsQeJYZr1hxf7) 
-* (Enter via Murphy Drive)
+* Enter via Murphy Drive
 * Same room as the first meeting we held on the 6th Floor. We will have light snacks and refreshments available.
 
 We will be discussing our strategy for two upcoming public meetings that we want to show up in large numbers for.
