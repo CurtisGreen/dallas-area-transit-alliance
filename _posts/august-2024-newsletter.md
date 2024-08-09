@@ -20,7 +20,7 @@ First, our August General Meeting will be on August 18, 2024 from 3pm to 5pm at 
 
 We will be discussing our strategy for two upcoming public meetings that we want to show up in large numbers for.
  
-[Sign Up Here](https://)
+[Add to your calendar here](https://)
 
 ## DART Board Meeting
 
@@ -40,8 +40,8 @@ We are here to to communicate 3 things
 
 My name is XYZ, I reside at, and I am with the **“Dallas Area Transit Alliance”, also known as DATA**, I believe that DART should…
 
-Sign up for a Calendar reminder at the following link:
-> google calendar link (Need to generate ics links)
+[Add to your calendar here](https://)
+
 
 ## Dallas City Council Meeting
 
@@ -69,9 +69,7 @@ This is a sample script, but please change the script to get the overall message
 
 My name is XYZ, I reside at, and I am with the **“Dallas Area Transit Alliance”, also known as DATA**, I believe that 
 
-Sign up for a Calendar reminder at the following link:
-> google calendar link
-
+[Add to your calendar here](https://)
 
 The DART board meeting and the Dallas City Council Meeting we plan on attending are back to back, the board meeting is Tuesday Evening, the Dallas City Council meeting is Wednesday morning.
 
