@@ -51,7 +51,7 @@ We intend to make a big showing here in support of DART funding, and we wish to 
 
 This meeting is just one day after the DART board meeting. If you can only attend one meeting, Dallas residents should prioritize this one.
 
-Registration for public comments will close at 5pm on August 27th. If you plan to attend this meeting in-person, please let us know so we can get a count. The City of Dallas also allows speaking virtually as an option in case you cannot attend in-person.
+Registration for public comments will close at 5pm on Tuesday, August 27th. If you plan to attend this meeting in-person, please let us know so we can get a count. The City of Dallas also allows speaking virtually as an option in case you cannot attend in-person.
 
 Registration to speak at the City Council meeting will open on Thursday, August 22nd at 8:15 am. There are 3 ways to register:
 
