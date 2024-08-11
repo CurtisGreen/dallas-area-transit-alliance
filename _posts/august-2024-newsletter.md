@@ -14,7 +14,7 @@ DATA's August newsletter highlights key events, including our General Meeting on
 
 ## August General Meeting
 
-* August 18, 2024 from 3:00-5:00pm
+* Sunday, August 18, 2024 from 3:00-5:00pm
 * The Metropolitan Condos at [1200 Main Street, Dallas](https://maps.app.goo.gl/pPBSUsQeJYZr1hxf7)
 * Use the Murphy Drive entrance. The meeting will be in the Community Room on the 6th floor (same room as the first general meeting).
 * We will have light snacks and refreshments available.
@@ -25,7 +25,7 @@ We will be discussing our strategy for two upcoming public meetings that we want
 
 ## DART Board Meeting
 
-* August 27, 2024 at 6:00pm
+* Tuesday, August 27, 2024 at 6:00pm
 * DART Headquarters at Akard Station, [1401 Pacific Avenue, Dallas](https://maps.app.goo.gl/36uCk3suvRdJPfM47)
 * Please arrive 30 minutes early to register for public comments.
 
@@ -40,7 +40,7 @@ By showing up, we wish to communicate to the DART board:
 
 ## Dallas City Council Meeting
 
-* August 28, 2024 at 9:00 am
+* Wednesday, August 28, 2024 at 9:00 am
 * Dallas City Hall at [1500 Marilla Street, Dallas](https://maps.app.goo.gl/BgTdpbSjKRe73pF88)  
 
 We intend to make a big showing here in support of DART funding, and we wish to communicate that we are:
@@ -51,9 +51,9 @@ We intend to make a big showing here in support of DART funding, and we wish to 
 
 This meeting is just one day after the DART board meeting. If you can only attend one meeting, Dallas residents should prioritize this one.
 
-Registration for public comments will close at 5pm on August 27th. If you plan to attend this meeting in-person, please let us know so we can get a count. The City of Dallas also allows speaking virtually as an option in case you cannot attend in-person.
+Registration for public comments will close at 5pm on Tuesday, August 27th. If you plan to attend this meeting in-person, please let us know so we can get a count. The City of Dallas also allows speaking virtually as an option in case you cannot attend in-person.
 
-Registration to speak at the City Council meeting will open on August 22nd at 8:15 am. There are 3 ways to register:
+Registration to speak at the City Council meeting will open on Thursday, August 22nd at 8:15 am. There are 3 ways to register:
 
 1. Register online at [personalfinance.dallascityhall.com/speakers.aspx](https://personalfinance.dallascityhall.com/speakers.aspx).
 2. Email [secspeakerrequest@dallas.gov](mailto:secspeakerrequest@dallas.gov) with your name, address, phone number, and meeting method (teleconference or in-person).
