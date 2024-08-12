@@ -24,6 +24,7 @@
 .markdown blockquote {
   @apply m-4 px-4 py-1 border-l-2 rounded-sm border-inherit;
 }
+
 .markdown code {
   @apply text-wrap: wrap;
 }
