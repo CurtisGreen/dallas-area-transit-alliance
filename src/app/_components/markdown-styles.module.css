@@ -10,11 +10,23 @@
 }
 
 .markdown ul {
-  @apply list-disc list-inside;
+  @apply list-disc list-inside my-2;
+}
+
+.markdown ul ul {
+  @apply ml-8 list-circle list-inside;
+}
+
+.markdown ul p {
+  @apply inline;
 }
 
 .markdown ol {
   @apply list-decimal list-inside;
+}
+
+.markdown li + li {
+  @apply mt-1;
 }
 
 .markdown a {
@@ -23,6 +35,10 @@
 
 .markdown blockquote {
   @apply m-4 px-4 py-1 border-l-2 rounded-sm border-inherit;
+}
+
+.markdown code {
+  @apply text-wrap;
 }
 
 .markdown h2 {

@@ -27,6 +27,10 @@ const config: Config = {
       letterSpacing: {
         tighter: "-.04em",
       },
+      listStyleType: {
+        circle: "circle",
+        disc: "disc",
+      },
       fontSize: {
         "5xl": "2.5rem",
         "6xl": "2.75rem",

@@ -18,9 +18,9 @@ DATA's August newsletter highlights key events, including our General Meeting on
 https://dart.org/about/about-dart/board-members  
 
 DART board contact list:
-> ```
-> GASlagel@dart.org , RSchlosser@dart.org, MNBarbera@dart.org, FMHernandez@dart.org, MCEnoch@dart.org, PNWageman@dart.org, RHStopfer@dart.org, MWKrause@dart.org, PJKennedy@dart.org, DHrbacek@dart.org, CGarcia3@dart.org, MAbraham@dart.org, EMacGregor@dart.org, DDAlexander@dart.org , RBBryant@dart.org
-> ```   
+```
+GASlagel@dart.org , RSchlosser@dart.org, MNBarbera@dart.org, FMHernandez@dart.org, MCEnoch@dart.org, PNWageman@dart.org, RHStopfer@dart.org, MWKrause@dart.org, PJKennedy@dart.org, DHrbacek@dart.org, CGarcia3@dart.org, MAbraham@dart.org, EMacGregor@dart.org, DDAlexander@dart.org , RBBryant@dart.org
+```   
 
 ## Attend DART Board meeting on August 13th 2024 to Address Board about your opposition to Caps and Cuts  
 * Meeting is at DART Headquarters at Akard Station, [1401 Pacific Avenue, Dallas](https://maps.app.goo.gl/36uCk3suvRdJPfM47)
@@ -30,13 +30,13 @@ DART board contact list:
 
 * These Scenarios drastically reduce service, employee benefits, and even entire routes if they were to pass. The 3% cap would include:
 * Reductions in expansion of Armed Security guard contract, which will eliminate expanded security coverage at employee facilities, Silver Line, or clean teams
-    * This may concern Blake Margolis, mayor of Rowlett. He presided over a resolution to cut DART’s funding in part due to safety and fare enforcement concerns
+  * This may concern Blake Margolis, mayor of Rowlett. He presided over a resolution to cut DART’s funding in part due to safety and fare enforcement concerns
 * Light-Rail frequency improvements on weekends will be halted
-    * At least that means Farmers Branch City Councilor Richard Jackson will not have to worry about as much trash coming into Farmers Branch on DART trains. 
+  * At least that means Farmers Branch City Councilor Richard Jackson will not have to worry about as much trash coming into Farmers Branch on DART trains. 
 * Reversal of new and improved bus routes and service included in FY2024 budget
 * Non-performing routes at risk of reduction or elimination: 45 Marsalis (reduction), 234 Parker, 245 Shiloh, Lakewood GoLink zone
 * High passenger subsidy routes to be elimintated: 305 Addison Express, 308 NW Plano Express, 378 Red Bird Express, 383 Lake Ray Hubbard Express
-    * Many of these routes are in Plano, which might trouble the city manager, Mike Israelsson, who wants to cut funding in part due to empty buses on one-hour intervals
+  * Many of these routes are in Plano, which might trouble the city manager, Mike Israelsson, who wants to cut funding in part due to empty buses on one-hour intervals
 * Other routes to be eliminated: 402 NorthPark Shuttle, South Dallas GoLink, Inland Port GoLink
 
 The 0% Cap, which effectively means no increase in operating funds, would entail service cuts across all modes and increased route eliminations. Additionally, it would drastically reduce contracted work like clean-teams and security officers and reduce preventative maintenance. 
@@ -61,7 +61,7 @@ Thank You,
 
 DART board contact list:
 ```
-GASlagel@dart.org , RSchlosser@dart.org, MNBarbera@dart.org, FMHernandez@dart.org, MCEnoch@dart.org, PNWageman@dart.org, RHStopfer@dart.org, MWKrause@dart.org, PJKennedy@dart.org, DHrbacek@dart.org, CGarcia3@dart.org, MAbraham@dart.org, EMacGregor@dart.org, DDAlexander@dart.org , RBBryant@dart.org
+GASlagel@dart.org, RSchlosser@dart.org, MNBarbera@dart.org, FMHernandez@dart.org, MCEnoch@dart.org, PNWageman@dart.org, RHStopfer@dart.org, MWKrause@dart.org, PJKennedy@dart.org, DHrbacek@dart.org, CGarcia3@dart.org, MAbraham@dart.org, EMacGregor@dart.org, DDAlexander@dart.org, RBBryant@dart.org
 ```   
 
 To get the latest updates and news, follow DATA's social media listed at [https://dallasareatransitalliance.org/contact](https://dallasareatransitalliance.org/contact).
