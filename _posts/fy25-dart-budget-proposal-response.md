@@ -31,7 +31,7 @@ banner:
 * Reductions in expansion of Armed Security guard contract, which will eliminate expanded security coverage at employee facilities, Silver Line, or clean teams
   * This may concern Blake Margolis, mayor of Rowlett. He presided over a resolution to cut DART’s funding [in part due to safety and fare enforcement concerns](https://www.dallasnews.com/opinion/commentary/2024/07/15/mayor-of-rowlett-dart-needs-to-be-more-efficient/).
 * Scheduled improvements to weekend Light-Rail frequency will be halted
-  * At least that means Farmers Branch City Councilor Richard Jackson will not have to worry about as much [trash coming into Farmers Branch on DART trains](https://www.keranews.org/transportation/2024-07-17/farmers-branch-council-member-accused-of-calling-dart-riders-trash)
+  * At least, Farmers Branch City Councilor Richard Jackson will be relieved about less [trash coming into Farmers Branch on DART trains](https://www.keranews.org/transportation/2024-07-17/farmers-branch-council-member-accused-of-calling-dart-riders-trash)
 * Reversal of new and improved bus routes and service included in FY2024 budget
 * Non-performing routes at risk of reduction or elimination: 45 Marsalis (reduction), 234 Parker, 245 Shiloh, Lakewood GoLink zone
 * High passenger subsidy routes to be elimintated: 305 Addison Express, 308 NW Plano Express, 378 Red Bird Express, 383 Lake Ray Hubbard Express
