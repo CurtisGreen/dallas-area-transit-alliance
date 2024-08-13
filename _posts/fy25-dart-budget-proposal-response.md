@@ -43,15 +43,18 @@ banner:
 Hello DART Board of Directors,
 
 My name is **[NAME]** and I am a resident of **[CITY]** and rider of DART. The Dallas Area Transit Alliance (DATA) has informed me of some concerning scenarios in the proposed FY2025 budget. The 3% cap scenario would drastically reduce DART service and prevent the expansion needed to address the member city’s concerns with cleanliness and safety. **[Add personal stake related to cuts above if you might be affected by them]**. The 0% cap scenario would be disastrous for the agency and for my ability to use the DART system to get to my job and visit my friends and family. I am writing in firm opposition to any cuts or caps of DART’s budget in FY2025.
-This is a time of unprecedented growth for the DFW region, and it is not reasonable to expect that automobiles alone would be able to meet the mobility needs of the growing region. I ask you and the rest of the DART board to support continued growth of DART during this time, not curtail its ability to serve a growing region. 
+
+This is a time of unprecedented growth for the DFW region, and it is not reasonable to expect that automobiles alone would be able to meet the mobility needs of the growing region. I ask you and the rest of the DART board to support continued growth of DART during this time, not curtail its ability to serve a growing region.
+
 I support increases in the budget to enable increased light-rail and bus frequency across the service area, such as the increased weekend light rail frequency slated for September 2024. Eliminating caps on operating budget growth would also empower DART to hire additional security personnel and cleaning teams to address the concerns cited by member city officials related to safety and cleanliness.
+
 I urge you to continue advocating for DART by rejecting any proposed caps or cuts to the FY2025 budget.
 
 Thank You,
 
 **[Your Name]**
 
-DART board contact list:
+## DART board contact list:
 ```
 GASlagel@dart.org, RSchlosser@dart.org, MNBarbera@dart.org, FMHernandez@dart.org, MCEnoch@dart.org, PNWageman@dart.org, RHStopfer@dart.org, MWKrause@dart.org, PJKennedy@dart.org, DHrbacek@dart.org, CGarcia3@dart.org, MAbraham@dart.org, EMacGregor@dart.org, DDAlexander@dart.org, RBBryant@dart.org
 ```
