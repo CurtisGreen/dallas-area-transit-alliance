@@ -1,13 +1,13 @@
 ---
 title: "DATA responds to DART FY2025 Budget Proposal"
 excerpt: "Oppose DART Funding Caps and Cuts"
-coverImage: "/assets/blog/fy25-dart-budget-proposal-response/cover.jpg"
+coverImage: "/assets/blog/fy25-dart-budget-proposal-response/cover.png"
 date: "2024-08-12T05:00:00.000Z"
 author:
   name: DATA Alert
   picture: "/assets/blog/authors/data-team.png"
 ogImage:
-  url: "/assets/blogfy25-dart-budget-proposal-response/cover.jpg"
+  url: "/assets/blogfy25-dart-budget-proposal-response/cover.png"
 banner: 
   text: "ACTION REQUESTED: EMAIL YOUR DART BOARD ABOUT THE UPCOMING FY2025 DART BUDGET PROPOSALS"
 ---
