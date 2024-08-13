@@ -14,7 +14,7 @@
 }
 
 .markdown ul ul {
-  @apply ml-8 list-circle list-inside;
+  @apply ml-10 list-circle list-inside;
 }
 
 .markdown ul p {
@@ -26,7 +26,7 @@
 }
 
 .markdown li + li {
-  @apply mt-1;
+  @apply mt-2;
 }
 
 .markdown a {
