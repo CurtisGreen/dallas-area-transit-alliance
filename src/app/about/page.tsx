@@ -62,6 +62,7 @@ export default function Index() {
           3. Offer practical solutions to enhance public transit.
         </li>
         </ol>
+        </div>
       <div>
         <iframe 
           src="https://docs.google.com/forms/d/e/1FAIpQLSeE-SrnsbjniO7I0BkdHourNdQYO_MKaYhKa6iQjN63_eubBg/viewform?embedded=true" 
