@@ -53,6 +53,5 @@ export default function Index() {
           </iframe>
         </div>
       </div>
-    </div>
   );
 }
