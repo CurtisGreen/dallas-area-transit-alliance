@@ -1,6 +1,6 @@
 export default function Index() {
   return (
-    <><div className="leading-tight">
+    <div className="leading-tight">
       <div className="my-12 md:my-16 md:mb-12 text-5xl md:text-7xl font-bold tracking-tighter">
         About Us
       </div>
@@ -62,6 +62,8 @@ export default function Index() {
           3. Offer practical solutions to enhance public transit.
         </li>
       </ol>
+    </div>
+    <div><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeE-SrnsbjniO7I0BkdHourNdQYO_MKaYhKa6iQjN63_eubBg/viewform?embedded=true" width="640" height="2875" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></>
     </div>
   );
 }
