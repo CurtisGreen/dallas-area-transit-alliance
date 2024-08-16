@@ -43,7 +43,7 @@ export default function Index() {
          <a href="mailto:info@ridewithdata.org">info@ridewithdata.org</a>
         </div>
         
-        <div className="mb-2 mt-10">Contact Us</div>
+        <div className="mb-2 mt-10">Subscribe to our Newsletter</div>
         <div>
           <iframe
             src="https://docs.google.com/forms/d/e/1FAIpQLSeE-SrnsbjniO7I0BkdHourNdQYO_MKaYhKa6iQjN63_eubBg/viewform?embedded=true"
