@@ -71,7 +71,6 @@ export default function Index() {
           frameBorder="0" 
           marginHeight="0" 
           marginWidth="0">
-          Loading…
         </iframe>
       </div>
     </div>
