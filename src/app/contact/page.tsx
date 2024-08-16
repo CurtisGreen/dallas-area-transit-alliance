@@ -51,8 +51,7 @@ export default function Index() {
             height="2875"
             frameBorder="0"
             marginHeight="0"
-            marginWidth="0"
-          >
+            marginWidth="0">
           </iframe>
         </div>
       </div>
