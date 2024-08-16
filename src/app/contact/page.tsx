@@ -40,18 +40,22 @@ export default function Index() {
 
         <div className="mb-2 mt-10">Press Contact</div>
         <div className="font-semibold dark:text-white dark:font-normal">
-         <a href="mailto:info@ridewithdata.org">info@ridewithdata.org</a>
-        <div classname="mb-2 mt-10">Contact Us</div>
+          <a href="mailto:info@ridewithdata.org">info@ridewithdata.org</a>
+        </div>
+        
+        <div className="mb-2 mt-10">Contact Us</div>
         <div>
           <iframe
-          src="https://docs.google.com/forms/d/e/1FAIpQLSeE-SrnsbjniO7I0BkdHourNdQYO_MKaYhKa6iQjN63_eubBg/viewform?embedded=true"
-          width="640"
-          height="2875"
-          frameBorder="0"
-          marginHeight="0"
-          marginWidth="0">
+            src="https://docs.google.com/forms/d/e/1FAIpQLSeE-SrnsbjniO7I0BkdHourNdQYO_MKaYhKa6iQjN63_eubBg/viewform?embedded=true"
+            width="640"
+            height="2875"
+            frameBorder="0"
+            marginHeight="0"
+            marginWidth="0"
+          >
           </iframe>
         </div>
       </div>
+    </>
   );
 }
