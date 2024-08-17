@@ -27,7 +27,6 @@ export default function Index() {
             <BlueskyIcon className="h-8" />
           </a>
         </div>
-
         <div className="mb-2 mt-10">Or join the conversation!</div>
         <div className="mb-4 flex gap-6">
           <a href="https://groupme.com/join_group/92468276/JsoCAH57">
@@ -37,11 +36,15 @@ export default function Index() {
             <DiscordIcon className="h-8 fill-slate-700 dark:fill-white hover:fill-blue-700 dark:hover:fill-blue-700" />
           </a>
         </div>
-
         <div className="mb-2 mt-10">Press Contact</div>
         <div className="font-semibold dark:text-white dark:font-normal">
-         <a href="mailto:info@ridewithdata.org">info@ridewithdata.org</a>
+          <a href="mailto:info@ridewithdata.org">info@ridewithdata.org</a>
         </div>
+        <div className="mb-2 mt-10">Subscribe to our Newsletter</div>
+        <iframe
+          src="https://docs.google.com/forms/d/e/1FAIpQLSeE-SrnsbjniO7I0BkdHourNdQYO_MKaYhKa6iQjN63_eubBg/viewform?embedded=true"
+          className="block dark:invert dark:brightness-75 dark:grayscale w-[350px] md:w-[600px] h-[4100px] md:h-[3300px] ml-[-15px] md:ml-[-30px]"
+        />
       </div>
     </>
   );
