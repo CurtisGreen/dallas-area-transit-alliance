@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 const scheduleData = [
   {
     title: "Week Without Driving",
@@ -16,10 +18,10 @@ const scheduleData = [
     points: [
       "Wednesday, August 28th, 9AM",
       "Dallas City Hall at 1500 Marilla Street, Dallas",
-      "Dallas residents should prioritize attending this over the 27th DART board meeting",
-      <a href="/posts/august-2024-newsletter" className="underline">
+      "Dallas residents should prioritize attending this over the DART board meeting",
+      <Link href="/posts/august-2024-newsletter" className="underline">
         More info
-      </a>,
+      </Link>,
     ],
   },
   {
@@ -28,14 +30,14 @@ const scheduleData = [
     points: [
       "Tuesday, August 27th, 5:30PM",
       "DART Headquarters at Akard Station, 1401 Pacific Avenue",
-      <a href="/posts/august-2024-newsletter" className="underline">
+      <Link href="/posts/august-2024-newsletter" className="underline">
         More info
-      </a>,
+      </Link>,
     ],
   },
   {
     title: "Trash Pickup & Brunch at Farmers Branch Station",
-    date: new Date("2024-08-18 15:00-05:00"),
+    date: new Date("2024-08-04 09:00-05:00"),
     points: ["Sunday, August 4th, 9AM", "12800 Denton Drive, Farmers Branch"],
   },
   {
@@ -58,7 +60,7 @@ const scheduleData = [
 
 export default function Index() {
   return (
-    <div className="leading-tight">
+    <div className="leading-tight mb-10">
       <div className="my-12 md:my-16 md:mb-12 text-5xl md:text-7xl font-bold tracking-tighter">
         Calendar
       </div>
@@ -71,10 +73,10 @@ export default function Index() {
         .sort((a, b) => a.date.valueOf() - b.date.valueOf())
         .map(({ title, date, points }) => (
           <div key={date.valueOf()}>
-            <div className="text-lg mt-8">{title}</div>
+            <div className="text-lg mt-8 font-medium">{title}</div>
             <ul>
               {points.map((point) => (
-                <li>{point}</li>
+                <li key={point.toString()}>{point}</li>
               ))}
             </ul>
           </div>
@@ -85,13 +87,13 @@ export default function Index() {
       </div>
       {scheduleData
         .filter(({ date }) => date.valueOf() < Date.now())
-        .sort((a, b) => a.date.valueOf() - b.date.valueOf())
+        .sort((a, b) => b.date.valueOf() - a.date.valueOf())
         .map(({ title, date, points }) => (
           <div key={date.valueOf()}>
             <div className="text-lg mt-5">{title}</div>
             <ul>
               {points.map((point) => (
-                <li>{point}</li>
+                <li key={point.toString()}>{point}</li>
               ))}
             </ul>
           </div>
