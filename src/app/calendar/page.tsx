@@ -8,7 +8,7 @@ const scheduleData = [
       "Monday, September 30th - Sunday October 6th, 2024",
       "Partnering with Dallas Bicycle Coalition",
       <a href="https://weekwithoutdriving.org/" className="underline">
-        More info
+        Week Without Driving website
       </a>,
     ],
   },
@@ -20,7 +20,7 @@ const scheduleData = [
       "Dallas City Hall at 1500 Marilla Street, Dallas",
       "Dallas residents should prioritize attending this over the DART board meeting",
       <Link href="/posts/august-2024-newsletter" className="underline">
-        More info
+        Speaking info & advice
       </Link>,
     ],
   },
@@ -31,7 +31,7 @@ const scheduleData = [
       "Tuesday, August 27th, 5:30PM",
       "DART Headquarters at Akard Station, 1401 Pacific Avenue",
       <Link href="/posts/august-2024-newsletter" className="underline">
-        More info
+        Speaking info & advice
       </Link>,
     ],
   },
@@ -46,6 +46,24 @@ const scheduleData = [
     points: [
       "Sunday, August 18th, 3PM - 5PM",
       "The Metropolitan, 1200 Main Street, Dallas",
+      <a
+        href="https://go.ridewithdata.org/august2024-vod"
+        className="underline"
+      >
+        Recording
+      </a>,
+      <a
+        href="https://go.ridewithdata.org/august2024-minutes"
+        className="underline"
+      >
+        Minutes
+      </a>,
+      <a
+        href="https://go.ridewithdata.org/august2024-transcript"
+        className="underline"
+      >
+        Transcript
+      </a>,
     ],
   },
   {
