@@ -9,10 +9,6 @@
   @apply my-6;
 }
 
-.markdown ul {
-  @apply list-disc list-inside my-2;
-}
-
 .markdown ul ul {
   @apply ml-10 list-circle list-inside;
 }

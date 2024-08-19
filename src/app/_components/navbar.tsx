@@ -57,30 +57,30 @@ export const Navbar = () => {
               isOpen ? "" : "hidden"
             }`}
           >
-            <ul className="font-medium flex flex-col max-lg:gap-2 lg:items-center p-3 lg:p-0 border border-slate-100 rounded-lg bg-slate-50 lg:flex-row lg:space-x-8 rtl:space-x-reverse lg:border-0 lg:bg-white dark:bg-slate-800 lg:dark:bg-slate-900 dark:border-slate-700 leading-none">
-              <li>
-                <NavbarLink href="/">Home</NavbarLink>
-              </li>
-              <li>
+            <div className="font-medium flex flex-col max-lg:gap-2 lg:items-center p-3 lg:p-0 border border-slate-100 rounded-lg bg-slate-50 lg:flex-row lg:space-x-8 rtl:space-x-reverse lg:border-0 lg:bg-white dark:bg-slate-800 lg:dark:bg-slate-900 dark:border-slate-700 leading-none">
+              <div>
                 <NavbarLink
                   href="https://www.change.org/p/protect-our-public-transit-say-no-to-dart-funding-cuts"
                   target="_blank"
                 >
                   Petition
                 </NavbarLink>
-              </li>
-              <li>
+              </div>
+              <div>
                 <NavbarLink href="/about">About</NavbarLink>
-              </li>
-              <li>
+              </div>
+              <div>
                 <NavbarLink href="/contact">Contact</NavbarLink>
-              </li>
-              <li>
+              </div>
+              <div>
+                <NavbarLink href="/calendar">Calendar</NavbarLink>
+              </div>
+              <div>
                 <div className="flex items-center h-8 px-4 lg:h-auto lg:p-0">
                   <ThemeSwitcher />
                 </div>
-              </li>
-            </ul>
+              </div>
+            </div>
           </div>
         </div>
       </div>
