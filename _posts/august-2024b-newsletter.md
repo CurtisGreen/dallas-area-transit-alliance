@@ -2,7 +2,7 @@
 title: "Register for our next event!"
 excerpt: "Our latest newsletter highlights key events, including our General Meeting on August 18 and upcoming public meetings at the DART Board and Dallas City Council."
 coverImage: "/assets/blog/august-2024-newsletter/cover.jpg"
-date: "2024-08-09T05:00:00.000Z"
+date: "2024-08-23T05:00:00.000Z"
 author:
   name: DATA Newsletter
   picture: "/assets/blog/authors/data-team.png"
@@ -15,12 +15,10 @@ Our latest newsletter highlights key events, including our General Meeting on Se
 ## September General Meeting
 
 * Sunday, August 18, 2024 from 3:00-5:00pm
-* Note: **NEW VENUE**
-* The Metropolitan Condos at [1200 Main Street, Dallas](https://maps.app.goo.gl/pPBSUsQeJYZr1hxf7)
-* Use the Murphy Drive entrance. The meeting will be in the Community Room on the 6th floor (same room as the first general meeting).
-* We will have light snacks and refreshments available.
+* **NEW VENUE**
+* J. Erik Jonsson Central Library at [1515 Young Street, Dallas](https://maps.app.goo.gl/LvVwPSypb3FAdFjj6)
+* The meeting will be in the Hamon Training Room on the 5th floor.
 
-We will be discussing our strategy for two upcoming public meetings that we want to show up in large numbers for.
 
 ---
 
