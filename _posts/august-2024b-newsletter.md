@@ -2,7 +2,7 @@
 title: "Register for our next event!"
 excerpt: "Our latest newsletter highlights key events, including our General Meeting on August 18 and upcoming public meetings at the DART Board and Dallas City Council."
 coverImage: "/assets/blog/august-2024-newsletter/cover.jpg"
-date: "2024-08-23T05:00:00.000Z"
+date: "1969-12-31T00:00:00.000Z"
 author:
   name: DATA Newsletter
   picture: "/assets/blog/authors/data-team.png"
@@ -12,7 +12,7 @@ ogImage:
 
 Our latest newsletter highlights key events, including our General Meeting on September 21 and upcoming public meetings at the DART Board and Dallas City Council.
 
-Registration for the Dallas City Council Meeting that we want to attend is now open. Please see some information regarding 
+Registration for the Dallas City Council Meeting that we want to attend is now open. Please see some information regarding this meeting
 
 ## Dallas City Council Meeting
 
