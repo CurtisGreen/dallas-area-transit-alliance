@@ -16,9 +16,9 @@ Our latest newsletter highlights key events, including our General Meeting on Se
 
 * Sunday, August 18, 2024 from 3:00-5:00pm
 * **NEW VENUE**
-* J. Erik Jonsson Central Library at [1515 Young Street, Dallas](https://maps.app.goo.gl/LvVwPSypb3FAdFjj6)
-* The meeting will be in the Hamon Training Room on the 5th floor.
-
+* [J. Erik Jonsson Central Library (Dallas Public Library)](https://dallaslibrary2.org/central/index.php) at [1515 Young Street, Dallas](https://maps.app.goo.gl/LvVwPSypb3FAdFjj6), Hamon Training Room (5th Floor)
+* This event is not sponsored by the Dallas Public Library. 
+* 
 
 ---
 
