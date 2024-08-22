@@ -12,30 +12,7 @@ ogImage:
 
 Our latest newsletter highlights key events, including our General Meeting on September 21 and upcoming public meetings at the DART Board and Dallas City Council.
 
-## September General Meeting
-
-* Sunday, August 18, 2024 from 3:00-5:00pm
-* **NEW VENUE**
-* [J. Erik Jonsson Central Library (Dallas Public Library)](https://dallaslibrary2.org/central/index.php) at [1515 Young Street, Dallas](https://maps.app.goo.gl/LvVwPSypb3FAdFjj6), Hamon Training Room (5th Floor)
-* This event is not sponsored by the Dallas Public Library. 
-* 
-
----
-
-## DART Board Meeting
-
-* Tuesday, August 27, 2024 at 6:00pm
-* DART Headquarters at Akard Station, [1401 Pacific Avenue, Dallas](https://maps.app.goo.gl/36uCk3suvRdJPfM47)
-* Please arrive 30 minutes early to register for public comments.
-
-Some members of the DART board are not very supportive of transit. Right now, there is a push among some board members to cut DART’s operating budget by 5-10% this year and cap DART’s revenue growth. Other DART board members have expressed willingness to compromise with cities that want to cut DART’s funding.
-
-By showing up, we wish to communicate to the DART board:
-
-1. Our opposition to these harsh budget cut resolutions, and our disappointment with the member cities who passed them.
-2. Our opposition to ANY revenue capping.
-3. Improvements in frequency and service in next year's budget.
-4. Opposition from DART to oppose any state legislation that cuts or caps their budget.
+Registration for the Dallas City Council Meeting that we want to attend is now open. Please see some information regarding 
 
 ## Dallas City Council Meeting
 
@@ -59,6 +36,20 @@ Registration to speak at the City Council meeting will open on Thursday, August 
 3. Call the office at [214-670-3738](tel:+12146703738) with your name, address, phone number, and meeting method (teleconference or in-person).
 
  > NOTE: The City of Dallas limits speakers to one public comment per month, so please be wary of that. You can read the full policy on the [Dallas City Council website](https://dallascityhall.com/government/citysecretary/pages/ccrules.aspx).
+
+
+## September General Meeting
+
+* Saturday, September 21, 2024 from 3:00-5:00pm
+* **NEW VENUE**
+* [J. Erik Jonsson Central Library (Dallas Public Library)](https://dallaslibrary2.org/central/index.php) at [1515 Young Street, Dallas](https://maps.app.goo.gl/LvVwPSypb3FAdFjj6)
+* Hamon Training Room (5th Floor)
+* This event is not sponsored by the Dallas Public Library. 
+* [Draft Agenda](https://go.ridewithdata.org/september2024-agenda)
+
+---
+
+
 
 As a reminder, the public meetings we plan on attending are back to back - the DART Board meeting is Tuesday evening, and the Dallas City Council meeting is Wednesday morning. If you can only attend one, Dallas residents should prioritize attending the Dallas City Council meeting.
 
