@@ -35,8 +35,8 @@ By showing up, we wish to communicate to the DART board:
 
 1. Our opposition to these harsh budget cut resolutions, and our disappointment with the member cities who passed them.
 2. Our opposition to ANY revenue capping.
-3. Improvements in frequency and service in next year's budget.
-4. Opposition from DART to oppose any state legislation that cuts or caps their budget.
+3. Our support of improvements in frequency and service in next year's budget.
+4. Our opposition of any state legislation that cuts or caps their budget.
 
 ## Dallas City Council Meeting
 
