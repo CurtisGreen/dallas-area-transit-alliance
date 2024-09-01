@@ -68,3 +68,7 @@ Let's try to get some DART positivity headed to Rowlett's way before the city co
 Nadine Lee will be showing up to speak to Rowlett City Council on Tuesday, September 3rd at 7:00pm.
 
 If you know any residents or business owners who would be opposed to DART cuts. Please have them go speak at either at the public meeting itself or just before it through email.
+
+## Cedars Station Tabling Event
+
+On Thursday, September 5th at 6:00pm, we will be hosting a table at an event at Cedars Station. Stop by and say hello!
