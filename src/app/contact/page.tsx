@@ -1,9 +1,9 @@
-import { DiscordIcon } from "@/app/_components/discord-icon";
-import { GroupMeIcon } from "@/app/_components/groupme-icon";
-import { FacebookIcon } from "@/app/_components/facebook-icon";
-import { InstagramIcon } from "@/app/_components/instagram-icon";
-import { XIcon } from "@/app/_components/x-icon";
-import { BlueskyIcon } from "@/app/_components/bluesky-icon";
+import { DiscordIcon } from "@/app/_components/icons/discord-icon";
+import { GroupMeIcon } from "@/app/_components/icons/groupme-icon";
+import { FacebookIcon } from "@/app/_components/icons/facebook-icon";
+import { InstagramIcon } from "@/app/_components/icons/instagram-icon";
+import { XIcon } from "@/app/_components/icons/x-icon";
+import { BlueskyIcon } from "@/app/_components/icons/bluesky-icon";
 
 export default function Index() {
   return (

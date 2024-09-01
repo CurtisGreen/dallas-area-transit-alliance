@@ -1,10 +1,10 @@
-import { BlueskyIcon } from "@/app/_components/bluesky-icon";
+import { BlueskyIcon } from "@/app/_components/icons/bluesky-icon";
 import Container from "@/app/_components/container";
-import { FacebookIcon } from "@/app/_components/facebook-icon";
-import { GithubIcon } from "@/app/_components/github-icon";
-import { InstagramIcon } from "@/app/_components/instagram-icon";
+import { FacebookIcon } from "@/app/_components/icons/facebook-icon";
+import { GithubIcon } from "@/app/_components/icons/github-icon";
+import { InstagramIcon } from "@/app/_components/icons/instagram-icon";
 import { Logo } from "@/app/_components/logo";
-import { XIcon } from "@/app/_components/x-icon";
+import { XIcon } from "@/app/_components/icons/x-icon";
 
 export function Footer() {
   return (
