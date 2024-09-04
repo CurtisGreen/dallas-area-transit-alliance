@@ -1,6 +1,6 @@
 ---
 title: "September Newsletter"
-excerpt: "Don't miss out: important updates in our September newsletter!"
+excerpt: "Our September newsletter highlights key events, including our General Meeting on September 21 at a brand new venue."
 coverImage: "/assets/blog/september-2024-newsletter/cover.jpg"
 date: "2024-09-01T05:00:00.000Z"
 author:
