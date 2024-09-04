@@ -10,7 +10,9 @@ ogImage:
   url: "/assets/blog/september-2024-newsletter/cover.jpg"
 ---
 
-August has been a busy month with budget season for all the cities, so here's a recap of everything we've done this month and what's upcoming in September!
+August has been a busy month with budget season for all the cities, so here's what's upcoming in September!
+
+Thanks everyone for coming out last week and speaking to the DART Board and Dallas City Council, your message was certainly heard from the media and various council members.
 
 ## September General Meeting
 
@@ -23,13 +25,7 @@ Our September General Meeting details have been finalized, and we are moving to 
 - Hamon Training Room (5th floor)
 
 <!-- no I am not making a countdown widget -->
-
-## Farmers Branch Cleanup
-
-![Image](/assets/blog/september-2024-newsletter/fb-trash-pickup.jpg)
-*Image Courtesy: Jon (229 Man)*
-
-Our Farmers Branch <!-- incomplete? -->
+<!-- I wasn't expecting you to - Qui -->
 
 ## DATA Officer Elections
 
@@ -49,7 +45,7 @@ Election details will be sent via [GroupMe](https://go.ridewithdata.org/groupme)
 
 ## Week without Driving (September 30 - October 6, 2024)
 
-![Image](/assets/blog/september-2024-newsletter/dbc.png)
+![Image](/assets/blog/september-2024-newsletter/DallasBicycleCoalition2.png)
 
 DATA is proud to announce that we will be participating in the Dallas Week without Driving co-hosted by [Dallas Bike Coalition](https://www.instagram.com/dallasbicyclecoalition/) and [Better Block](https://www.betterblock.org/). Also partnered are with [Feonix Mobility](https://feonix.org/), [DFW Urbanistas](https://www.instagram.com/urbanistasdfw/), [Dallas Youth Commission](https://dallascityhall.com/government/Boards-and-Commissions/Youth-Commission/Pages/default.aspx), [Dallas Disability Commission](https://dallascityhall.com/government/Boards-and-Commissions/Commission-on-Disabilities/Pages/default.aspx), and [Dallas Neighbors for Housing](https://www.dallasneighborsforhousing.org/).
 
@@ -69,6 +65,7 @@ Nadine Lee will be showing up to speak to Rowlett City Council on Tuesday, Septe
 
 If you know any residents or business owners who would be opposed to DART cuts. Please have them go speak at either at the public meeting itself or just before it through email.
 
-## Cedars Station Tabling Event
+- [Agenda](https://www.rowletttx.gov/ArchiveCenter/ViewFile/Item/12051)
+- [Public Comment Request - Rowlett](https://www.rowletttx.gov/FormCenter/Public-Input-11-11/Public-Input-118-118)
 
-On Thursday, September 5th at 6:00pm, we will be hosting a table at an event at Cedars Station. Stop by and say hello!
+Once again, thanks for your continued support. We hope to see you at another DATA event or at a board meeting. 
