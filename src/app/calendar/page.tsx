@@ -13,6 +13,15 @@ const scheduleData = [
     ],
   },
   {
+    title: "DATA September General Meeting",
+    date: new Date("2024-09-21 00:00-05:00"),
+    points: [
+      "Saturday, September 21, 2024 from 1:30 - 3:30PM",
+      "J. Erik Jonsson Central Library at 1515 Young Street, Dallas",
+      "Hamon Training Room, 5th floor",
+    ],
+  },
+  {
     title: "Speak at Dallas City Council meeting to oppose cuts/caps",
     date: new Date("2024-08-28 09:00-05:00"),
     points: [
@@ -41,7 +50,7 @@ const scheduleData = [
     points: ["Sunday, August 4th, 9AM", "12800 Denton Drive, Farmers Branch"],
   },
   {
-    title: "DATA general meeting",
+    title: "DATA August General Meeting",
     date: new Date("2024-08-18 15:00-05:00"),
     points: [
       "Sunday, August 18th, 3PM - 5PM",
@@ -67,7 +76,7 @@ const scheduleData = [
     ],
   },
   {
-    title: "DATA general meeting",
+    title: "DATA July General Meeting",
     date: new Date("2024-07-27 12:00-05:00"),
     points: [
       "Saturday, July 27th, 12PM - 3PM",
