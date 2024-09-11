@@ -22,6 +22,12 @@ const scheduleData = [
       <i>
         Disclosure: This event is not sponsored by the Dallas Public Library
       </i>,
+      <b>DATA Election Info</b>,
+      "Candidacy period: Sept 2 - Sept 10",
+      "Early voting: Sept 16 - Sept 20",
+      "Voting: Sept 21 2:00 - 2:30PM",
+      "Tabulation: until Sept 21 2:45PM",
+      "Results announced: Sept 21 2:50PM",
     ],
   },
   {
