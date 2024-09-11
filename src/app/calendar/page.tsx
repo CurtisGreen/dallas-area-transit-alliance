@@ -19,6 +19,9 @@ const scheduleData = [
       "Saturday, September 21, 2024 from 1:30 - 3:30PM",
       "J. Erik Jonsson Central Library at 1515 Young Street, Dallas",
       "Hamon Training Room, 5th floor",
+      <i>
+        Disclosure: This event is not sponsored by the Dallas Public Library
+      </i>,
     ],
   },
   {
