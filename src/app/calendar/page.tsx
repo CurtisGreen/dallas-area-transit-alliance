@@ -22,12 +22,25 @@ const scheduleData = [
       <i>
         Disclosure: This event is not sponsored by the Dallas Public Library
       </i>,
-      <b>DATA Election Info</b>,
-      "Candidacy period: Sept 2 - Sept 10",
-      "Early voting: Sept 16 - Sept 20",
-      "Voting: Sept 21 2:00 - 2:30PM",
-      "Tabulation: until Sept 21 2:45PM",
-      "Results announced: Sept 21 2:50PM",
+      <>
+        <b>DATA Election Info</b>
+        <div className="ml-8 grid grid-cols-2 w-fit gap-1">
+          <div>- Candidacy period</div>
+          <div>Sept 2 - Sept 10</div>
+
+          <div>- Early Voting</div>
+          <div>Sept 16 - Sept 20</div>
+
+          <div>- Voting</div>
+          <div>Sept 21, 2:00 - 2:30PM</div>
+
+          <div>- Tabulation</div>
+          <div>Sept 21, 2:45PM</div>
+
+          <div>- Results announced</div>
+          <div>Sept 21 2:50PM</div>
+        </div>
+      </>,
     ],
   },
   {
@@ -96,7 +109,7 @@ const scheduleData = [
 
 export default function Index() {
   return (
-    <div className="leading-tight mb-10">
+    <div className="leading-snug mb-10">
       <div className="my-12 md:my-16 md:mb-12 text-5xl md:text-7xl font-bold tracking-tighter">
         Calendar
       </div>
