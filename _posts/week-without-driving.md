@@ -1,13 +1,13 @@
 ---
 title: "Week Without Driving: September 30 - October 6, 2024"
 excerpt: "Nearly a third of people living in the United States – people with disabilities, young people, seniors and people who can’t afford cars or gas- do not drive. Join us in Week Without Driving!"
-coverImage: "/assets/blog/september-2024-newsletter/DallasBicycleCoalition2.png"
+coverImage: "/assets/blog/week-without-driving/WWD_Cover.png"
 date: "2024-09-16T05:00:00.000Z"
 author:
-  name: DATA Newsletter
+  name: DATA Team
   picture: "/assets/blog/authors/data-team.png"
 ogImage:
-  url: "/assets/blog/september-2024-newsletter/DallasBicycleCoalition2.png"
+  url: "/assets/blog/week-without-driving/WWD_Cover.png"
 ---
 ## Week without Driving (September 30 - October 6, 2024)
 
@@ -30,4 +30,8 @@ Dallas is a city built for cars, where it is difficult or dangerous to travel al
 ## Dallas Week Without Driving Partner Organizations:
 
 Co-hosts: [Dallas Bike Coalition](https://www.instagram.com/dallasbicyclecoalition/) and [Better Block](https://www.betterblock.org/).   
-Partners: [Feonix Mobility](https://feonix.org/), [DFW Urbanistas](https://www.instagram.com/urbanistasdfw/), [Dallas Youth Commission](https://dallascityhall.com/government/Boards-and-Commissions/Youth-Commission/Pages/default.aspx), [Dallas Disability Commission](https://dallascityhall.com/government/Boards-and-Commissions/Commission-on-Disabilities/Pages/default.aspx), and [Dallas Neighbors for Housing](https://www.dallasneighborsforhousing.org/).  
+Partners: [Feonix Mobility](https://feonix.org/), [DFW Urbanistas](https://www.instagram.com/urbanistasdfw/), [Dallas Youth Commission](https://dallascityhall.com/government/Boards-and-Commissions/Youth-Commission/Pages/default.aspx), [Dallas Commission on Disabilities](https://dallascityhall.com/government/Boards-and-Commissions/Commission-on-Disabilities/Pages/default.aspx), and [Dallas Neighbors for Housing](https://www.dallasneighborsforhousing.org/).  
+
+![Image](/assets/blog/week-without-driving/WWD_Cover.png)  
+![Image](/assets/blog/week-without-driving/WWD_How_To.png)  
+![Image](/assets/blog/week-without-driving/WWD_Partners.png)  
