@@ -1,6 +1,6 @@
 ---
 title: "Week Without Driving: September 30 - October 6, 2024"
-excerpt: "Our latest release announces our participation in Week Without Driving"
+excerpt: "Nearly a third of people living in the United States – people with disabilities, young people, seniors and people who can’t afford cars or gas- do not drive. Join us in Week Without Driving!"
 coverImage: "/assets/blog/september-2024-newsletter/DallasBicycleCoalition2.png"
 date: "2024-09-16T05:00:00.000Z"
 author:
