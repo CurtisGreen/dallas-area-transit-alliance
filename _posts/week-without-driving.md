@@ -32,8 +32,9 @@ Dallas is a city built for cars, where it is difficult or dangerous to travel al
 ## Dallas Week Without Driving Partner Organizations:
 
 Co-hosts: [Dallas Bicycle Coalition](https://www.instagram.com/dallasbicyclecoalition/) and [Better Block](https://www.betterblock.org/).   
-Partners: [Feonix Mobility](https://feonix.org/), [DFW Urbanistas](https://www.instagram.com/urbanistasdfw/), [Dallas Youth Commission](https://dallascityhall.com/government/Boards-and-Commissions/Youth-Commission/Pages/default.aspx), [Dallas Commission on Disabilities](https://dallascityhall.com/government/Boards-and-Commissions/Commission-on-Disabilities/Pages/default.aspx), and [Dallas Neighbors for Housing](https://www.dallasneighborsforhousing.org/).  
+Partners: [Feonix Mobility](https://feonix.org/), [DFW Urbanistas](https://www.instagram.com/urbanistasdfw/), [Dallas Youth Commission](https://dallascityhall.com/government/Boards-and-Commissions/Youth-Commission/Pages/default.aspx), and [Dallas Neighbors for Housing](https://www.dallasneighborsforhousing.org/).  
 
 ![Image](/assets/blog/week-without-driving/WWD_Cover.png)  
-![Image](/assets/blog/week-without-driving/WWD_How_To.png)  
-![Image](/assets/blog/week-without-driving/WWD_Partners.png)  
+![Image](/assets/blog/week-without-driving/WWD_How_To.png) 
+<!-- ![Image](/assets/blog/week-without-driving/WWD_Partners.png) --> 
+  
