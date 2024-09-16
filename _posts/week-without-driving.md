@@ -1,13 +1,13 @@
 ---
 title: "Week Without Driving: September 30 - October 6, 2024"
 excerpt: "Nearly a third of people living in the United States – people with disabilities, young people, seniors and people who can’t afford cars or gas- do not drive. Join us in Week Without Driving co-hosted by Dallas Bicycle Coalition and Better Block, and partnered by Feonix Mobility, Dallas Area Transit Alliance, DFW Urbanistas, Dallas Youth Commission, and Dallas Neighbors for Housing"
-coverImage: "/assets/blog/week-without-driving/WWD_Cover.png"
+coverImage: "/assets/blog/week-without-driving/WWD_Hero.png"
 date: "2024-09-16T05:00:00.000Z"
 author:
   name: DATA Team
   picture: "/assets/blog/authors/data-team.png"
 ogImage:
-  url: "/assets/blog/week-without-driving/WWD_Cover.png"
+  url: "/assets/blog/week-without-driving/WWD_Hero.png"
 banner: 
   text: "Join us in Week without Driving September 30 to October 6, 2024"
 ---
@@ -36,5 +36,6 @@ Partners: [Feonix Mobility](https://feonix.org/), [DFW Urbanistas](https://www.i
 
 ![Image](/assets/blog/week-without-driving/WWD_Cover.png)  
 ![Image](/assets/blog/week-without-driving/WWD_How_To.png) 
-<!-- ![Image](/assets/blog/week-without-driving/WWD_Partners.png) --> 
+![Image](/assets/blog/week-without-driving/WWD_Partners.png)
+<!-- When old partner graphic arrives ![Image](/assets/blog/week-without-driving/WWD_Partners_Old.png) --!>
   
