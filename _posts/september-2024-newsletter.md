@@ -47,7 +47,9 @@ Election details will be sent via [GroupMe](https://go.ridewithdata.org/groupme)
 
 ![Image](/assets/blog/september-2024-newsletter/DallasBicycleCoalition2.png)
 
-DATA is proud to announce that we will be participating in the Dallas Week without Driving co-hosted by [Dallas Bike Coalition](https://www.instagram.com/dallasbicyclecoalition/) and [Better Block](https://www.betterblock.org/). Also partnered are with [Feonix Mobility](https://feonix.org/), [DFW Urbanistas](https://www.instagram.com/urbanistasdfw/), [Dallas Youth Commission](https://dallascityhall.com/government/Boards-and-Commissions/Youth-Commission/Pages/default.aspx), [Dallas Disability Commission](https://dallascityhall.com/government/Boards-and-Commissions/Commission-on-Disabilities/Pages/default.aspx), and [Dallas Neighbors for Housing](https://www.dallasneighborsforhousing.org/).
+<!-- DATA is proud to announce that we will be participating in the Dallas Week without Driving co-hosted by [Dallas Bike Coalition](https://www.instagram.com/dallasbicyclecoalition/) and [Better Block](https://www.betterblock.org/). Also partnered are with [Feonix Mobility](https://feonix.org/), [DFW Urbanistas](https://www.instagram.com/urbanistasdfw/), [Dallas Youth Commission](https://dallascityhall.com/government/Boards-and-Commissions/Youth-Commission/Pages/default.aspx), [Dallas Disability Commission](https://dallascityhall.com/government/Boards-and-Commissions/Commission-on-Disabilities/Pages/default.aspx), and [Dallas Neighbors for Housing](https://www.dallasneighborsforhousing.org/). -->
+
+DATA is proud to announce that we will be participating in the Dallas Week without Driving co-hosted by [Dallas Bike Coalition](https://www.instagram.com/dallasbicyclecoalition/) and [Better Block](https://www.betterblock.org/). Also partnered are with [Feonix Mobility](https://feonix.org/), [DFW Urbanistas](https://www.instagram.com/urbanistasdfw/), [Dallas Youth Commission](https://dallascityhall.com/government/Boards-and-Commissions/Youth-Commission/Pages/default.aspx), and [Dallas Neighbors for Housing](https://www.dallasneighborsforhousing.org/).
 
 Join us by doing the following steps below:
 
