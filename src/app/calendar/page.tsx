@@ -6,7 +6,7 @@ export const revalidate = 3600;
 const scheduleData = [
   {
     title: "Week Without Driving",
-    date: new Date("2024-09-30 00:00-05:00"),
+    date: new Date("2024-10-07 00:00-05:00"),
     points: [
       "Monday, September 30th - Sunday October 6th, 2024",
       "Partnering with Dallas Bicycle Coalition",
