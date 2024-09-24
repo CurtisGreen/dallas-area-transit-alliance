@@ -17,7 +17,7 @@ const scheduleData = [
   },
   {
     title: "Speak at DART board meeting to support staff recommended budget",
-    date: new Date("2024-09-24 5:45-05:00"),
+    date: new Date("2024-09-25 00:00-05:00"),
     points: [
       "Tuesday, September 24th, 5:45PM",
       "DART Headquarters at Akard Station, 1401 Pacific Avenue",
