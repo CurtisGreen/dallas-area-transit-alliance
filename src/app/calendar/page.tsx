@@ -1,5 +1,8 @@
 import Link from "next/link";
 
+// Invalidate the cache when a request comes in, at most once every hour
+export const revalidate = 3600;
+
 const scheduleData = [
   {
     title: "Week Without Driving",
@@ -10,6 +13,17 @@ const scheduleData = [
       <a href="https://weekwithoutdriving.org/" className="underline">
         Week Without Driving website
       </a>,
+    ],
+  },
+  {
+    title: "Speak at DART board meeting to support staff recommended budget",
+    date: new Date("2024-09-24 5:45-05:00"),
+    points: [
+      "Tuesday, September 24th, 5:45PM",
+      "DART Headquarters at Akard Station, 1401 Pacific Avenue",
+      <Link href="/posts/august-2024-newsletter" className="underline">
+        Speaking info & advice
+      </Link>,
     ],
   },
   {
