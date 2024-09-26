@@ -13,7 +13,7 @@ export default function Index() {
       <div className="text-2xl md:text-3xl mt-8 md:mt-12 mb-4 font-bold">
         Our Executive Committee
       </div>
-      <ol className="mb-16 md:mb-12 text-lg">
+      <ul className="mb-16 md:mb-12 text-lg">
         <li className="mb-1">
           Connor Hulla, President
         </li>
@@ -35,7 +35,7 @@ export default function Index() {
         <li className="mb-1">
           Mary Collier, Event Planning Chair
         </li>
-      </ol>
+      </ul>
       <div className="text-2xl md:text-3xl mt-8 md:mt-12 mb-4 font-bold">
         History
       </div>
