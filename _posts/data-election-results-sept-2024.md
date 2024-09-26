@@ -1,6 +1,6 @@
 ---
 title: "Dallas Area Transit Alliance Announces New Officers in Member Election"
-excerpt: "Today we officially announce the formation of the Dallas Area Transit Alliance (DATA), a grassroots organization committed to the preservation and advancement of Dallas Area Rapid Transit (DART)."
+excerpt: "On September 21, 2024, the Dallas Area Transit Alliance (DATA) convened and proudly announced its newly elected officers committed to advocating for public transit improvements and funding in the Dallas area."
 coverImage: "/assets/blog/data-announces-formation/cover.jpg"
 date: "2024-09-21T05:00:00.000Z"
 author:
@@ -9,7 +9,7 @@ author:
 ogImage:
   url: "/assets/blog/data-announces-formation/cover.jpg"
 banner: 
-  text: "Read our latest press release announcing our formation."
+  text: "Read our latest press release announcing our new officers."
 ---
 
 FOR IMMEDIATE RELEASE
@@ -34,9 +34,9 @@ These leaders will work together to ensure that the needs of our community regar
 ---
 
 **For more information, please contact:**  
-Evan Rosner, Media and Government Relations Chair  
-Connor Hulla, President  
-Tyler Wright, Vice-President  
+* Evan Rosner, Media and Government Relations Chair  
+* Connor Hulla, President  
+* Tyler Wright, Vice-President  
 Dallas Area Transit Alliance (DATA)  
 Email: [info@ridewithdata.org](mailto:info@ridewithdata.org)  
 Website: [dallasareatransitalliance.org](https://dallasareatransitalliance.org) or [ridewithdata.org](https://ridewithdata.org)  
