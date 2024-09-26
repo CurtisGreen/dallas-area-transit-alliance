@@ -23,16 +23,16 @@ export default function Index() {
         <li className="mb-1">
           Alexander Dunn, Secretary
         </li>
-        <li classname="mb-1">
+        <li className="mb-1">
           Evan Rosner, Media and Government Relations Chair
         </li>
-        <li classname="mb-1">
+        <li className="mb-1">
           Rohan Kodibagkar, Social Media and Outreach Chair
         </li>
-        <li classname="mb-1">
+        <li className="mb-1">
           Keun Lee, Policy Research Chair
         </li>
-        <li classname="mb-1">
+        <li className="mb-1">
           Mary Collier, Event Planning Chair
         </li>
       </ol>
