@@ -37,9 +37,9 @@ DATA will continue to monitor developments and advocate for policies that suppor
 ---
 
 **For more information, please contact:**  
-Evan Rosner, Media and Government Relations Chair
-Connor Hulla, President
-Tyler Wright, Vice-President
+Evan Rosner, Media and Government Relations Chair  
+Connor Hulla, President  
+Tyler Wright, Vice-President  
 Dallas Area Transit Alliance (DATA)  
 Email: [info@ridewithdata.org](mailto:info@ridewithdata.org)  
 Website: [dallasareatransitalliance.org](https://dallasareatransitalliance.org) or [ridewithdata.org](https://ridewithdata.org)  
