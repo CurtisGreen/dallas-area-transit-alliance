@@ -24,7 +24,7 @@ export default function Index() {
           Alexander Dunn, Secretary
         </li>
         <li className="mb-1">
-          To be filled, Parlimentarian
+          To be filled, Parliamentarian
         </li>
         <li className="mb-1">
           To be filled, Treasurer
