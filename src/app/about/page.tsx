@@ -24,6 +24,15 @@ export default function Index() {
           Alexander Dunn, Secretary
         </li>
         <li className="mb-1">
+          To be filled, Parlimentarian
+        </li>
+        <li className="mb-1">
+          To be filled, Treasurer
+        </li>
+        <li className="mb-1">
+          To be filled, Systems Administrator
+        </li>
+        <li className="mb-1">
           Evan Rosner, Media and Government Relations Chair
         </li>
         <li className="mb-1">
