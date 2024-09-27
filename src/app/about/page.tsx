@@ -30,7 +30,7 @@ export default function Index() {
           To be filled, Treasurer
         </li>
         <li className="mb-1">
-          To be filled, Systems Administrator
+          Qui Le, Systems Administrator
         </li>
         <li className="mb-1">
           Evan Rosner, Media and Government Relations Chair
