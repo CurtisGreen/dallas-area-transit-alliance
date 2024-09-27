@@ -18,7 +18,7 @@ banner:
 
 ## Tell the DART Board about your opposition to funding caps and cuts
 
-* Tuesday, August 13th and 27th, 2024, arrive at 5:30pm
+* Tuesday, August 13th, 27th, and September 24, 2024, arrive at 5:30pm
 * Meeting is at DART Headquarters at Akard Station, [1401 Pacific Avenue, Dallas](https://maps.app.goo.gl/36uCk3suvRdJPfM47)
 * Fill out a "Request to Address The Board" comment card - this can only be done in person. [DART board meeting details and public comment guidance](https://www.dart.org/about/public-access-information/board-meetings-information)
 * Reference the [FY2025 budget proposal](https://dartorgcmsblob.dart.org/prod/docs/default-source/about-dart/(item-13)-proposed-fy-2025-budget-and-20-year-financial-plan_cotw-presentation.pdf?sfvrsn=aa6125e2_1), specifically slides 14-24 which discuss the cuts to services needed to meet the 3% or 0% operating growth cap scenarios
