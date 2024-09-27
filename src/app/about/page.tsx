@@ -45,6 +45,7 @@ export default function Index() {
           Mary Collier, Event Planning Chair
         </li>
       </ul>
+      <p>Want to help us out?<a href="mailto:info@ridewithdata.org">Email us</a>if you are interested in an Executive Committee Position. </p>
       <div className="text-2xl md:text-3xl mt-8 md:mt-12 mb-4 font-bold">
         History
       </div>
