@@ -1,13 +1,13 @@
 ---
 title: "Dallas Area Transit Alliance Advocates for Stronger Transit Funding at DART Board Meeting"
 excerpt: "On September 24, 2024, the Dallas Area Transit Alliance (DATA) filled the DART Board of Directors meeting with passionate advocates supporting a 5.5% increase in the operating budget for FY2025, as originally proposed by DART staff."
-coverImage: "/assets/blog/data-advocates-for-stronger-funding-dart-board-sept-2024/cover.jpg"
+coverImage: "/assets/blog/data-advocates-for-stronger-funding-dart-board-sept-2024/cover.png"
 date: "2024-09-25T05:00:00.000Z"
 author:
   name: DATA Press Release
   picture: "/assets/blog/authors/data-team.png"
 ogImage:
-  url: "/assets/blog/data-advocates-for-stronger-funding-dart-board-sept-2024/cover.jpg"
+  url: "/assets/blog/data-advocates-for-stronger-funding-dart-board-sept-2024/cover.png"
 banner: 
   text: "Read our latest press release regarding the DART Board Meeting."
 ---
