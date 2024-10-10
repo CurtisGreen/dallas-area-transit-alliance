@@ -10,6 +10,7 @@ ogImage:
   url: "/assets/blog/week-without-driving/WWD_Hero.png"
 banner: 
   text: "Join us in Week without Driving September 30 to October 6, 2024"
+  hide: true
 ---
 ## Week without Driving (September 30 - October 6, 2024)
 

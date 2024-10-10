@@ -10,6 +10,7 @@ ogImage:
   url: "/assets/blog/data-election-results-sept-2024/cover.jpg"
 banner: 
   text: "Read our latest press release announcing our new officers."
+  hide: true
 ---
 
 FOR IMMEDIATE RELEASE
