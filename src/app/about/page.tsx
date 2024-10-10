@@ -11,6 +11,42 @@ export default function Index() {
         Advocate for better public transit in the Greater Dallas area.
       </div>
       <div className="text-2xl md:text-3xl mt-8 md:mt-12 mb-4 font-bold">
+        Our Executive Committee
+      </div>
+      <ul className="mb-16 md:mb-12 text-lg">
+        <li className="mb-1">
+          Connor Hulla, President
+        </li>
+        <li className="mb-1">
+          Tyler Wright, Vice President
+        </li>
+        <li className="mb-1">
+          Alexander Dunn, Secretary
+        </li>
+        <li className="mb-1">
+          To be filled, Parliamentarian
+        </li>
+        <li className="mb-1">
+          To be filled, Treasurer
+        </li>
+        <li className="mb-1">
+          Qui Le, Systems Administrator
+        </li>
+        <li className="mb-1">
+          Evan Rosner, Media and Government Relations Chair
+        </li>
+        <li className="mb-1">
+          Rohan Kodibagkar, Social Media and Outreach Chair
+        </li>
+        <li className="mb-1">
+          Keun Lee, Policy Research Chair
+        </li>
+        <li className="mb-1">
+          Mary Collier, Event Planning Chair
+        </li>
+      </ul>
+      <p>Want to help us out? <a href="mailto:info@ridewithdata.org">Email us</a> if you are interested in an Executive Committee Position. </p>
+      <div className="text-2xl md:text-3xl mt-8 md:mt-12 mb-4 font-bold">
         History
       </div>
       <div className="text-lg">
