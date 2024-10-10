@@ -5,6 +5,18 @@ export const revalidate = 3600;
 
 const scheduleData = [
   {
+    title: "DATA October General Meeting",
+    date: new Date("2024-10-19 00:00-05:00"),
+    points: [
+      "Saturday, October 19, 2024 from 2:00 - 4:00PM",
+      "J. Erik Jonsson Central Library at 1515 Young Street, Dallas",
+      "Hamon Training Room, 5th floor",
+      <i>
+        Disclosure: This event is not sponsored by the Dallas Public Library
+      </i>,
+    ],
+  },
+  {
     title: "Week Without Driving",
     date: new Date("2024-10-07 00:00-05:00"),
     points: [

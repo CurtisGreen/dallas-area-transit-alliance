@@ -27,7 +27,7 @@ export default function Index() {
         <div className="mb-2 mt-10">Subscribe to our Newsletter</div>
         <iframe
           src="https://docs.google.com/forms/d/e/1FAIpQLSeE-SrnsbjniO7I0BkdHourNdQYO_MKaYhKa6iQjN63_eubBg/viewform?embedded=true"
-          className="block dark:invert dark:brightness-75 dark:grayscale w-[350px] md:w-[600px] h-[4100px] md:h-[3300px] ml-[-15px] md:ml-[-30px]"
+          className="block dark:invert dark:brightness-75 dark:grayscale w-[350px] md:w-[600px] h-[3100px] md:h-[2300px] ml-[-15px] md:ml-[-30px]"
         />
       </div>
     </>
