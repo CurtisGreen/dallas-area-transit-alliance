@@ -32,7 +32,6 @@ const scheduleData = [
       >
         Agenda
       </Link>,
-
       <Link
         href="https://drive.google.com/file/d/1QlmEhxOhUI3ZMFiN32fOtvYGdXUSAhfI/view?usp=sharing"
         className="underline"
@@ -44,6 +43,18 @@ const scheduleData = [
         className="underline"
       >
         Minutes
+      </Link>,
+      <Link
+        href="https://docs.google.com/document/d/e/2PACX-1vSlLwpU4GrjALEvaYKLVMQjHAw2e7BbiXy_0gJVUY1k7UTEtq5_uyx-u1FtDvD05rL3WaUy7lAmbVQF/pub"
+        className="underline"
+      >
+        Transcript
+      </Link>,
+      <Link
+        href="https://drive.google.com/file/d/16Z7G_uqV5-lwlsXk-auaGnW3RsK5D6Ao/view?usp=sharing"
+        className="underline"
+      >
+        Slides
       </Link>,
     ],
   },
