@@ -26,17 +26,6 @@ const scheduleData = [
       <i>
         Disclosure: This event is not sponsored by the Dallas Public Library
       </i>,
-    ],
-  },
-  {
-    title: "Week Without Driving",
-    date: new Date("2024-10-07 00:00-05:00"),
-    points: [
-      "Monday, September 30th - Sunday October 6th, 2024",
-      "Partnering with Dallas Bicycle Coalition",
-      <a href="https://weekwithoutdriving.org/" className="underline">
-        Week Without Driving website
-      </a>,
       <Link
         href="https://docs.google.com/document/d/e/2PACX-1vQnUY6UbuIx1m5rX8eJnzp6CRlEYEe4XXkBOPdsCoXm2fzrzSFfKORe3AhpTLyWiqrdfEwN-38xaT31/pub"
         className="underline"
@@ -56,6 +45,17 @@ const scheduleData = [
       >
         Minutes
       </Link>,
+    ],
+  },
+  {
+    title: "Week Without Driving",
+    date: new Date("2024-10-07 00:00-05:00"),
+    points: [
+      "Monday, September 30th - Sunday October 6th, 2024",
+      "Partnering with Dallas Bicycle Coalition",
+      <a href="https://weekwithoutdriving.org/" className="underline">
+        Week Without Driving website
+      </a>,
     ],
   },
   {
