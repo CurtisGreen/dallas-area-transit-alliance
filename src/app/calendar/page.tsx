@@ -5,6 +5,18 @@ export const revalidate = 3600;
 
 const scheduleData = [
   {
+    title: "DATA November General Meeting",
+    date: new Date("2024-11-16 16:00-05:00"),
+    points: [
+      "Saturday, November 16, 2024 from 2:00 - 4:00PM",
+      "J. Erik Jonsson Central Library at 1515 Young Street, Dallas",
+      "Hamon Training Room, 5th floor",
+      <i>
+        Disclosure: This event is not sponsored by the Dallas Public Library
+      </i>,
+    ],
+  },
+  {
     title: "DATA October General Meeting",
     date: new Date("2024-10-19 00:00-05:00"),
     points: [
@@ -14,6 +26,36 @@ const scheduleData = [
       <i>
         Disclosure: This event is not sponsored by the Dallas Public Library
       </i>,
+      <Link
+        href="https://docs.google.com/document/d/e/2PACX-1vQnUY6UbuIx1m5rX8eJnzp6CRlEYEe4XXkBOPdsCoXm2fzrzSFfKORe3AhpTLyWiqrdfEwN-38xaT31/pub"
+        className="underline"
+      >
+        Agenda
+      </Link>,
+      <Link
+        href="https://drive.google.com/file/d/1QlmEhxOhUI3ZMFiN32fOtvYGdXUSAhfI/view?usp=sharing"
+        className="underline"
+      >
+        Recording
+      </Link>,
+      <Link
+        href="https://docs.google.com/document/d/e/2PACX-1vR6a3KGKdJzVHfQwe5IC0m-tC9NG690ByBI335GlMU841QjZc_7Os1GfI5j-PgGIruZUjH6GPkRUtvz/pub"
+        className="underline"
+      >
+        Minutes
+      </Link>,
+      <Link
+        href="https://docs.google.com/document/d/e/2PACX-1vSlLwpU4GrjALEvaYKLVMQjHAw2e7BbiXy_0gJVUY1k7UTEtq5_uyx-u1FtDvD05rL3WaUy7lAmbVQF/pub"
+        className="underline"
+      >
+        Transcript
+      </Link>,
+      <Link
+        href="https://drive.google.com/file/d/16Z7G_uqV5-lwlsXk-auaGnW3RsK5D6Ao/view?usp=sharing"
+        className="underline"
+      >
+        Slides
+      </Link>,
     ],
   },
   {
