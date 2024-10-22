@@ -37,6 +37,25 @@ const scheduleData = [
       <a href="https://weekwithoutdriving.org/" className="underline">
         Week Without Driving website
       </a>,
+      <Link
+        href="https://docs.google.com/document/d/e/2PACX-1vQnUY6UbuIx1m5rX8eJnzp6CRlEYEe4XXkBOPdsCoXm2fzrzSFfKORe3AhpTLyWiqrdfEwN-38xaT31/pub"
+        className="underline"
+      >
+        Agenda
+      </Link>,
+
+      <Link
+        href="https://drive.google.com/file/d/1QlmEhxOhUI3ZMFiN32fOtvYGdXUSAhfI/view?usp=sharing"
+        className="underline"
+      >
+        Recording
+      </Link>,
+      <Link
+        href="https://docs.google.com/document/d/e/2PACX-1vR6a3KGKdJzVHfQwe5IC0m-tC9NG690ByBI335GlMU841QjZc_7Os1GfI5j-PgGIruZUjH6GPkRUtvz/pub"
+        className="underline"
+      >
+        Minutes
+      </Link>,
     ],
   },
   {
