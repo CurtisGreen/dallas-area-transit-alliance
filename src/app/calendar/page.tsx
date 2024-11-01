@@ -8,7 +8,7 @@ const scheduleData = [
     title: "DATA November General Meeting",
     date: new Date("2024-11-16 16:00-05:00"),
     points: [
-      "Saturday, November 16, 2024 from 2:00 - 4:00PM",
+      "Saturday, November 16, 2024 from 1:30PM - 4:00PM",
       "J. Erik Jonsson Central Library at 1515 Young Street, Dallas",
       "Hamon Training Room, 5th floor",
       <i>
