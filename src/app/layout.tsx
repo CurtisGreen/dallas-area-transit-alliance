@@ -4,7 +4,7 @@ import { Analytics } from "@vercel/analytics/react";
 import { SpeedInsights } from "@vercel/speed-insights/next";
 
 import "./globals.css";
-import Footer from "@/app/_components/footer";
+import { Footer } from "@/app/_components/footer";
 import type { Metadata } from "next";
 import Container from "@/app/_components/container";
 import { Banner } from "@/app/_components/banner";
