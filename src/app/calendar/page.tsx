@@ -5,6 +5,25 @@ export const revalidate = 3600;
 
 const scheduleData = [
   {
+    title: "DATA Holiday Social",
+    date: new Date("2024-12-15 17:00-05:00"),
+    points: [
+      "Sunday, December 15, 2024 from 2:00PM - 5:00PM",
+      "1508 Commerce St, Dallas",
+      "Holiday social at Pegasus City Brewery",
+    ],
+  },
+  {
+    title: "Live podcast recording with Transit Tangents",
+    date: new Date("2024-11-23 15:00-05:00"),
+    points: [
+      "Saturday, November 23, 2024 from 1:00PM - 3:00PM",
+      "409 S Harwood St, Dallas",
+      "Held in the community room at Harwood Park.",
+      "Representative from VIA in San Antonio and Transit Forward in Austin",
+    ],
+  },
+  {
     title: "DATA November General Meeting",
     date: new Date("2024-11-16 16:00-05:00"),
     points: [
@@ -15,22 +34,16 @@ const scheduleData = [
         Disclosure: This event is not sponsored by the Dallas Public Library
       </i>,
       <Link
-        href="https://docs.google.com/document/d/e/2PACX-1vQnUY6UbuIx1m5rX8eJnzp6CRlEYEe4XXkBOPdsCoXm2fzrzSFfKORe3AhpTLyWiqrdfEwN-38xaT31/pub"
+        href="https://docs.google.com/document/d/1St9CluXzDuQ0GcypXZreNAVkr2kL71O0qkOZV_6o3wk/edit?tab=t.0"
         className="underline"
       >
         Agenda
       </Link>,
       <Link
-        href="https://docs.google.com/document/d/1St9CluXzDuQ0GcypXZreNAVkr2kL71O0qkOZV_6o3wk/edit?tab=t.0"
+        href="https://drive.google.com/file/d/18SQQaRO3-QF_bM621SlqNByy5em8jchj/view"
         className="underline"
       >
         Recording
-      </Link>,
-      <Link
-        href="https://docs.google.com/presentation/d/1D2zQnqxecUGcmIfRrEOMXoRNPcH2uDE_MJUOkFPSvwA/edit?usp=sharing"
-        className="underline"
-      >
-        Slides
       </Link>,
       <Link
         href="https://docs.google.com/document/d/17ng6F8GmilgPP4dMpzQAqt-ygDfh6ZmBz_qVlgRd92g/edit?usp=sharing"
