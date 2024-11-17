@@ -5,6 +5,15 @@ export const revalidate = 3600;
 
 const scheduleData = [
   {
+    title: "DATA Holiday Social",
+    date: new Date("2024-12-15 17:00-05:00"),
+    points: [
+      "Sunday, December 15, 2024 from 2:00PM - 5:00PM",
+      "1508 Commerce St, Dallas",
+      "Holiday social at Pegasus City Brewery",
+    ],
+  },
+  {
     title: "DATA November General Meeting",
     date: new Date("2024-11-16 16:00-05:00"),
     points: [
@@ -14,6 +23,30 @@ const scheduleData = [
       <i>
         Disclosure: This event is not sponsored by the Dallas Public Library
       </i>,
+      <Link
+        href="https://docs.google.com/document/d/1St9CluXzDuQ0GcypXZreNAVkr2kL71O0qkOZV_6o3wk/edit?tab=t.0"
+        className="underline"
+      >
+        Agenda
+      </Link>,
+      <Link
+        href="https://drive.google.com/file/d/18SQQaRO3-QF_bM621SlqNByy5em8jchj/view"
+        className="underline"
+      >
+        Recording
+      </Link>,
+      <Link
+        href="https://docs.google.com/document/d/17ng6F8GmilgPP4dMpzQAqt-ygDfh6ZmBz_qVlgRd92g/edit?usp=sharing"
+        className="underline"
+      >
+        Transcript
+      </Link>,
+      <Link
+        href="https://drive.google.com/file/d/16Z7G_uqV5-lwlsXk-auaGnW3RsK5D6Ao/view?usp=sharing"
+        className="underline"
+      >
+        Slides
+      </Link>,
     ],
   },
   {
