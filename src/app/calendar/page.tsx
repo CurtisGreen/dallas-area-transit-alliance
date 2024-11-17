@@ -14,16 +14,6 @@ const scheduleData = [
     ],
   },
   {
-    title: "Live podcast recording with Transit Tangents",
-    date: new Date("2024-11-23 15:00-05:00"),
-    points: [
-      "Saturday, November 23, 2024 from 1:00PM - 3:00PM",
-      "409 S Harwood St, Dallas",
-      "Held in the community room at Harwood Park.",
-      "Representative from VIA in San Antonio and Transit Forward in Austin",
-    ],
-  },
-  {
     title: "DATA November General Meeting",
     date: new Date("2024-11-16 16:00-05:00"),
     points: [
