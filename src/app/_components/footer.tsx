@@ -38,7 +38,7 @@ export function Footer() {
 
             <div className="py-4 flex flex-wrap flex-row max-sm:justify-center gap-x-8 gap-y-4">
               <FooterLink href="/about">About</FooterLink>
-              <FooterLink href="/https://actionnetwork.org/groups/dallas-area-transit-alliance">
+              <FooterLink href="https://actionnetwork.org/groups/dallas-area-transit-alliance">
                 Action Network
               </FooterLink>
               <FooterLink href="/calendar">Calendar</FooterLink>
