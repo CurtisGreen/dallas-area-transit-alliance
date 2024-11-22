@@ -5,6 +5,7 @@ import { InstagramIcon } from "@/app/_components/icons/instagram-icon";
 import { LinkedInIcon } from "@/app/_components/icons/linkedin-icon";
 import { RedditIcon } from "@/app/_components/icons/reddit-icon";
 import { XIcon } from "@/app/_components/icons/x-icon";
+import { YoutubeIcon } from "@/app/_components/icons/youtube-icon";
 
 type Props = {
   showGitHub?: boolean;
@@ -30,6 +31,9 @@ export function SocialIcons({ showGitHub }: Props) {
       </a>
       <a href="https://www.linkedin.com/company/ridewithdata/">
         <LinkedInIcon className="h-8" />
+      </a>
+      <a href="https://youtube.com/@ridewithdata/">
+        <YoutubeIcon className="h-8" />
       </a>
       {showGitHub && (
         <a href="https://github.com/CurtisGreen/dallas-area-transit-alliance">
