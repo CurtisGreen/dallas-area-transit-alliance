@@ -29,7 +29,7 @@ Plano’s proposal for a citywide GoLink service is equally problematic. Such a 
 
 Moreover, Plano’s request to alter DART’s recently passed bus procurement plan contradicts the will of the majority of the member cities. The procurement plan, approved by the DART Board, ensures timely replacement of aging buses to maintain service reliability. Changing course now would delay bus replacements, disrupt transit service across the region, and compromise the system’s health—including in Plano. Unlike typical purchases, procuring buses takes 18 months to two years, making any delay a major setback.
 
-Regarding governance, several proposed changes warrant further exploration. However, a sales-tax-based board representation model or weighted voting system raises concerns about transparency and equality. While governance reform is important, it must prioritize clarity and fairness to ensure public trust and understanding.
+Regarding governance, several proposed changes warrant further exploration. However, a sales-tax-based board representation model or weighted voting system raises concerns about transparency and equity. While governance reform is important, it must prioritize clarity and fairness to ensure public trust and understanding.
 
 The Dallas Area Transit Alliance (DATA) urges the DART Board to carefully evaluate these proposals with a focus on equity, sustainability, and the agency's mission to serve transit riders across the region.
 
