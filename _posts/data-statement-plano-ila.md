@@ -1,13 +1,13 @@
 ---
 title: "DATA Response to DART Board of Directors Workshop on Member City Requests and Demands"
 excerpt: "On December 18, 2024, the DART Board of Directors held a workshop to discuss several key requests and demands raised by its member cities, including Plano. The discussion focused on four primary topics"
-coverImage: "/assets/blog/fy25-dart-budget-proposal-response/cover.png"
+coverImage: "/assets/blog/data-statement-plano-ila/cover.jpg"
 date: "2024-12-20T05:00:00.000Z"
 author:
   name: DATA Executive Committee
   picture: "/assets/blog/authors/data-team.png"
 ogImage:
-  url: "/assets/blog/fy25-dart-budget-proposal-response/cover.png"
+  url: "/assets/blog/data-statement-plano-ila/cover.jpg"
 ---
 
 FOR IMMEDIATE RELEASE
@@ -49,6 +49,9 @@ Dallas Area Transit Alliance [Facebook Group](https://www.facebook.com/groups/70
 
 **About DATA:**  
 The Dallas Area Transit Alliance (DATA) is a grassroots organization dedicated to preserving and advancing public transit in the service area of Dallas Area Rapid Transit (DART). Founded in 2024, DATA advocates for the continued funding and improvement of services, ensuring that all residents have access to safe, reliable, and efficient public transportation.  
+
+*Photo of DART Board of Directors Workshop on December 18, 2024*
+
 ## DART board contact list:
 
 ```text
