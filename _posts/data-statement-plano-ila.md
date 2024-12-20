@@ -2,9 +2,9 @@
 title: "DATA Response to DART Board of Directors Workshop on Member City Requests and Demands"
 excerpt: "On December 18, 2024, the DART Board of Directors held a workshop to discuss several key requests and demands raised by its member cities, including Plano. The discussion focused on four primary topics"
 coverImage: "/assets/blog/fy25-dart-budget-proposal-response/cover.png"
-date: "2024-08-12T05:00:00.000Z"
+date: "2024-12-20T05:00:00.000Z"
 author:
-  name: DATA Alert
+  name: DATA Executive Committee
   picture: "/assets/blog/authors/data-team.png"
 ogImage:
   url: "/assets/blog/fy25-dart-budget-proposal-response/cover.png"
