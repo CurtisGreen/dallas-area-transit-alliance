@@ -52,10 +52,15 @@ The Dallas Area Transit Alliance (DATA) is a grassroots organization dedicated t
 
 *Photo of DART Board of Directors Workshop on December 18, 2024*
 
-## DART board contact list:
+## DART Board of Directors contact list:
 
 ```text
 GASlagel@dart.org, RSchlosser@dart.org, MNBarbera@dart.org, FMHernandez@dart.org, MCEnoch@dart.org, PNWageman@dart.org, RHStopfer@dart.org, MWKrause@dart.org, PJKennedy@dart.org, DHrbacek@dart.org, CGarcia3@dart.org, MAbraham@dart.org, EMacGregor@dart.org, DDAlexander@dart.org, RBBryant@dart.org
+```
+
+## Plano City Council contact list:
+```text
+mayor@plano.gov, mariatu@plano.gov, julieholmer@plano.gov, aricciardelli@plano.gov, rickhorne@plano.gov, kayciprince@plano.gov, shelbywilliams@plano.gov, ricksmith@plano.gov
 ```
 
 To get the latest updates and news, follow DATA's social media listed at [https://dallasareatransitalliance.org/contact](https://dallasareatransitalliance.org/contact).
