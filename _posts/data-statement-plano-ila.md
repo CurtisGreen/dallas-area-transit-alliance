@@ -16,7 +16,7 @@ FOR IMMEDIATE RELEASE
 
 DALLAS, TEXAS – On December 18, 2024, the DART Board of Directors held a workshop to discuss [several key requests and demands raised by its member cities](/assets/blog/data-statement-plano-ila/jbm-to-gary-slagel-dart-12-13-2024.pdf), primarily Plano. The discussion focused on four primary topics:
 
-1. Provide a sum of dollars equal to 25% of both Plano’s 2024 and 2025 sales tax through a Interlocal Agreement [ILA]
+1. Provide a sum of dollars equal to 25% of both Plano’s 2024 and 2025 sales tax through a Interlocal Agreement (ILA)
 2. Provide a city-wide, single-zone GoLink service
 3. Provide a circulator service connecting the commercial and business centers at Legacy
 4. Delay the upcoming bus replacement purchase
