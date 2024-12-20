@@ -45,7 +45,7 @@ Website: [dallasareatransitalliance.org](https://dallasareatransitalliance.org) 
 
 **Social Media:**  
 Dallas Area Transit Alliance [Facebook Group](https://www.facebook.com/groups/7092451177524504) and [Facebook Page](https://www.facebook.com/profile.php?id=61563559341185)  
-@ridewithdata on [Instagram](https://instagram.com/ridewithdata) and [Twitter/X](https://twitter.com/ridewithdata)  
+@ridewithdata on [Instagram](https://instagram.com/ridewithdata), [Bluesky](https://bsky.app/profile/ridewithdata.org) and [Twitter/X](https://twitter.com/ridewithdata)  
 
 **About DATA:**  
 The Dallas Area Transit Alliance (DATA) is a grassroots organization dedicated to preserving and advancing public transit in the service area of Dallas Area Rapid Transit (DART). Founded in 2024, DATA advocates for the continued funding and improvement of services, ensuring that all residents have access to safe, reliable, and efficient public transportation.  
