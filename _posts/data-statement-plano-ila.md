@@ -1,6 +1,6 @@
 ---
 title: "DATA Response to DART Board of Directors Workshop on Member City Requests and Demands"
-excerpt: "On December 18, 2024, the DART Board of Directors held a workshop to discuss several key requests and demands raised by its member cities, including Plano. The discussion focused on four primary topics"
+excerpt: "On December 18, 2024, the DART Board of Directors held a workshop to discuss several key requests and demands raised by its member cities, primarily Plano. The discussion focused on four primary topics"
 coverImage: "/assets/blog/data-statement-plano-ila/cover.jpg"
 date: "2024-12-20T05:00:00.000Z"
 author:
