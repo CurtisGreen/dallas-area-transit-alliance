@@ -5,6 +5,58 @@ export const revalidate = 3600;
 
 const scheduleData = [
   {
+    title: "DATA February General Meeting",
+    date: new Date("2025-02-22 16:00-05:00"),
+    points: [
+      "Saturday, February 22 from 1:00PM - 4:00PM",
+      "J. Erik Jonsson Central Library at 1515 Young Street, Dallas",
+      "Hamon Training Room, 5th floor",
+      <i>
+        Disclosure: This event is not sponsored by the Dallas Public Library
+      </i>,
+    ],
+  },
+  {
+    title: "DATA January General Meeting",
+    date: new Date("2025-01-18 16:00-05:00"),
+    points: [
+      "Saturday, January 18 from 2:00PM - 4:00PM",
+      "J. Erik Jonsson Central Library at 1515 Young Street, Dallas",
+      "Hamon Training Room, 5th floor",
+      <i>
+        Disclosure: This event is not sponsored by the Dallas Public Library
+      </i>,
+    ],
+  },
+  {
+    title: "DART Board Workshop",
+    date: new Date("2025-01-08 17:00-05:00"),
+    points: [
+      "Wednesday, January 8th, Time TBD",
+      "DART Headquarters at Akard Station, 1401 Pacific Avenue",
+      "Workshop to address Plano's demands and potential governance changes",
+    ],
+  },
+  {
+    title: "Tabling events at Parker Road Station",
+    date: new Date("2025-01-09 12:00-05:00"),
+    points: [
+      "Tuesday - Thursday, January 7 - 9 from 6:00AM - 9:00AM",
+      "Parker Road Station, Plano",
+      "Tabling during rush hour at Parker Road station. " +
+        "If you can only help for 30m or an hour during this time it would still be extremely helpful!",
+    ],
+  },
+  {
+    title: "Plano Hangout at 1418 Coffee",
+    date: new Date("2025-01-04 16:00-05:00"),
+    points: [
+      "Saturday, January 4 from 1:00PM - 4:00PM",
+      "1418 K Ave, Plano",
+      "A chill social hangout at 1418 coffee in Downtown Plano. Invite your friends from Plano!",
+    ],
+  },
+  {
     title: "DATA Holiday Social",
     date: new Date("2024-12-15 17:00-05:00"),
     points: [
