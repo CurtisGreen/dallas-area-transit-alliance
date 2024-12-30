@@ -5,6 +5,91 @@ export const revalidate = 3600;
 
 const scheduleData = [
   {
+    title: "DATA February General Meeting",
+    date: new Date("2025-02-22 16:00-05:00"),
+    points: [
+      "Saturday, February 22 from 1:00PM - 4:00PM",
+      "J. Erik Jonsson Central Library at 1515 Young Street, Dallas",
+      "Hamon Training Room, 5th floor",
+      <i>
+        Disclosure: This event is not sponsored by the Dallas Public Library
+      </i>,
+    ],
+  },
+  {
+    title: "Discussing the Future of Public Transit in Texas",
+    date: new Date("2025-02-01 14:00-05:00"),
+    points: [
+      "Saturday, February 1 from 1:00PM - 2:00PM",
+      "J. Erik Jonsson Central Library at 1515 Young Street, Dallas",
+      "Hamon Training Room, 5th floor",
+      "Live podcast recording with Transit Tangents. Special guests TBD.",
+      <i>
+        Disclosure: This event is not sponsored by the Dallas Public Library
+      </i>,
+    ],
+  },
+  {
+    title: "Speak at DART board meeting",
+    date: new Date("2025-01-28 18:00-05:00"),
+    points: [
+      "Tuesday, January 28, 5:45PM",
+      "DART Headquarters at Akard Station, 1401 Pacific Avenue",
+    ],
+  },
+  {
+    title: "DATA January General Meeting",
+    date: new Date("2025-01-18 16:00-05:00"),
+    points: [
+      "Saturday, January 18 from 2:00PM - 4:00PM",
+      "J. Erik Jonsson Central Library at 1515 Young Street, Dallas",
+      "Hamon Training Room, 5th floor",
+      <i>
+        Disclosure: This event is not sponsored by the Dallas Public Library
+      </i>,
+    ],
+  },
+  {
+    title: "DART Board Workshop",
+    date: new Date("2025-01-13 22:00-05:00"),
+    points: [
+      "Wednesday, January 8, Time TBD",
+      "DART Headquarters at Akard Station, 1401 Pacific Avenue",
+      "Workshop to address Plano's demands and potential governance changes",
+    ],
+  },
+  {
+    title: "Speak at Plano City Council Meeting",
+    date: new Date("2025-01-13 22:00-05:00"),
+    points: [
+      "Monday, January 13, 7:00PM - 10:00PM",
+      "1520 K Ave, Plano",
+      "Do you live or work in Plano? Show up or comment over zoom to show your support for DART",
+      <Link href="https://forms.gle/H1CD5qY5qbcd25eTA" className="underline">
+        Please fill out this form to let us know you are going to comment
+      </Link>,
+    ],
+  },
+  {
+    title: "Tabling events at Parker Road Station",
+    date: new Date("2025-01-09 12:00-05:00"),
+    points: [
+      "Tuesday - Thursday, January 7 - 9 from 6:00AM - 9:00AM",
+      "Parker Road Station, Plano",
+      "Tabling during rush hour at Parker Road station. " +
+        "If you can only help for 30m or an hour during this time it would still be extremely helpful!",
+    ],
+  },
+  {
+    title: "Plano Hangout at 1418 Coffee",
+    date: new Date("2025-01-04 16:00-05:00"),
+    points: [
+      "Saturday, January 4 from 1:00PM - 4:00PM",
+      "1418 K Ave, Plano",
+      "A chill social hangout at 1418 coffee in Downtown Plano. Invite your friends from Plano!",
+    ],
+  },
+  {
     title: "DATA Holiday Social",
     date: new Date("2024-12-15 17:00-05:00"),
     points: [
