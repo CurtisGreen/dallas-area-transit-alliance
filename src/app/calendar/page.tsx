@@ -32,7 +32,7 @@ const scheduleData = [
     title: "DART Board Workshop",
     date: new Date("2025-01-13 22:00-05:00"),
     points: [
-      "Monday, January 13, Time TBD",
+      "Wednesday, January 8, Time TBD",
       "DART Headquarters at Akard Station, 1401 Pacific Avenue",
       "Workshop to address Plano's demands and potential governance changes",
     ],
@@ -41,7 +41,7 @@ const scheduleData = [
     title: "Speak at Plano City Council Meeting",
     date: new Date("2025-01-13 22:00-05:00"),
     points: [
-      "Wednesday, January 8, 7:00PM - 10:00PM",
+      "Monday, January 13, 7:00PM - 10:00PM",
       "1520 K Ave, Plano",
       "Do you live or work in Plano? Show up or comment over zoom to show your support for DART",
       <Link href="https://forms.gle/H1CD5qY5qbcd25eTA" className="underline">
