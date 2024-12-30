@@ -17,6 +17,14 @@ const scheduleData = [
     ],
   },
   {
+    title: "Speak at DART board meeting",
+    date: new Date("2025-01-28 18:00-05:00"),
+    points: [
+      "Tuesday, January 28, 5:45PM",
+      "DART Headquarters at Akard Station, 1401 Pacific Avenue",
+    ],
+  },
+  {
     title: "DATA January General Meeting",
     date: new Date("2025-01-18 16:00-05:00"),
     points: [
