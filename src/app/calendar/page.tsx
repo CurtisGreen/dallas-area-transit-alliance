@@ -17,6 +17,19 @@ const scheduleData = [
     ],
   },
   {
+    title: "Discussing the Future of Public Transit in Texas",
+    date: new Date("2025-02-01 14:00-05:00"),
+    points: [
+      "Saturday, February 1 from 1:00PM - 2:00PM",
+      "J. Erik Jonsson Central Library at 1515 Young Street, Dallas",
+      "Hamon Training Room, 5th floor",
+      "Live podcast recording with Transit Tangents. Special guests TBD.",
+      <i>
+        Disclosure: This event is not sponsored by the Dallas Public Library
+      </i>,
+    ],
+  },
+  {
     title: "Speak at DART board meeting",
     date: new Date("2025-01-28 18:00-05:00"),
     points: [
