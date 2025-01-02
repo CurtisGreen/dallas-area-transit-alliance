@@ -41,3 +41,4 @@ GoLink has been a great addition to DART to serve areas that aren't dense enough
 - Shelby Williams comment on Reddit, Nov 27, 2024: https://www.reddit.com/r/dart/comments/1gybalr/comment/lz9v4nj/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
 - DART reference book from May 2024 containing subsidy per rider for different modes of transit, including GoLink: https://dartorgcmsblob.dart.org/prod/docs/default-source/dart-facts/dartreferencebook.pdf?sfvrsn=fba0cc81_7
 - Transparency USA tracking lobbying payments from Uber toward DART board member Paul Wageman: https://www.transparencyusa.org/tx/lobbying/lobbyist/paul-n-wageman-52401
+- Images from DART's digital library: https://digitallibrary.dart.org/dallasarearapidtransit/digitallibrary
