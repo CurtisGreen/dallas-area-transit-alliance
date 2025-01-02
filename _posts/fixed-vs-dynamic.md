@@ -1,13 +1,13 @@
 ---
 title: "Fixed vs Dynamic Public Transit"
 excerpt: "Recently, some DART board and city council members have said that dynamic transit systems like Uber and Lyft are the future. They claim that fixed-route transit systems, like buses and trains, are no longer the most effective way to move people around."
-coverImage: "/assets/blog/dart-cuts/cover.png"
+coverImage: "/assets/blog/fixed-vs-dynamic/cover.png"
 date: "2025-01-02T05:00:00.000Z"
 author:
   name: Curtis Green
   picture: "/assets/blog/authors/curtis-green.jpg"
 ogImage:
-  url: "/assets/blog/dart-cuts/cover.png"
+  url: "/assets/blog/fixed-vs-dynamic/cover.png"
 ---
 
 # Fixed vs Dynamic Public Transit
