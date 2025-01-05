@@ -50,15 +50,6 @@ const scheduleData = [
     ],
   },
   {
-    title: "DART Board Workshop",
-    date: new Date("2025-01-13 22:00-05:00"),
-    points: [
-      "Wednesday, January 8, Time TBD",
-      "DART Headquarters at Akard Station, 1401 Pacific Avenue",
-      "Workshop to address Plano's demands and potential governance changes",
-    ],
-  },
-  {
     title: "Speak at Plano City Council Meeting",
     date: new Date("2025-01-13 22:00-05:00"),
     points: [
@@ -67,6 +58,21 @@ const scheduleData = [
       "Do you live or work in Plano? Show up or comment over zoom to show your support for DART",
       <Link href="https://forms.gle/H1CD5qY5qbcd25eTA" className="underline">
         Please fill out this form to let us know you are going to comment
+      </Link>,
+    ],
+  },
+  {
+    title: "DART Board Workshop",
+    date: new Date("2025-01-08 13:00-05:00"),
+    points: [
+      "Wednesday, January 8, 1:00PM",
+      "DART Headquarters at Akard Station, 1401 Pacific Avenue",
+      "Workshop to address Plano's demands and potential governance changes",
+      <Link
+        href="https://dartorgcmsblob.dart.org/prod/docs/default-source/about-dart/2025-01-08-special-called-meeting-of-the-committee-of-the-whole-agenda.pdf"
+        className="underline"
+      >
+        Agenda
       </Link>,
     ],
   },
