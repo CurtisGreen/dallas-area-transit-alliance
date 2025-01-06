@@ -62,7 +62,22 @@ const scheduleData = [
     ],
   },
   {
-    title: "DART Board Workshop",
+    title: "DART Board Workshop - Plano Demands, Part 2",
+    date: new Date("2025-01-10 13:00-05:00"),
+    points: [
+      "Wednesday, January 10, 1:00PM",
+      "DART Headquarters at Akard Station, 1401 Pacific Avenue",
+      "Workshop to address Plano's demands and potential governance changes",
+      <Link
+        href="https://dartorgcmsblob.dart.org/prod/docs/default-source/about-dart/2025-01-10-special-called-meeting-of-the-committee-of-the-whole-agenda.pdf"
+        className="underline"
+      >
+        Agenda
+      </Link>,
+    ],
+  },
+  {
+    title: "DART Board Workshop - Plano Demands, Part 1",
     date: new Date("2025-01-08 13:00-05:00"),
     points: [
       "Wednesday, January 8, 1:00PM",
