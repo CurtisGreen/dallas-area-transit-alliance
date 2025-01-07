@@ -1,5 +1,5 @@
 ---
-title: "September Newsletter"
+title: "November Newsletter"
 excerpt: "We will be discussing more plans about our state legislative strategy, giving some advocacy updates, and socializing with our fellow transit advocates as we always do."
 coverImage: "/assets/blog/november-2024-newsletter/cover.png"
 date: "2024-11-02T05:00:00.000Z"
