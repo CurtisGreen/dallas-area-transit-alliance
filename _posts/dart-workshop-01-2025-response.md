@@ -16,7 +16,7 @@ banner:
 
 [https://dart.org/about/about-dart/board-members](https://dart.org/about/about-dart/board-members)
 
-## Tell the DART Board about your opposition to funding caps and cuts
+## Tell the DART Board about your opposition to changing of governance to the DART Board
 
 * Wednesday, January 8th & 10th 2025, arrive by 12:45pm
 * Meeting is at DART Headquarters at Akard Station, [1401 Pacific Avenue, Dallas](https://maps.app.goo.gl/36uCk3suvRdJPfM47)
