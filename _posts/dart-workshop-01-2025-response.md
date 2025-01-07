@@ -2,7 +2,7 @@
 title: "DATA Statement on Upcoming DART Board Workshops on January 8th and 10th 2025"
 excerpt: "Contact the DART Board and tell them that you oppose DART funding caps and cuts"
 coverImage: "/assets/blog/fy25-dart-budget-proposal-response/cover.png"
-date: "2024-08-12T05:00:00.000Z"
+date: "2025-01-07T05:00:00.000Z"
 author:
   name: DATA Alert
   picture: "/assets/blog/authors/data-team.png"
