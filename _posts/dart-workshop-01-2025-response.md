@@ -7,7 +7,7 @@ author:
   name: DATA Alert
   picture: "/assets/blog/authors/data-team.png"
 ogImage:
-  url: "/assets/blog/dart-workshop-01-25-responsee/cover.png"
+  url: "/assets/blog/dart-workshop-01-25-response/cover.png"
 banner: 
   text: "ACTION REQUESTED: EMAIL YOUR DART BOARD ABOUT THE GOVERNANCE OF DART"
 ---
