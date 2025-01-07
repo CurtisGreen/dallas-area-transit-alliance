@@ -1,15 +1,15 @@
 ---
 title: "DATA Statement on Upcoming DART Board Workshops on January 8th and 10th 2025"
-excerpt: "Contact the DART Board and tell them that you oppose DART funding caps and cuts"
-coverImage: "/assets/blog/fy25-dart-budget-proposal-response/cover.png"
+excerpt: "The upcoming DART Board working sessions are expected to discuss key decision points regarding the governance and finances of DART"
+coverImage: "/assets/blog/dart-workshop-01-2025-response/cover.png"
 date: "2025-01-07T05:00:00.000Z"
 author:
   name: DATA Alert
   picture: "/assets/blog/authors/data-team.png"
 ogImage:
-  url: "/assets/blog/fy25-dart-budget-proposal-response/cover.png"
+  url: "/assets/blog/dart-workshop-01-2025-response/cover.png"
 banner: 
-  text: "ACTION REQUESTED: EMAIL YOUR DART BOARD ABOUT THE UPCOMING FY2025 DART BUDGET PROPOSALS"
+  text: "ACTION REQUESTED: EMAIL YOUR DART BOARD ABOUT THE GOVERNANCE OF DART"
 ---
 
 ## Contact your DART board members!
@@ -31,11 +31,11 @@ We do not support the demands in Plano’s letter, nor the precedents in DART’
 
 # Here’s how you can help support DATA’s efforts to keep transit in DFW effective:
 
-- Email and/or call your DART board representative and board chair Gary Slagel, indicating that you do not support Plano’s demands nor any non-population-based board governance model. Contact information for the DART Board can be found here. (change to below, add DART email at end of message)
+- Email and/or call your DART board representative and board chair Gary Slagel, indicating that you do not support Plano’s demands nor any non-population-based board governance model. Contact information for the DART Board can be found below this message.
 - Attend one or both of the upcoming board workshops on January 8th and 10th and submit a public comment related to the above
-- - January 8th meeting agenda and location details
-- - January 10th meeting agenda and location details
-- - Livestream link
+- [January 8th meeting agenda and location details](https://dartorgcmsblob.dart.org/prod/docs/default-source/about-dart/2025-01-08-special-called-meeting-of-the-committee-of-the-whole-agenda.pdf?sfvrsn=f1f38c59_1)
+- [January 10th meeting agenda and location details](https://dartorgcmsblob.dart.org/prod/docs/default-source/about-dart/2025-01-10-special-called-meeting-of-the-committee-of-the-whole-agenda-packet.pdf?sfvrsn=1c859ef6_1)
+- [Livestream link](https://www.dart.org/about/public-access-information/board-meetings-information/dart-board-meeting-video)
 - [Follow @ridewithdata on Instagram/Twitter/Bluesky for updates](/contact)
 - [Join the DATA discord to interact with the members directly](https://discord.gg/DF23rXbY)
 
