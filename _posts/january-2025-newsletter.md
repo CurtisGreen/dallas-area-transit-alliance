@@ -1,13 +1,13 @@
 ---
-title: "December Newsletter"
-excerpt: "Happy Holidays from all of us at DATA! We got a few events and some news for this month we'd like for you to be aware about"
-coverImage: "/assets/blog/december-2024-newsletter/cover.png"
-date: "2024-12-09T05:00:00.000Z"
+title: "January Newsletter"
+excerpt: "Happy New Year from all of us at DATA! We have a great newsletter with all of our upcoming events and what we've accomplished in the past month of December."
+coverImage: "/assets/blog/january-2025-newsletter/cover.png"
+date: "2024-01-01T05:00:00.000Z"
 author:
   name: DATA Newsletter
   picture: "/assets/blog/authors/data-team.png"
 ogImage:
-  url: "/assets/blog/december-2024-newsletter/cover.png"
+  url: "/assets/blog/january-2025-newsletter/cover.png"
 ---
 
 # Hello,
