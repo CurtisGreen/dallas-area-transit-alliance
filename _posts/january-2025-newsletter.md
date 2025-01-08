@@ -2,7 +2,7 @@
 title: "January Newsletter"
 excerpt: "Happy New Year from all of us at DATA! We have a great newsletter with all of our upcoming events and what we've accomplished in the past month of December."
 coverImage: "/assets/blog/january-2025-newsletter/cover.png"
-date: "2024-01-01T05:00:00.000Z"
+date: "2025-01-01T05:00:00.000Z"
 author:
   name: DATA Newsletter
   picture: "/assets/blog/authors/data-team.png"
