@@ -1,6 +1,6 @@
 ---
 title: "November Newsletter"
-excerpt: "We will be discussing more plans about our state legislative strategy, giving some advocacy updates, and socializing with our fellow transit advocates as we always do."
+excerpt: "We’ll be discussing proposed sales tax cuts, taking a detailed look at their potential impacts and the essential frequency plans they could jeopardize. This is also a great opportunity to connect with fellow transit advocates in our community."
 coverImage: "/assets/blog/november-2024-newsletter/cover.png"
 date: "2024-11-02T05:00:00.000Z"
 author:
