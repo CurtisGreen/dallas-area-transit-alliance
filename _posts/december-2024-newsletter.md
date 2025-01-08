@@ -14,7 +14,7 @@ Happy Holidays from all of us at DATA! We got a few events and some news for thi
 
 **Join us this Tuesday, December 10**, at the DART Board Meeting to advocate for the procurement of new buses. Your stories and support can make a real difference!
 
-## Key details to keep in mind:**
+## Key details to keep in mind:
 
 - **Agenda Item:** Use Agenda Item 17 on your comment card when speaking.
 - **Why it matters:** Share your experiences with bus breakdowns and why new buses are crucial for reliable service.
@@ -34,12 +34,12 @@ Let’s come together to ensure our transit system meets the needs of our growin
 This month, instead of our regular general meetings, we’re excited to host two social events! These events are a chance to connect, celebrate, and socialize with fellow DATA members while supporting our shared passion for better transit.
 
 
-# 1st Annual Holiday Social
+## 1st Annual Holiday Social
 ![Image](/assets/blog/december-2024-newsletter/hs.png)
 Join us for our first-ever Holiday Social at Pegasus City Brewery on December 15th from 2pm to 4pm. Enjoy festive vibes, local brews, and the opportunity to meet and mingle with fellow transit enthusiasts. Stick around afterwards for Mappy Hour, an informal social for local urbanists to contribute to OpenStreetMap together.
 
 
-# DATA & Trains at NorthPark
+## DATA & Trains at NorthPark
 ![Image](/assets/blog/december-2024-newsletter/tanp.jpg)
 - Join DATA for a social field trip to NorthPark Center for Trains at NorthPark. 
 
@@ -49,7 +49,7 @@ Join us for our first-ever Holiday Social at Pegasus City Brewery on December 15
 
 RSVP and purchase tickets on Action Network
 
-# IYCMI: Transit Tangent
+## IYCMI: Transit Tangent
 ![Image](/assets/blog/december-2024-newsletter/tt.jpg)
 Our President and Vice-President were on the Transit Tangent podcast earlier this month detailing the DART cuts and how they impact us; give it a watch!
 
