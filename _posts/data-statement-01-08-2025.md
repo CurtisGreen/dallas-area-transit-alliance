@@ -9,7 +9,7 @@ author:
 ogImage:
   url: "/assets/blog/dart-statement-01-08-2025/cover.png"
 banner: 
-  text: "ACTION REQUESTED: EMAIL YOUR DART BOARD ABOUT THE GOVERNANCE OF DART"
+  text: "false"
 ---
 
 ## Contact your DART board members!
