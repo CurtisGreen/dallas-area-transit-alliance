@@ -1,13 +1,13 @@
 ---
 title: "DATA Statement on DART Board Workshops on January 8th, 2025"
 excerpt: "The DART board is discussing cutting back fixed route bus service in Plano in order to fund city wide GoLink service"
-coverImage: "/assets/blog/dart-statement-01-08-2025/cover.png"
+coverImage: "/assets/blog/dart-workshop-01-25-response/cover.png"
 date: "2025-01-09T05:00:00.000Z"
 author:
   name: DATA Alert
   picture: "/assets/blog/authors/data-team.png"
 ogImage:
-  url: "/assets/blog/dart-statement-01-08-2025/cover.png"
+  url: "/assets/blog/dart-workshop-01-25-response/cover.png"
 banner: 
   text: ""
 ---
