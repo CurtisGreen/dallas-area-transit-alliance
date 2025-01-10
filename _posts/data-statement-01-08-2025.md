@@ -18,7 +18,7 @@ banner:
 
 ## Tell the DART Board about your opposition to reduction of DART fixed services for a single GoLink zone
 
-* Wednesday, January 10th 2025, arrive by 12:45pm
+* Friday, January 10th 2025, arrive by 12:45pm
 * Meeting is at DART Headquarters at Akard Station, [1401 Pacific Avenue, Dallas](https://maps.app.goo.gl/36uCk3suvRdJPfM47)
 * Fill out a "Request to Address The Board" comment card - this can only be done in person. [DART board meeting details and public comment guidance](https://www.dart.org/about/public-access-information/board-meetings-information)
 
