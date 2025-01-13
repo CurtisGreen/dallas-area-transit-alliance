@@ -8,8 +8,6 @@ author:
   picture: "/assets/blog/authors/data-team.png"
 ogImage:
   url: "/assets/blog/dart-workshop-01-25-response/cover.png"
-banner: 
-  text: ""
 ---
 
 ## Contact your DART board members!
