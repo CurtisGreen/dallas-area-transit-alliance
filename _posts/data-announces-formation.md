@@ -10,6 +10,7 @@ ogImage:
   url: "/assets/blog/data-announces-formation/cover.jpg"
 banner: 
   text: "Read our latest press release announcing our formation."
+  hide: true
 ---
 
 FOR IMMEDIATE RELEASE

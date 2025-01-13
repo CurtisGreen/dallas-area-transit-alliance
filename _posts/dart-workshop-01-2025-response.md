@@ -10,6 +10,7 @@ ogImage:
   url: "/assets/blog/dart-workshop-01-25-response/cover.png"
 banner: 
   text: "ACTION REQUESTED: EMAIL YOUR DART BOARD ABOUT THE GOVERNANCE OF DART"
+  hide: true
 ---
 
 ## Contact your DART board members!
