@@ -20,9 +20,6 @@ export function SocialIcons({ showGitHub }: Props) {
       <a href="https://instagram.com/ridewithdata">
         <InstagramIcon className="h-8" />
       </a>
-      <a href="https://x.com/ridewithdata">
-        <XIcon className="h-8" />
-      </a>
       <a href="https://bsky.app/profile/ridewithdata.org">
         <BlueskyIcon className="h-8" />
       </a>
