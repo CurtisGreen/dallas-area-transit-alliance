@@ -34,8 +34,9 @@ export function Footer() {
               that is not affiliated with Dallas Area Rapid Transit (DART) or
               any other transit or government agency.
             </div>
-            <div i className="mb-4 text-center lg:text-left">
-              In Honor and Dedication to Mary Collier – A Friend, Advocate, and Champion of DATA. Your passion and commitment will always be remembered.</div>
+            <div className="mb-4 text-center lg:text-left">
+              <i>In Honor and Dedication to Mary Collier – A Friend, Advocate, and Champion of DATA. Your passion and commitment will always be remembered.</i>
+            </div>
           <SocialIcons showGitHub={true} />
 
           <div className="py-4 flex flex-wrap flex-row max-sm:justify-center gap-x-8 gap-y-4">
