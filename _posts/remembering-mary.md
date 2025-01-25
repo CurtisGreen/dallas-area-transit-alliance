@@ -1,6 +1,6 @@
 ---
 title: "Remembering Mary"
-excerpt: ""
+excerpt: "A Friend, Advocate, and Champion of DATA. Your passion and commitment will always be remembered."
 coverImage: "/assets/blog/remembering-mary/cover.jpg"
 date: "2025-01-25T05:00:00.000Z"
 author:
@@ -21,4 +21,4 @@ We will miss her dearly.
 
 ===
 
-This post will be updated, when we have more information to share. 
+This post will be updated, when we have more information to share and with Mary's legacy for DATA.
