@@ -28,11 +28,14 @@ export function Footer() {
             <Logo className="w-64" />
           </div>
           <div className="flex flex-col justify-center items-center lg:items-start lg:pl-4 lg:w-1/2 xl:2-1/3">
-            <div className="mb-2">&copy; 2024 Dallas Area Transit Alliance</div>
-            <div className="mb-4 text-center lg:text-left">
+            <div className="mb-2">&copy; 2025 Dallas Area Transit Alliance</div>
+            <div className="mb-2 text-center lg:text-left">
               Dallas Area Transit Alliance (DATA) is a rider-run advocacy group
               that is not affiliated with Dallas Area Rapid Transit (DART) or
               any other transit or government agency.
+            </div>
+            <div className="mb-4 text-center lg:text-left">
+              <i>In Honor and Dedication to Mary Collier – A Friend, Advocate, and Champion of DATA. Your passion and commitment will always be remembered.</i>
             </div>
             <SocialIcons showGitHub={true} />
 
@@ -55,6 +58,6 @@ export function Footer() {
           </div>
         </div>
       </div>
-    </footer>
+    </footer >
   );
 }
