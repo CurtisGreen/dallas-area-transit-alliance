@@ -33,29 +33,30 @@ export function Footer() {
               Dallas Area Transit Alliance (DATA) is a rider-run advocacy group
               that is not affiliated with Dallas Area Rapid Transit (DART) or
               any other transit or government agency.
-              <i>In Honor and Dedication to Mary Collier – A Friend, Advocate, and Champion of DATA. Your passion and commitment will always be remembered.</i>
             </div>
-            <SocialIcons showGitHub={true} />
+            <div i className="mb-4 text-center lg:text-left">
+              In Honor and Dedication to Mary Collier – A Friend, Advocate, and Champion of DATA. Your passion and commitment will always be remembered.</i></div>
+          <SocialIcons showGitHub={true} />
 
-            <div className="py-4 flex flex-wrap flex-row max-sm:justify-center gap-x-8 gap-y-4">
-              <FooterLink href="/about">About</FooterLink>
-              <FooterLink href="https://actionnetwork.org/groups/dallas-area-transit-alliance">
-                Action Network
-              </FooterLink>
-              <FooterLink href="/calendar">Calendar</FooterLink>
-              <FooterLink href="/contact">Contact</FooterLink>
-              <DownloadButton href="/logos/data-logos.zip">
-                <div className="underline hover:text-gray-600 dark:hover:text-slate-300 cursor-pointer">
-                  Media Kit
-                </div>
-              </DownloadButton>
-              <FooterLink href="https://docs.google.com/forms/d/e/1FAIpQLSeE-SrnsbjniO7I0BkdHourNdQYO_MKaYhKa6iQjN63_eubBg/viewform">
-                Newsletter
-              </FooterLink>
-            </div>
+          <div className="py-4 flex flex-wrap flex-row max-sm:justify-center gap-x-8 gap-y-4">
+            <FooterLink href="/about">About</FooterLink>
+            <FooterLink href="https://actionnetwork.org/groups/dallas-area-transit-alliance">
+              Action Network
+            </FooterLink>
+            <FooterLink href="/calendar">Calendar</FooterLink>
+            <FooterLink href="/contact">Contact</FooterLink>
+            <DownloadButton href="/logos/data-logos.zip">
+              <div className="underline hover:text-gray-600 dark:hover:text-slate-300 cursor-pointer">
+                Media Kit
+              </div>
+            </DownloadButton>
+            <FooterLink href="https://docs.google.com/forms/d/e/1FAIpQLSeE-SrnsbjniO7I0BkdHourNdQYO_MKaYhKa6iQjN63_eubBg/viewform">
+              Newsletter
+            </FooterLink>
           </div>
         </div>
       </div>
-    </footer>
+    </div>
+    </footer >
   );
 }
