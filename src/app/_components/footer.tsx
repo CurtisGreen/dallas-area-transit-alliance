@@ -35,7 +35,7 @@ export function Footer() {
               any other transit or government agency.
             </div>
             <div i className="mb-4 text-center lg:text-left">
-              In Honor and Dedication to Mary Collier – A Friend, Advocate, and Champion of DATA. Your passion and commitment will always be remembered.</i></div>
+              In Honor and Dedication to Mary Collier – A Friend, Advocate, and Champion of DATA. Your passion and commitment will always be remembered.</div>
           <SocialIcons showGitHub={true} />
 
           <div className="py-4 flex flex-wrap flex-row max-sm:justify-center gap-x-8 gap-y-4">
