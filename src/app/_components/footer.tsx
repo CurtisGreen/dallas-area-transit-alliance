@@ -33,6 +33,9 @@ export function Footer() {
               Dallas Area Transit Alliance (DATA) is a rider-run advocacy group
               that is not affiliated with Dallas Area Rapid Transit (DART) or
               any other transit or government agency.
+              <div className="mb-4 text-center lg:text-left">
+              <i>In Honor and Dedication to Mary Collier – A Friend, Advocate, and Champion of DATA. Your passion and commitment will always be remembered.</i>
+              </div>
             </div>
             <SocialIcons showGitHub={true} />
 
