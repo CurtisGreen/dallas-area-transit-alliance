@@ -15,12 +15,12 @@ Yesterday (January 24, 2025), we found out that Mary Collier, our Events Plannin
 
 Mary was a fierce warrior for public transportation while also planning so many social gatherings that brought this community together.
 
-Mary had planned several events in the [calendar](/calendar), and we realize that may raise some important questions. The Executive Committee has decided that out of respect for her and all the work she put into DATA, those events will not be cancelled. It's our belief that she would have wanted us to keep the community together and continue our efforts to save DART, so that's exactly what we will be doing.
+Mary has several planned events in the [calendar](/calendar), and we realize that may raise some important questions. The Executive Committee has decided that out of respect for her and all the work she put into DATA, these events will not be canceled. It is our belief that she would have wanted us to keep the community together and continue our efforts to save DART, so that is exactly what we will be doing.
 
 We will miss her dearly. 
 
 ===
 
-This post will be updated, when we have more information to share and with Mary's legacy for DATA.
+This post will be updated when we have more information to share and with Mary's legacy for DATA.
 
 *Last Updated: January 25, 2025 - 9:00 PM CT*
