@@ -11,7 +11,7 @@ ogImage:
 banner: 
   text: "Remembering Mary - A Friend, Advocate, and Champion of DATA. Your passion and commitment will always be remembered."
 ---
-Yesterday (January 24, 2025), we found out that Mary Collier, our Events Planning Committee Chair passed away on Tuesday (January 21, 2025).
+Yesterday (January 24, 2025), we found out that Mary Collier, our Events Planning Committee Chair, passed away on Tuesday (January 21, 2025).
 
 Mary was a fierce warrior for public transportation while also planning so many social gatherings that brought this community together.
 
