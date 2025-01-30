@@ -11,8 +11,6 @@ ogImage:
 banner: 
   text: "Remembering Mary - A Friend, Advocate, and Champion of DATA. Your passion and commitment will always be remembered."
 ---
-This February Newsletter is going to be a little somber, please read this email while sitting down.
-
 On January 24, 2025, our Executive Committee was notified that Mary Collier, our Events Planning Committee Chair, passed away on Tuesday, January 21, 2025. 
 
 Mary was a fierce warrior for public transportation while also planning so many social gatherings that brought this community together, her work shines across many organizations and groups. Mary’s efforts laid the foundation for much of what DATA stands for today, inspiring countless individuals to take action.
@@ -101,7 +99,7 @@ DATA will be running another special order of the "Come and Take It" shirt in de
 
 <!-- Add shirt design -->
 
-# Services
+## Services
 For those wishing to share condolences or honor Mary’s memory, please reach out to the Executive Committee.
 
 <!-- We will have more information to share as we get it from Mary's family -->
