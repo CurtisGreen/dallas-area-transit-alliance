@@ -19,13 +19,13 @@ Mary started her work in DATA with organizing our founding event caused by city 
 
 <!-- ![Image](/assets/blog/remembering-mary/FB-Trash-Cleanup-2024) -->
 
-Mary continued her advovacy by speaking at City Council meetings (namely in Carrollton, Plano, and the City of Dallas) and DART Board meetings to advocate for continued DART funding (No Caps, No Cuts), Bus Procurement, and Bus Frequency Improvements.
+Mary continued her advocacy by speaking at City Council meetings (namely in Carrollton, Plano, and the City of Dallas) and DART Board meetings to advocate for continued DART funding (No Caps, No Cuts), Bus Procurement, and Bus Frequency Improvements.
 
 <!--
 Make a private Google Drive/ unlisted Youtube with all of Mary's remarks, pull from Hexel Mary's comment at DART Board meeting posted on DUSTLC Instagram (done),  does not need to be done right now
 -->
 
-In September, after planning many unofficial DATA events, Mary put in her canidacy for the Event Planning Coordinator Chair, Mary won the vote and started planning all events for DATA and other partner organizations like DFW Urbanistas and Comet's for Better Transit (CfBT is a DART advovacy group for UT Dallas Students)
+In September, after planning many unofficial DATA events, Mary put in her candidacy for the Event Planning Coordinator Chair, Mary won the vote and started planning all events for DATA and other partner organizations like DFW Urbanistas and Comet's for Better Transit (CfBT is a DART advovacy group for UT Dallas Students)
 
 Some of the many events she planned were across many organizations and in many cities.
 <!-- Add list or summary of all events, we may have a very long list, does not need to be done right now--> 
