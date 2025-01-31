@@ -85,7 +85,7 @@ Mary had planned several events in the [calendar](/calendar), and we realize tha
 
 ## Honors and Dedications
 
-To Honor Mary, she always would want to pull people onto trains and buses. DATA will be doing an "honor ride" where we will be taking the Green Line from Downtown Carrollton Station and riding the 230 bus to her workplace where she worked as an instrument repair techncian. The date and time will be updated and announced on social media as we get more details.
+To Honor Mary, she always would want to pull people onto trains and buses. DATA will be doing an "honor ride" where we will be taking the Green Line from Downtown Carrollton Station and riding the 230 bus to her workplace where she worked as an instrument repair technician. The date and time will be updated and announced on social media as we get more details.
 
 <!-- Add Event Details as we get them -->
 - **Date:** TBA 
