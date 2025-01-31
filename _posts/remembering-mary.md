@@ -43,7 +43,7 @@ Some of the many events she planned were across many organizations and in many c
 Mary had planned several events in the [calendar](/calendar), and we realize that may raise some important questions. The Executive Committee has decided that out of respect for her and all the work she put into DATA, these events will not be canceled. It is our belief that she would have wanted us to keep the community together and continue our efforts to save DART, so that is exactly what we will be doing.
 
 <!-- Add FEB events -->
-**Transit Tangents Podcast - In Dedication to Mary Collier**
+**Transit Tangents Podcast**
 - **Date:** Saturday, February 1  
 - **Time:** 2:00 PM - 4:00 PM  
 - **Location:** J. Erik Jonsson Central Library, 1515 Young Street, Dallas  
@@ -100,7 +100,7 @@ DATA will be running another special order of the "Come and Take It" shirt in de
 <!-- Add shirt design -->
 
 ## Services
-For those wishing to share condolences or honor Mary’s memory, please reach out to the Executive Committee.
+For those wishing to share condolences or honor Mary’s memory, please reach out to the Executive Committee. 
 
 <!-- We will have more information to share as we get it from Mary's family -->
 
@@ -108,4 +108,4 @@ For those wishing to share condolences or honor Mary’s memory, please reach ou
 
 This post will be updated when we have more information to share and with Mary's legacy for DATA.
 
-*Last Updated: January 29, 2025 - 9:00 PM CT*
+*Last Updated: January 31, 2025 - 3:00 PM CT*
