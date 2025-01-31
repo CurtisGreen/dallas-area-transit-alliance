@@ -55,7 +55,7 @@ Mary had planned several events in the [calendar](/calendar), and we realize tha
 - **Date:** Sunday, February 2
 - **Time:** 5:00 PM to 7:00 PM
 - **Location:** Dumpling House, Plano (Parker Road) location
-- **Neareset Rail/Bus Stop:** Parker Road Station (Red Line), then take the 234 bus route westbound
+- **Nearest Rail/Bus Stop:** Parker Road Station (Red Line), then take the 234 bus route westbound
 
 **Plano City Council Meetings**
 - **Meeting Dates:** 2/10/2025, 2/24/2025  
