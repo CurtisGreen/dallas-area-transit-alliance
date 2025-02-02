@@ -83,7 +83,9 @@ Mary had planned several events in the [calendar](/calendar), and we realize tha
 - **Nearest Rail Station:** Addision Transit Center 
 - **Details:** Reading Human Transit for the month of February
 
-## Honors and Dedications
+## Services, Honors and Dedications
+
+For those wishing to share condolences or honor Mary’s memory, please see the following [webpage](https://www.forevermissed.com/mary-collier/). 
 
 To Honor Mary, she always would want to pull people onto trains and buses. DATA will be doing an "honor ride" where we will be taking the Green Line from Downtown Carrollton Station and riding the 230 bus to her workplace where she worked as an instrument repair technician. The date and time will be updated and announced on social media as we get more details.
 
@@ -98,9 +100,6 @@ To Honor Mary, she always would want to pull people onto trains and buses. DATA 
 DATA will be running another special order of the "Come and Take It" shirt in dedication to Mary with her name on the back of these shirts as she has always had our backs, the language will be similar to the website footer. These shirts will be $(placeholder pricing). <!-- Need to decide if at cost or markup for donations [Place your order to the following link]()-->
 
 <!-- Add shirt design -->
-
-## Services
-For those wishing to share condolences or honor Mary’s memory, please see the following [webpage](https://www.forevermissed.com/mary-collier/). 
 
 <!-- We will have more information to share as we get it from Mary's family -->
 
