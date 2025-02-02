@@ -108,4 +108,4 @@ For those wishing to share condolences or honor Mary’s memory, please see the 
 
 This post will be updated when we have more information to share and with Mary's legacy for DATA.
 
-*Last Updated: January 31, 2025 - 3:00 PM CT*
+*Last Updated: February 2, 2025 - 3:00 PM CT*
