@@ -100,7 +100,7 @@ DATA will be running another special order of the "Come and Take It" shirt in de
 <!-- Add shirt design -->
 
 ## Services
-For those wishing to share condolences or honor Mary’s memory, please reach out to the Executive Committee. 
+For those wishing to share condolences or honor Mary’s memory, please see the following [webpage](https://www.forevermissed.com/mary-collier/). 
 
 <!-- We will have more information to share as we get it from Mary's family -->
 
