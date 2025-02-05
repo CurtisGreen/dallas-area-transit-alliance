@@ -4,7 +4,7 @@ excerpt: "Today we officially announce the formation of the Dallas Area Transit 
 coverImage: "/assets/blog/data-announces-formation/cover.jpg"
 date: "2024-07-30T05:00:00.000Z"
 author:
-  name: DATA Press Release
+  name: DATA Team
   picture: "/assets/blog/authors/data-team.png"
 ogImage:
   url: "/assets/blog/data-announces-formation/cover.jpg"

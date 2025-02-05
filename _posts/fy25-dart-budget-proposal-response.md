@@ -4,7 +4,7 @@ excerpt: "Contact the DART Board and tell them that you oppose DART funding caps
 coverImage: "/assets/blog/fy25-dart-budget-proposal-response/cover.png"
 date: "2024-08-12T05:00:00.000Z"
 author:
-  name: DATA Alert
+  name: DATA Team
   picture: "/assets/blog/authors/data-team.png"
 ogImage:
   url: "/assets/blog/fy25-dart-budget-proposal-response/cover.png"

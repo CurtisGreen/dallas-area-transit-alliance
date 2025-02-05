@@ -4,7 +4,7 @@ excerpt: "The upcoming DART Board working sessions are expected to discuss key d
 coverImage: "/assets/blog/dart-workshop-01-25-response/cover.png"
 date: "2025-01-07T05:00:00.000Z"
 author:
-  name: DATA Alert
+  name: DATA Team
   picture: "/assets/blog/authors/data-team.png"
 ogImage:
   url: "/assets/blog/dart-workshop-01-25-response/cover.png"

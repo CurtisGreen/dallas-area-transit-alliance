@@ -4,7 +4,7 @@ excerpt: "The DART board is discussing cutting back fixed route bus service in P
 coverImage: "/assets/blog/dart-workshop-01-25-response/cover.png"
 date: "2025-01-09T05:00:00.000Z"
 author:
-  name: DATA Alert
+  name: DATA Team
   picture: "/assets/blog/authors/data-team.png"
 ogImage:
   url: "/assets/blog/dart-workshop-01-25-response/cover.png"
