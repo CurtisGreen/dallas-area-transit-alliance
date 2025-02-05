@@ -4,7 +4,7 @@ excerpt: "Happy New Year from all of us at DATA! We have a great newsletter with
 coverImage: "/assets/default/fair-park-station.jpg"
 date: "2025-01-01T05:00:00.000Z"
 author:
-  name: DATA Team
+  name: DATA Newsletter
   picture: "/assets/blog/authors/data-team.png"
 ogImage:
   url: "/assets/default/fair-park-station.jpg"
