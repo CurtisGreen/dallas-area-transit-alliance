@@ -4,7 +4,7 @@ excerpt: "A Friend, Advocate, and Champion of DATA. Your passion and commitment 
 coverImage: "/assets/blog/remembering-mary/cover.jpg"
 date: "2025-01-25T05:00:00.000Z"
 author:
-  name: DATA Executive Committee
+  name: DATA Team
   picture: "/assets/blog/authors/data-team.png"
 ogImage:
   url: "/assets/blog/remembering-mary/cover.jpg"

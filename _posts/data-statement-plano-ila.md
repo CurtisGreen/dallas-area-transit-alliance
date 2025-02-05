@@ -4,7 +4,7 @@ excerpt: "On December 18, 2024, the DART Board of Directors held a workshop to d
 coverImage: "/assets/blog/data-statement-plano-ila/cover.jpg"
 date: "2024-12-20T05:00:00.000Z"
 author:
-  name: DATA Executive Committee
+  name: DATA Team
   picture: "/assets/blog/authors/data-team.png"
 ogImage:
   url: "/assets/blog/data-statement-plano-ila/cover.jpg"

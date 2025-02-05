@@ -4,7 +4,7 @@ excerpt: "On September 21, 2024, the Dallas Area Transit Alliance (DATA) convene
 coverImage: "/assets/blog/data-election-results-sept-2024/cover.jpg"
 date: "2024-09-21T05:00:00.000Z"
 author:
-  name: DATA Press Release
+  name: DATA Team
   picture: "/assets/blog/authors/data-team.png"
 ogImage:
   url: "/assets/blog/data-election-results-sept-2024/cover.jpg"
