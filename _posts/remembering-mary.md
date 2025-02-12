@@ -102,8 +102,8 @@ To Honor Mary, she always would want to pull people onto trains and buses. DATA 
 
 Tributes for Mary's passing can be found below.
 
-- **Hexel Colorado at the Transit in Texas Communities Podcast Recording** [YouTube](https://youtu.be/wcVZL5xYevM)
-- **Enrique MacGregor at the DART Board Committee of the Whole on February 11, 2025** [YouTube](https://youtu.be/FJPrIZIACw8)
+- **Hexel Colorado at the Transit in Texas Communities Podcast Recording** - [YouTube](https://youtu.be/wcVZL5xYevM)
+- **Enrique MacGregor at the DART Board Committee of the Whole on February 11, 2025** - [YouTube](https://youtu.be/FJPrIZIACw8)
 - **Various DATA Members on her family's [Forever Missed page](https://www.forevermissed.com/mary-collier/)**
 
 
