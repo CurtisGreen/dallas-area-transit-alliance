@@ -91,11 +91,12 @@ For those wishing to share condolences or honor Mary’s memory, please see the 
 
 To Honor Mary, she always would want to pull people onto trains and buses. DATA will be doing an "honor ride" where we will be taking the Green Line from Downtown Carrollton Station and riding the 230/57 bus to her workplace where she worked as an instrument repair technician. 
 
-<!-- Add Event Details as we get them -->
-- **Date:** Sunday, February 16
+- **Date:** Sunday, Feburary 16
 - **Time:** 3:00 pm
 - **Location:** Downtown Carrollton Station
 - **Notes:** Please join us on [GroupMe](https://go.ridewithdata.org/groupme) or [Discord](https://go.ridewithdata.org/discord) for day-of information.
+
+<!-- Add Event Details as we get them -->
 
 ## Tributes
 
@@ -103,6 +104,7 @@ Tributes for Mary's passing can be found below.
 
 - **Enrique MacGregor at the DART Board Committee of the Whole on February 11, 2025** [YouTube](https://youtu.be/FJPrIZIACw8), [DART Archive](https://dart.new.swagit.com/videos/334530?ts=655)
 - **Various DATA Members on her family's [Forever Missed page](https://www.forevermissed.com/mary-collier/)**
+
 
 <!-- Hide this until I can confirm with Norman Roscoe and TATOBFFS -->
 
@@ -117,4 +119,4 @@ DATA will be running another special order of the "Come and Take It" shirt in de
 
 This post will be continue to be updated with Mary's legacy for DATA.
 
-*Last Updated: February 11, 2025 - 9:00 PM CT*
+*Last Updated: February 12, 2025 - 3:00 PM CT*
