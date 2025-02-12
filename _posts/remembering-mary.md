@@ -40,6 +40,8 @@ Some of the many events she planned were across many organizations and in many c
 - Happy Hour and Social Events
 - Volunteering with DART at the Dallas Holiday Parade 2024
 
+Mary didn't just talk the talk, during [Week without Driving](/blog/week-without-driving) she committed to taking public transportation during the week. Not only did Mary take public transportation during the event, she continued to take public transportation to work and everywhere else she went.
+
 Mary had planned several events in the [calendar](/calendar), and we realize that may raise some important questions. The Executive Committee has decided that out of respect for her and all the work she put into DATA, these events will not be canceled. It is our belief that she would have wanted us to keep the community together and continue our efforts to save DART, so that is exactly what we will be doing.
 
 <!-- Add FEB events -->
@@ -85,14 +87,15 @@ Mary had planned several events in the [calendar](/calendar), and we realize tha
 
 ## Services, Honors and Dedications
 
-For those wishing to share condolences or honor Mary’s memory, please see the following [webpage](https://www.forevermissed.com/mary-collier/) setup by her family. 
+For those wishing to share condolences or honor Mary’s memory, please see the following [webpage](https://www.forevermissed.com/mary-collier/) setup by her family. A celebration of life has been scheduled for February 8, 2025 in Round Rock and will be live-streamed over Zoom.
 
-To Honor Mary, she always would want to pull people onto trains and buses. DATA will be doing an "honor ride" where we will be taking the Green Line from Downtown Carrollton Station and riding the 230 bus to her workplace where she worked as an instrument repair technician. The date and time will be updated and announced on social media as we get more details.
+To Honor Mary, she always would want to pull people onto trains and buses. DATA will be doing an "honor ride" where we will be taking the Green Line from Downtown Carrollton Station and riding the 230/57 bus to her workplace where she worked as an instrument repair technician. 
 
 <!-- Add Event Details as we get them -->
-- **Date:** Sunday, Feburary 16, 2025
-- **Time:** 1:00 pm (noon)
+- **Date:** Sunday, Feburary 16
+- **Time:** 3:00 pm
 - **Location:** Downtown Carrollton Station
+- **Notes:** Please join us on [GroupMe](https://go.ridewithdata.org/groupme) or [Discord](https://go.ridewithdata.org/discord) for day-of information.
 
 <!-- Hide this until I can confirm with Norman Roscoe and TATOBFFS -->
 
@@ -105,6 +108,6 @@ DATA will be running another special order of the "Come and Take It" shirt in de
 
 ===
 
-This post will be updated when we have more information to share and with Mary's legacy for DATA.
+This post will be continue to be updated with Mary's legacy for DATA.
 
-*Last Updated: February 7, 2025 - 3:00 PM CT*
+*Last Updated: February 11, 2025 - 9:00 PM CT*
