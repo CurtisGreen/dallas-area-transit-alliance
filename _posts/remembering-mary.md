@@ -42,6 +42,8 @@ Some of the many events she planned were across many organizations and in many c
 
 Mary didn't just talk the talk, during [Week without Driving](/blog/week-without-driving) she committed to taking public transportation during the week. Not only did Mary take public transportation during the event, she continued to take public transportation to work and everywhere else she went.
 
+Mary was also a member of DART’s Citizens Advisory Committee (CAC), a group that serves as a two-way communication link between the DART Board, the general public and various interest groups.
+
 Mary had planned several events in the [calendar](/calendar), and we realize that may raise some important questions. The Executive Committee has decided that out of respect for her and all the work she put into DATA, these events will not be canceled. It is our belief that she would have wanted us to keep the community together and continue our efforts to save DART, so that is exactly what we will be doing.
 
 <!-- Add FEB events -->
