@@ -74,7 +74,7 @@ Mary had planned several events in the [calendar](/calendar), and we realize tha
 
 **DATA February General Meeting**
 - **Date:** Saturday, February 22  
-- **Time:** 1:30 PM - 4:00 PM  
+- **Time:** 1:30 PM - 4:30 PM  
 - **Location:** J. Erik Jonsson Central Library, 1515 Young Street, Dallas  
 - **Room:** Hamon Training Room, 5th Floor  
 - **Nearest Rail Station:** Akard Station (Red, Orange, Blue, & Green)  

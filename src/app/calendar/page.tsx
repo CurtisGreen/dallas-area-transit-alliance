@@ -19,10 +19,17 @@ const scheduleData = [
     title: "DATA February General Meeting",
     date: new Date("2025-02-22 16:00-05:00"),
     points: [
-      "Saturday, February 22 from 1:30PM - 4:00PM",
+      "Saturday, February 22 from 1:30PM - 4:30PM",
       "J. Erik Jonsson Central Library at 1515 Young Street, Dallas",
       "Hamon Training Room, 5th floor",
       "Nearest station: Akard Station",
+      "We will be electing an Events Planning Chair",
+      <Link
+        href="https://go.ridewithdata.org/feb2025-candidate-pdf"
+        className="underline"
+      >
+        Events Planning Chair Candidates
+      </Link>,
       <i>
         Disclosure: This event is not sponsored by the Dallas Public Library
       </i>,
