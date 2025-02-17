@@ -19,7 +19,7 @@ const scheduleData = [
     title: "DATA February General Meeting",
     date: new Date("2025-02-22 16:00-05:00"),
     points: [
-      "Saturday, February 22 from 1:00PM - 4:00PM",
+      "Saturday, February 22 from 1:30PM - 4:00PM",
       "J. Erik Jonsson Central Library at 1515 Young Street, Dallas",
       "Hamon Training Room, 5th floor",
       "Nearest station: Akard Station",
