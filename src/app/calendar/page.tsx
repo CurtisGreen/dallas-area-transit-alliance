@@ -6,7 +6,7 @@ export const revalidate = 3600;
 const scheduleData = [
   {
     title: "DATA Book Club & Mappy Hour",
-    date: new Date("2025-02-22 16:00-05:00"),
+    date: new Date("2025-02-23 16:00-05:00"),
     points: [
       "Sunday, February 23 from 1:00PM - 4:00PM",
       "Dolce Paradiso in Addison (5030 Addison Cir, Addison)",
@@ -17,9 +17,9 @@ const scheduleData = [
   },
   {
     title: "DATA February General Meeting",
-    date: new Date("2025-02-22 16:00-05:00"),
+    date: new Date("2025-02-22 15:30-05:00"),
     points: [
-      "Saturday, February 22 from 1:30PM - 4:30PM",
+      "Saturday, February 22 from 1:30PM - 3:30PM",
       "J. Erik Jonsson Central Library at 1515 Young Street, Dallas",
       "Hamon Training Room, 5th floor",
       "Nearest station: Akard Station",
@@ -381,6 +381,16 @@ export default function Index() {
       <div className="my-12 md:my-16 md:mb-12 text-5xl md:text-7xl font-bold tracking-tighter">
         Calendar
       </div>
+
+      {/* Default to event list (agenda) when screen is small */}
+      <iframe
+        src="https://go.ridewithdata.org/calendar?mode=agenda"
+        className="md:hidden w-full h-[500px] md:h-[800px]"
+      />
+      <iframe
+        src="https://go.ridewithdata.org/calendar"
+        className="hidden md:block w-full h-[500px] md:h-[800px]"
+      />
 
       <div className="text-3xl md:text-4xl mt-8 md:mt-12 mb-4 font-bold">
         Upcoming events
