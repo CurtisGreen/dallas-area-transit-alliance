@@ -74,7 +74,7 @@ Mary had planned several events in the [calendar](/calendar), and we realize tha
 
 **DATA February General Meeting**
 - **Date:** Saturday, February 22  
-- **Time:** 1:00 PM - 4:00 PM  
+- **Time:** 1:30 PM - 3:30 PM  
 - **Location:** J. Erik Jonsson Central Library, 1515 Young Street, Dallas  
 - **Room:** Hamon Training Room, 5th Floor  
 - **Nearest Rail Station:** Akard Station (Red, Orange, Blue, & Green)  
@@ -82,10 +82,11 @@ Mary had planned several events in the [calendar](/calendar), and we realize tha
 
 **DATA Book Club**
 - **Date:** Sunday, February 23
-- **Time:** 2:00 PM - 4:00 PM
-- **Location:** Dolce Paradisio in Addison (5030 Addison Cir, Addison)
+- **Time:** 1:00 PM - 4:00 PM
+- **Location:** Dolce Paradiso in Addison (5030 Addison Cir, Addison)
 - **Nearest Rail Station:** Addision Transit Center 
 - **Details:** Reading Human Transit for the month of February
+- Stick around afterwards for Mappy Hour, an informal social for local urbanists to contribute to OpenStreetMap together.
 
 ## Services, Honors and Dedications
 
@@ -122,4 +123,4 @@ DATA will be running another special order of the "Come and Take It" shirt in de
 
 This post will be continue to be updated with Mary's legacy for DATA.
 
-*Last Updated: February 12, 2025 - 3:00 PM CT*
+*Last Updated: February 17, 2025*
