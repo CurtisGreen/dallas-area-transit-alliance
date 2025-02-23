@@ -2,7 +2,7 @@
 title: "Fenruary Newsletter"
 excerpt: "We have four straight days of events this weekend! Here's what's going on in and around DATA"
 coverImage: "/assets/default/fair-park-station.jpg"
-date: "2025-01-01T05:00:00.000Z"
+date: "2025-02-17T05:00:00.000Z"
 author:
   name: DATA Newsletter
   picture: "/assets/blog/authors/data-team.png"
