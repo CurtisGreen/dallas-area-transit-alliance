@@ -5,15 +5,58 @@ export const revalidate = 3600;
 
 const scheduleData = [
   {
-    title: "DATA February General Meeting",
-    date: new Date("2025-02-22 16:00-05:00"),
+    title: "DATA Book Club & Mappy Hour",
+    date: new Date("2025-02-23 16:00-05:00"),
     points: [
-      "Saturday, February 22 from 1:00PM - 4:00PM",
+      "Sunday, February 23 from 1:00PM - 4:00PM",
+      "Dolce Paradiso in Addison (5030 Addison Cir, Addison)",
+      "Nearest station: Addison Transit Center",
+      "Reading Human Transit for the month of February",
+      "Stick around afterwards for Mappy Hour, an informal social for local urbanists to contribute to OpenStreetMap together.",
+    ],
+  },
+  {
+    title: "DATA February General Meeting",
+    date: new Date("2025-02-22 15:30-05:00"),
+    points: [
+      "Saturday, February 22 from 1:30PM - 3:30PM",
       "J. Erik Jonsson Central Library at 1515 Young Street, Dallas",
       "Hamon Training Room, 5th floor",
+      "Nearest station: Akard Station",
+      "We will be electing an Events Planning Chair",
+      <Link
+        href="https://go.ridewithdata.org/feb2025-candidate-pdf"
+        className="underline"
+      >
+        Events Planning Chair Candidates
+      </Link>,
       <i>
         Disclosure: This event is not sponsored by the Dallas Public Library
       </i>,
+    ],
+  },
+  {
+    title: "How TxDOT works, with the Texas Streets Coalition",
+    date: new Date("2025-02-19 21:00-05:00"),
+    points: [
+      "Wednesday, February 19 from 7:00PM - 9:00PM",
+      <Link
+        href="https://us02web.zoom.us/j/81049941304?pwd=oh3lkbelO9a5nbGfoBQJx8Snmw5PUj.1"
+        className="underline"
+      >
+        Zoom Meeting
+      </Link>,
+    ],
+  },
+  {
+    title: "Honor ride for Mary",
+    date: new Date("2025-02-16 15:00-05:00"),
+    points: [
+      "Sunday, February 16 from 3:00PM",
+      "Downtown Carrollton Station",
+      <Link href="/posts/remembering-mary" className="underline">
+        About the ride
+      </Link>,
     ],
   },
   {
@@ -339,7 +382,17 @@ export default function Index() {
         Calendar
       </div>
 
-      <div className="text-2xl md:text-3xl mt-8 md:mt-12 mb-4 font-bold">
+      {/* Default to event list (agenda) when screen is small */}
+      <iframe
+        src="https://go.ridewithdata.org/calendar?mode=agenda"
+        className="md:hidden w-full h-[500px] md:h-[800px]"
+      />
+      <iframe
+        src="https://go.ridewithdata.org/calendar"
+        className="hidden md:block w-full h-[500px] md:h-[800px]"
+      />
+
+      <div className="text-3xl md:text-4xl mt-8 md:mt-12 mb-4 font-bold">
         Upcoming events
       </div>
       {scheduleData
@@ -356,7 +409,7 @@ export default function Index() {
           </div>
         ))}
 
-      <div className="text-2xl md:text-3xl mt-8 md:mt-12 mb-4 font-bold">
+      <div className="text-3xl md:text-4xl mt-12 md:mt-16 mb-4 font-bold">
         Past events
       </div>
       {scheduleData
