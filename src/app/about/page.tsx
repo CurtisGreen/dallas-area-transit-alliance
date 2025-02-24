@@ -24,7 +24,7 @@ export default function Index() {
           Alexander Dunn, Secretary
         </li>
         <li className="mb-1">
-          To be appointed, Parliamentarian
+          Patric Morgan, Parliamentarian
         </li>
         <li className="mb-1">
           To be appointed, Treasurer
