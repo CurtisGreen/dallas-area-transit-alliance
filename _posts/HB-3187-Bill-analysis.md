@@ -16,11 +16,11 @@ It finally happened, The legislation that Plano has been threatening they would 
 
 <!-- # NERD WORDS AHEAD -->
 
-The following article can be pretty wonky, if you're into municipal finance and public administration you’ll be right at home but here’s the TL;DR for everyone else. This bill is bad, it diverts 25% of DARTs revenue so that it can only be used for Road and sidewalk maintenance, and then it sets up additional restrictions to eventually force DART to lower its tax rate from 1% to .75%. That’s a 44% reduction after everything is implemented. it would definitely destroy the ability of DART to maintain its current operations, let alone improve service. This bill will put DART on life support, throwing away all of the hard work DART is doing to improve and tailor their services to the cities, all without holding an election for the citizens of the service area decided that this is what they want.
+The following article can be pretty wonky, if you're into municipal finance and public administration you’ll be right at home but here’s a quick summary for everyone else. This bill is bad, it diverts 25% of DART's revenue so that it can only be used for Road and sidewalk maintenance, and then it sets up additional restrictions to eventually force DART to lower its tax rate from 1% to .75%. That’s a 44% reduction after everything is implemented. It would definitely destroy the ability of DART to maintain its current operations, let alone improve service. This bill will put DART on life support, throwing away all of the hard work DART is doing to improve and tailor their services to the cities. This was done without holding an election by the citizens of the service area.
 
 ## Background - What is a bond?
 
-A bond is like a little piece of a loan, we a governmental entity like DART has a big project they want to build (like say a 27-mile suburban commuter rail line) they probably don’t have the cash on hand to pay for it all at once. They need to get a loan to spread out the cost because it would take a LONG time to save up all the money needed. 
+A bond is like a little piece of a loan, when a governmental entity like DART has a big project they want to build (like say a 27-mile suburban commuter rail line) they probably don’t have the cash on hand to pay for it all at once. They need to get a loan to spread out the cost because it would take a LONG time to save up all the money needed. 
 
 ![Image](/assets/blog/HB-3187-Bill-analysis/HB3187-fig1.png)
 *Fig. 1 \- This is an overly simplistic example, in reality the bond holder might only get interest payment monthly or quarterly, or just a large lump sum at when the bond reaches maturity. Those details are not important for this discussion.*  
@@ -42,9 +42,9 @@ Together this means the State can't come in and pass a law forcing DART to lower
 
 ## How to read a bill
 
-Legislation is hard to read\! This ain't your mothers 3rd grade english class. The law is complicated, full of jargon, terms of art, big concepts, and bills are written to only show the changes they are making, so you can lose a lot of context of what's in the rest of the legal code.
+Legislation is hard to read\! The law is complicated, full of jargon, terms of art, big concepts, and bills are written to only show the changes they are making, so you can lose a lot of context of what's in the rest of the legal code.
 
-Here’s a decent video that goes through some of the pitfalls of try to understand a piece of legislation. [How to Decipher State Legislation Like a Proper Gentleman](https://www.youtube.com/watch?v=nuW3v4Ywr_M)
+Here’s a video that goes through some of the pitfalls of trying to understand a piece of legislation. [How to Decipher State Legislation Like a Proper Gentleman](https://www.youtube.com/watch?v=nuW3v4Ywr_M)
 
 ## Section by Section Summary
 
@@ -66,7 +66,7 @@ Alright what the heck does all of that mean? Basically it creates a new section 
 * Diverts 25% of sales tax revenue for Subchapter O Transit authorities (DART is the only Subchapter O authority in the state)  
 * Can only be used for Roads, Traffic Signals, Sidewalks, or drainage projects i.e Not transit  
 * Half made available at the beginning of the FY, Half available on a reimbursement basis  
-* The city must submit a list of project they plan to use the funds for each year  
+* The city must submit a list of projects they plan to use the funds for each year  
 * Unused funds go into a trust for additional debt payments on top of regularly scheduled bond payments \[reword\]
 
 ### Section 2\.
@@ -107,7 +107,7 @@ This section simply adds the GENERAL MOBILITY PROGRAM as an allowed used of 452 
  	    (3)  three-quarters of one percent\[~~; or 
  	    \[(4)  one percent~~\].
 
-This section amends Section 452.491(a) to remove “one percent” as an allowed sales and use tax rate. On its face this make look like blowing up DARTs bond convents, remember this for when we get to section 8. 
+This section amends Section 452.491(a) to remove “one percent” as an allowed sales and use tax rate. On its face this make look like blowing up DART's bond convents, remember this for when we get to section 8. 
 
 ### Section 5\.
 >Section 452.651(c),   Transportation Code, is  
@@ -144,7 +144,7 @@ Changes the frequency of withdrawal election from being allowed every sixth year
  	election held under Section 452.655, if a majority of the votes  
  	received on the measure in the election favor the proposition.
 
-This section adds a new section that prohibits the issuance of new debt that would cause the financial obligation of a withdrawing city to increase while a withdrawal election is pending
+This new section prohibits a city from taking on new debt while a withdrawal election is pending at that city. This would prevent DART from taking on debt for system-wide improvements or additions. 
 
 ### Section 7
 
@@ -163,10 +163,10 @@ This section adds a new section that prohibits the issuance of new debt that wou
 		 	(B)  the governing body of the withdrawn unit of  
  	election approves the collection of the tax at the lower rate.***
  	
-This Section allows the city council of a withdrawn city to lower the tax rate to one-half of one percent. On its face this would violate DARTs current bond covenants, but this bill has some mitigations in the next section.
+This Section allows the city council of a withdrawn city to lower the tax rate to one-half of one percent. On its face this would violate DART's current bond covenants, but this bill has some mitigations in the next section.
 
 ### Section 8
->Sections 452.357(a) and 452.401(a),  
+>	(a)Sections 452.357(a) and 452.401(a),  
  	Transportation Code, as amended by this Act, do not apply to the  
  	imposition of a sales and use tax in a regional transportation  
  	authority that, before the effective date of this Act, has pledged  
@@ -192,7 +192,7 @@ This Section allows the city council of a withdrawn city to lower the tax rate t
  	of the issuer in a trust fund held for the benefit of the  
  	bondholders.
 
-Alright this is the really complicated one. This section is all about not violating DARTs current debt covenants and destroying the state's bond rating. It's broken into two subsections a and b.
+Alright this is the really complicated one. This section is all about not violating DART's current debt covenants and destroying the state's bond rating. It's broken into two subsections a and b.
 
 Subsection a basically says that the amendments to sections 452.357(a) and 452.401(a) do not apply to bonds that 1\) have already been issued before the effective date of the bill and 2\) have the full one percent sales tax pledged to them.
 
@@ -204,23 +204,23 @@ Subsection b says the agency can reduce its tax rate if 1\) all of the bonds ple
 In my view this bill has 3 goals:
 
 1. Give 25% back to the member cities immediately to be used for road maintenance
-2. Impose restricts so that DARTs tax rate will eventually be reduced to .75%
+2. Impose restrictions so that DART's tax rate will eventually be reduced to .75%
 3. Make it easier to withdraw from DART, and make that withdrawal less painful   
 
-Now it's also important to remember what this bill does not do, it does not lower taxes. Any reduction in DARTs tax rate will not go into the pockets of taxpayers, cities will immediately move to increase their sales tax rate if the rate is reduced to .75%. This bill is about changing who gets the money, and Plano wants to take over 40% of DARTs funding.
+Now it's important to remember what this bill does not do. It does not lower tax rates. Any reduction in DART's tax rate will not go into the pockets of taxpayers, cities will immediately move to increase their sales tax rate if the rate is reduced to .75%. This bill is about changing who gets the money, and Plano wants to take over 40% of DART's funding.(The .25% Sales Tax reduction and the 25% Sales Tax Revenue for the mobility program stack, and works out to an effect 44% revenue reduction)
 
-This bill is about Plano raiding DART for money to pay for their road and street maintenance. They told us as much in their [Mayor’s letter to the Chair of the DART board last year](https://dallasareatransitalliance.org/assets/blog/data-statement-plano-ila/jbm-to-gary-slagel-dart-12-13-2024.pdf). Notably Plano is proposing to issue over $400 million road maintenance bonds over the next 4 years, while at the same time having adopted the “no new revenue” property tax rate for the last 4 years in a row. If Plano needs more money to pay for their roads they have a mechanism to do that without tearing apart DART, they either raise their property taxes modestly, or if they want the sales tax dollars they can call an election to withdraw from the agency.  
+This bill is about Plano raiding DART for money to pay for their road and street maintenance. They told us as much in their [Mayor’s letter to the Chair of the DART board last year](https://dallasareatransitalliance.org/assets/blog/data-statement-plano-ila/jbm-to-gary-slagel-dart-12-13-2024.pdf). Notably Plano is proposing to issue over $400 million in road maintenance bonds over the next 4 years, while at the same time having adopted the “no new revenue” property tax rate for the last 4 years in a row. If Plano needs more money to pay for their roads they have mechanisms to do that without tearing apart DART. They can either raise their property taxes modestly or they can call an election to withdraw from the agency. 
 
-Importantly this bill alters what ALL member cities revenues can be used for, the 25% for the General Mobility fund CAN NOT be used to fund transit operation, even if the member city wants to, and this restriction persists beyond when DARTs current 1% pledged bonds are extinguished. In 1983 voters in every DART member city decided to dedicate a 1% sales to build a public transit system for the entire region, they reaffirmed that vision in 2000 by authorizing DART to issue you long term bonds for the construction and maintenance of its Light Rail system, the 2nd largest such system in the state. To have the state come in and decimate DARTs ability to operate the system we have investing Billions of dollars to build would be fiscally irresponsible.
+Importantly, this bill affects ALL of the member cities. The 25% General Mobility fund CAN NOT be used to fund transit operation regardless of the wishes of every other member city, and this restriction persists beyond when DART's current 1% pledged bonds are extinguished." In 1983 voters in every DART member city decided to dedicate a 1% sales to build a public transit system for the entire region, and they reaffirmed that vision in 2000 by authorizing DART to issue long term bonds for the construction and maintenance of its Light Rail system, the 2nd largest such system in the state. To have the state come in and decimate DART's ability to operate the system we have invested Billions of dollars to build would be fiscally irresponsible.
 
-It's hard to overstate how bad this bill is. What organization can you think of that can lose almost 40% of its funding (or even just 20%) and provide anywhere near the same level of service? and to try and do this on the eve of the suburban focused Silver Line opening? It's unconscionable, many member cities have been quite patient in waiting for their turn to get rail service, this bill will cripple that service as well as all of DARTs other existing services.
+It's hard to overstate how bad this bill is. What organization can you think of that can lose almost 40% of its funding (or even just 20%) and provide anywhere near the same level of service? And to try and do this on the eve of the suburban focused Silver Line opening? It's unconscionable, many member cities have been quite patient in waiting for their turn to get rail service, this bill will cripple that service as well as all of DART's other existing services.
 
 
 ## Call to action
 
 Alright so what do we do now?
 
-We need you to contact your representatives. Call or Email them and let them know you Oppose House Bill 3187. Let them know that you don't want DARTs funding reduced by 44%  and that this is a local issue that Plano and DART need to work out among themselves.
+We need you to contact your representatives. Call or Email them and let them know you Oppose House Bill 3187. Let them know that you don't want DART's funding reduced by 44%  and that this is a local issue that Plano and DART need to work out among themselves.
 
 DATA will be monitoring this bill very closely as it works its way through the legislative process.  
 
