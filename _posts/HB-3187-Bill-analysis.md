@@ -4,7 +4,7 @@ excerpt: "It finally happened, The legislation that Plano has been threatening t
 coverImage: "/assets/default/fair-park-station.jpg"
 date: "2025-02-23T05:00:00.000Z"
 author:
-  name: DATA Team
+  name: Patric Morgan
   picture: "/assets/blog/authors/data-team.png"
 ogImage:
   url: "/assets/default/fair-park-station.jpg"
