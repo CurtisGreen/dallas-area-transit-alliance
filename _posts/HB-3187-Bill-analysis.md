@@ -5,7 +5,7 @@ coverImage: "/assets/default/fair-park-station.jpg"
 date: "2025-02-23T05:00:00.000Z"
 author:
   name: Patric Morgan
-  picture: "/assets/blog/authors/data-team.png"
+  picture: "/assets/blog/authors/patric-morgan.jpg"
 ogImage:
   url: "/assets/default/fair-park-station.jpg"
 ---
