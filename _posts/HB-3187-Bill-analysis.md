@@ -8,6 +8,8 @@ author:
   picture: "/assets/blog/authors/patric-morgan.jpg"
 ogImage:
   url: "/assets/default/fair-park-station.jpg"
+banner: 
+  text: "Read Our Parlimentarian's Analysis of the Upcoming HB3187 filed in the Texas House of Representatives"
 ---
 
 It finally happened, The legislation that Plano has been threatening they would be pursuing has finally been filed. 
