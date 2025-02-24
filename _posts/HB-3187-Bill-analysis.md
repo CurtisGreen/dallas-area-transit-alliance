@@ -51,7 +51,7 @@ Here’s a video that goes through some of the pitfalls of trying to understand 
 ### Section 1\.
 
 >Subchapter E, Chapter 452, Transportation Code, is amended by adding Section 452.204 to read as follows:  
-	**Sec. 452.204.  GENERAL MOBILITY PROGRAM. (a) Each municipality in an authority consisting of one subregion governed by a subregional board created under Subchapter O shall enter into an agreement with the subregional board under which up to 25 percent of the sales and use tax imposed by the authority in that municipality may be used by that municipality for a general mobility program that includes:  
+	** Sec. 452.204.  GENERAL MOBILITY PROGRAM. (a) Each municipality in an authority consisting of one subregion governed by a subregional board created under Subchapter O shall enter into an agreement with the subregional board under which up to 25 percent of the sales and use tax imposed by the authority in that municipality may be used by that municipality for a general mobility program that includes:  
 		(1)  constructing and maintaining sidewalks, hiking trails, and biking trails, highways and local and arterial streets, thoroughfares, and other roads, including bridges and grade separations;  
 		(2)  installing, operating, and maintaining streetlights and traffic control improvements, including traffic signals; or  
 		(3)  making drainage improvements and taking drainage-related measures as reasonable and necessary for the effective use of the transportation facility being installed, constructed, operated, or maintained under Subdivision (1) or (2).  
@@ -82,7 +82,7 @@ Alright what the heck does all of that mean? Basically it creates a new section 
 
 Amends Section 452.357(a) to change the amount of revenue that can be pledged towards bond from “all or part” to “not more than 75 percent”
 
-### Section 3
+### Section 3\.
 
 >Section 452.358, Transportation Code, is amended to read as follows: 
 >	Sec. 452.358.  USE OF REVENUE.  Revenue in excess of amounts  
@@ -146,7 +146,7 @@ Changes the frequency of withdrawal election from being allowed every sixth year
 
 This new section prohibits a city from taking on new debt while a withdrawal election is pending at that city. This would prevent DART from taking on debt for system-wide improvements or additions. 
 
-### Section 7
+### Section 7\.
 
 >Section 452.658(a), Transportation Code, is  
  	amended to read as follows:      
@@ -165,7 +165,7 @@ This new section prohibits a city from taking on new debt while a withdrawal ele
  	
 This Section allows the city council of a withdrawn city to lower the tax rate to one-half of one percent. On its face this would violate DART's current bond covenants, but this bill has some mitigations in the next section.
 
-### Section 8
+### Section 8\.
 >	(a)Sections 452.357(a) and 452.401(a),  
  	Transportation Code, as amended by this Act, do not apply to the  
  	imposition of a sales and use tax in a regional transportation  
