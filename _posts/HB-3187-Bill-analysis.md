@@ -21,10 +21,9 @@ The following article can be pretty wonky, if you're into municipal finance and 
 A bond is like a little piece of a loan, we a governmental entity like DART has a big project they want to build (like say a 27-mile suburban commuter rail line) they probably don’t have the cash on hand to pay for it all at once. They need to get a loan to spread out the cost because it would take a LONG time to save up all the money needed. 
 
 ![Image](/assets/blog/HB-3187-Bill-analysis/HB3187-fig1.png)
+*Fig. 1 \- This is an overly simplistic example, in reality the bond holder might only get interest payment monthly or quarterly, or just a large lump sum at when the bond reaches maturity. Those details are not important for this discussion.
 
-Fig. 1 \- This is an overly simplistic example, in reality the bond holder might only get interest payment monthly or quarterly, or just a large lump sum at when the bond reaches maturity. Those details are not important for this discussion.
-
-DART issues a particular type of bond called a Sales Tax Revenue Bonds. Instead of putting up a piece of collateral (like you would with a mortgage) these bonds are secured by future sales tax revenues   
+DART issues a particular type of bond called a Sales Tax Revenue Bonds. Instead of putting up a piece of collateral (like you would with a mortgage) these bonds are secured by future sales tax revenues*   
 
 Underlying each bond is an agreement, a contract. This contract lays out the nitty gritty details on how interest is calculated, how the administrative cost of the bonds are paid for, when are payments made, what happens if DART should default, the process for appointing a representative of the bound holders, and much more. If you’re curious you can try and wade through the [entire 66 page document](https://www.dartbonds.org/dart-investor-relations-tx/documents/view-file/i1016?mediaId=32701), but it's pretty dry, and probably won’t make much sense unless you're a lawyer or banker.  
 There is one section that is important to know (thank you to David Leininger, former CFO of DART for bringing this to the public's attention in a [post on linkedIn](https://www.linkedin.com/pulse/plano-v-dart-dilemma-pullout-one-city-versus-pulldown-david-leininger-fmooc/))
@@ -227,6 +226,6 @@ DATA will be monitoring this bill very closely as it works its way through the l
 # References
 
 1. Leininger, David “The Plano v DART dilemma: pullout one city versus pulldown everyone” [https://www.linkedin.com/pulse/plano-v-dart-dilemma-pullout-one-city-versus-pulldown-david-leininger-fmooc/](https://www.linkedin.com/pulse/plano-v-dart-dilemma-pullout-one-city-versus-pulldown-david-leininger-fmooc/)  
-2. DART Master Debt Resolution https://www.dartbonds.org/dart-investor-relations-tx/documents/view-file/i1016?mediaId=32701
-3. Mayor Mun's letter to Gary Slagel  https://dallasareatransitalliance.org/assets/blog/data-statement-plano-ila/jbm-to-gary-slagel-dart-12-13-2024.pdf
+2. DART Master Debt Resolution [https://www.dartbonds.org/dart-investor-relations-tx/documents/view-file/i1016?mediaId=32701](https://www.dartbonds.org/dart-investor-relations-tx/documents/view-file/i1016?mediaId=32701)
+3. Mayor Mun's letter to Gary Slagel  [https://dallasareatransitalliance.org/assets/blog/data-statement-plano-ila/jbm-to-gary-slagel-dart-12-13-2024.pdf](/assets/blog/data-statement-plano-ila/jbm-to-gary-slagel-dart-12-13-2024.pdf)
 
