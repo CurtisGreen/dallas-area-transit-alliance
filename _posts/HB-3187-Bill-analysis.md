@@ -12,7 +12,7 @@ ogImage:
 
 It finally happened, The legislation that Plano has been threatening they would be pursuing has finally been filed. 
 
-# NERD WORDS AHEAD
+<!-- # NERD WORDS AHEAD -->
 
 The following article can be pretty wonky, if you're into municipal finance and public administration you’ll be right at home but here’s the TL;DR for everyone else. This bill is bad, it diverts 25% of DARTs revenue so that it can only be used for Road and sidewalk maintenance, and then it sets up additional restrictions to eventually force DART to lower its tax rate from 1% to .75%. That’s a 44% reduction after everything is implemented. it would definitely destroy the ability of DART to maintain its current operations, let alone improve service. This bill will put DART on life support, throwing away all of the hard work DART is doing to improve and tailor their services to the cities, all without holding an election for the citizens of the service area decided that this is what they want.
 
@@ -38,15 +38,15 @@ Basically what this saying is, as long as there is an outstanding bond, DART wil
 
 Together this means the State can't come in and pass a law forcing DART to lower its tax rate when it has already obligated its self to maintain that tax rate for its bondholders.
 
-# How to read a bill
+## How to read a bill
 
 Legislation is hard to read\! This ain't your mothers 3rd grade english class. The law is complicated, full of jargon, terms of art, big concepts, and bills are written to only show the changes they are making, so you can lose a lot of context of what's in the rest of the legal code.
 
 Here’s a decent video that goes through some of the pitfalls of try to understand a piece of legislation. [How to Decipher State Legislation Like a Proper Gentleman](https://www.youtube.com/watch?v=nuW3v4Ywr_M)
 
-# Section by Section Summary
+## Section by Section Summary
 
-## Section 1\.
+### Section 1\.
 
 >Subchapter E, Chapter 452, Transportation Code, is amended by adding Section 452.204 to read as follows:  
 	**Sec. 452.204.  GENERAL MOBILITY PROGRAM. (a) Each municipality in an authority consisting of one subregion governed by a subregional board created under Subchapter O shall enter into an agreement with the subregional board under which up to 25 percent of the sales and use tax imposed by the authority in that municipality may be used by that municipality for a general mobility program that includes:  
@@ -67,7 +67,7 @@ Alright what the heck does all of that mean? Basically it creates a new section 
 * The city must submit a list of project they plan to use the funds for each year  
 * Unused funds go into a trust for additional debt payments on top of regularly scheduled bond payments \[reword\]
 
-## Section 2\.
+### Section 2\.
 
 >Section 452.357(a), Transportation Code, is amended to read as follows:  
 	(a)  To secure the payment of an authority's bonds, the authority may:  
@@ -80,7 +80,7 @@ Alright what the heck does all of that mean? Basically it creates a new section 
 
 Amends Section 452.357(a) to change the amount of revenue that can be pledged towards bond from “all or part” to “not more than 75 percent”
 
-## Section 3
+### Section 3
 
 >Section 452.358, Transportation Code, is amended to read as follows: 
 >	Sec. 452.358.  USE OF REVENUE.  Revenue in excess of amounts  
@@ -95,7 +95,7 @@ Amends Section 452.357(a) to change the amount of revenue that can be pledged to
 
 This section simply adds the GENERAL MOBILITY PROGRAM as an allowed used of 452 sales tax funds, and importantly makes the Mobility program a lower priority than bond payments.
 
-## Section 4\. 
+### Section 4\. 
 
 >Section 452.401(a), Transportation Code, is  
  	amended to read as follows:  
@@ -107,7 +107,7 @@ This section simply adds the GENERAL MOBILITY PROGRAM as an allowed used of 452 
 
 This section amends Section 452.491(a) to remove “one percent” as an allowed sales and use tax rate. On its face this make look like blowing up DARTs bond convents, remember this for when we get to section 8. 
 
-## Section 5\.
+### Section 5\.
 >Section 452.651(c),   Transportation Code, is  
  	amended to read as follows:    
  	       (c)  An election to withdraw may not be ordered, and a  
@@ -123,7 +123,7 @@ This section amends Section 452.491(a) to remove “one percent” as an allowed
 
 Changes the frequency of withdrawal election from being allowed every sixth year to every third year
 
-## Section 6\.
+### Section 6\.
 >Subchapter Q, Chapter 452, Transportation Code,  
  	is amended by adding Section 452.6545 to read as follows:  
  	       Sec. 452.6545.  EFFECT OF NOTICE OF ELECTION ON CERTAIN  
@@ -144,7 +144,7 @@ Changes the frequency of withdrawal election from being allowed every sixth year
 
 This section adds a new section that prohibits the issuance of new debt that would cause the financial obligation of a withdrawing city to increase while a withdrawal election is pending
 
-## Section 7
+### Section 7
 
 >Section 452.658(a), Transportation Code, is  
  	amended to read as follows:      
@@ -163,7 +163,7 @@ This section adds a new section that prohibits the issuance of new debt that wou
  	
 This Section allows the city council of a withdrawn city to lower the tax rate to one-half of one percent. On its face this would violate DARTs current bond covenants, but this bill has some mitigations in the next section.
 
-## Section 8
+### Section 8
 >Sections 452.357(a) and 452.401(a),  
  	Transportation Code, as amended by this Act, do not apply to the  
  	imposition of a sales and use tax in a regional transportation  
@@ -214,7 +214,7 @@ Importantly this bill alters what ALL member cities revenues can be used for, th
 It's hard to overstate how bad this bill is. What organization can you think of that can lose almost 40% of its funding (or even just 20%) and provide anywhere near the same level of service? and to try and do this on the eve of the suburban focused Silver Line opening? It's unconscionable, many member cities have been quite patient in waiting for their turn to get rail service, this bill will cripple that service as well as all of DARTs other existing services.
 
 
-# Call to action
+## Call to action
 
 Alright so what do we do now?
 
@@ -223,7 +223,7 @@ We need you to contact your representatives. Call or Email them and let them kno
 DATA will be monitoring this bill very closely as it works its way through the legislative process.  
 
 
-# References
+## References
 
 1. Leininger, David “The Plano v DART dilemma: pullout one city versus pulldown everyone” [https://www.linkedin.com/pulse/plano-v-dart-dilemma-pullout-one-city-versus-pulldown-david-leininger-fmooc/](https://www.linkedin.com/pulse/plano-v-dart-dilemma-pullout-one-city-versus-pulldown-david-leininger-fmooc/)  
 2. DART Master Debt Resolution [https://www.dartbonds.org/dart-investor-relations-tx/documents/view-file/i1016?mediaId=32701](https://www.dartbonds.org/dart-investor-relations-tx/documents/view-file/i1016?mediaId=32701)
