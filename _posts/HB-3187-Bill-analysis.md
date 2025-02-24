@@ -2,7 +2,7 @@
 title: "HB3187 Bill Analysis"
 excerpt: "It finally happened, The legislation that Plano has been threatening they would be pursuing has finally been filed. "
 coverImage: "/assets/default/fair-park-station.jpg"
-date: "2025-02-23T05:00:00.000Z"
+date: "2025-02-24T05:00:00.000Z"
 author:
   name: Patric Morgan
   picture: "/assets/blog/authors/patric-morgan.jpg"
