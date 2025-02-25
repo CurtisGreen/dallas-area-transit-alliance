@@ -1,16 +1,18 @@
 ---
 title: "HB3187 Bill Analysis"
 excerpt: "It finally happened, The legislation that Plano has been threatening they would be pursuing has finally been filed. "
-coverImage: "/assets/default/fair-park-station.jpg"
+coverImage: "/assets/blog/HB-3187-Bill-analysis/Texas-capitol-darren-irvin-unsplash.jpg"
 date: "2025-02-24T05:00:00.000Z"
 author:
   name: Patric Morgan
   picture: "/assets/blog/authors/patric-morgan.jpg"
 ogImage:
-  url: "/assets/default/fair-park-station.jpg"
+  url: "/assets/blog/HB-3187-Bill-analysis/Texas-capitol-darren-irvin-unsplash.jpg"
 banner: 
   text: "Read Our Parlimentarian's Analysis of the Upcoming HB3187 filed in the Texas House of Representatives"
 ---
+Photo by [Darren Irvin](https://unsplash.com/@grassyknoll?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash") on [Unsplash](https://unsplash.com/photos/brown-concrete-building-under-blue-sky-during-daytime-g3jCvcapH6k?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+      
 
 It finally happened, The legislation that Plano has been threatening they would be pursuing has finally been filed. 
 
