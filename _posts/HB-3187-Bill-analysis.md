@@ -75,7 +75,7 @@ Alright what the heck does all of that mean? Basically it creates a new section 
 
 >Section 452.357(a), Transportation Code, is amended to read as follows:  
 	(a)  To secure the payment of an authority's bonds, the authority may:  
-		(1)  pledge **not more than 75 percent** \[ ~all or part~ \] of revenue realized from any tax that the authority may impose;  
+		(1)  pledge **not more than 75 percent** \[ <s>all or part</s> \] of revenue realized from any tax that the authority may impose;  
 		(2)  pledge any part of the revenue of the public transportation system;  
 		(3)  mortgage any part of the public transportation system, including any part of the system subsequently acquired;  
 		(4)  pledge all or part of funds the federal government  
@@ -92,7 +92,7 @@ Amends Section 452.357(a) to change the amount of revenue that can be pledged to
 	 	(1)  pay the expenses of operation and maintenance of a  
  	public transportation system, including salaries, labor,  
  	materials, and repairs necessary to provide efficient service and  
- 	every other proper item of expense; \[ ~and~ \]  
+ 	every other proper item of expense; \[ <s>and</s> \]  
 	 	(2)  fund operating reserves; and  
 		**(3)  fund a general mobility program established under  
  	Section 452.204.**
@@ -106,8 +106,8 @@ This section simply adds the GENERAL MOBILITY PROGRAM as an allowed used of 452 
  	(a)  The executive committee may impose for an authority a  sales and use tax at the rate of:  
 	 	(1)  one-quarter of one percent;  
  	    (2)  one-half of one percent; or  
- 	    (3)  three-quarters of one percent\[ ~; or~ 
- 	    \[ ~(4)  one percent ~ \].
+ 	    (3)  three-quarters of one percent \[ <s>; or</s> 
+ 	    \[ <s>(4)  one percent </s> \].
 
 This section amends Section 452.491(a) to remove “one percent” as an allowed sales and use tax rate. On its face this make look like blowing up DART's bond convents, remember this for when we get to section 8. 
 
