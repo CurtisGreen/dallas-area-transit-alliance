@@ -27,7 +27,7 @@ A bond is like a little piece of a loan, when a governmental entity like DART ha
 ![Image](/assets/blog/HB-3187-Bill-analysis/HB3187-fig1.png)
 *Fig. 1 \- This is an overly simplistic example, in reality the bond holder might only get interest payment monthly or quarterly, or just a large lump sum at when the bond reaches maturity. Those details are not important for this discussion.*  
 
-DART issues a particular type of bond called a Sales Tax Revenue Bonds. Instead of putting up a piece of collateral (like you would with a mortgage) these bonds are secured by future sales tax revenues*   
+DART issues a particular type of bond called a Sales Tax Revenue Bonds. Instead of putting up a piece of collateral (like you would with a mortgage) these bonds are secured by future sales tax revenues   
 
 Underlying each bond is an agreement, a contract. This contract lays out the nitty gritty details on how interest is calculated, how the administrative cost of the bonds are paid for, when are payments made, what happens if DART should default, the process for appointing a representative of the bound holders, and much more. If you’re curious you can try and wade through the [entire 66 page document](https://www.dartbonds.org/dart-investor-relations-tx/documents/view-file/i1016?mediaId=32701), but it's pretty dry, and probably won’t make much sense unless you're a lawyer or banker.  
 There is one section that is important to know (thank you to David Leininger, former CFO of DART for bringing this to the public's attention in a [post on linkedIn](https://www.linkedin.com/pulse/plano-v-dart-dilemma-pullout-one-city-versus-pulldown-david-leininger-fmooc/))
@@ -75,7 +75,7 @@ Alright what the heck does all of that mean? Basically it creates a new section 
 
 >Section 452.357(a), Transportation Code, is amended to read as follows:  
 	(a)  To secure the payment of an authority's bonds, the authority may:  
-		(1)  pledge **not more than 75 percent** \[ <s>all or part</s> \] of revenue realized from any tax that the authority may impose;  
+		(1)  pledge **not more than 75 percent** \[ ~all or part~ \] of revenue realized from any tax that the authority may impose;  
 		(2)  pledge any part of the revenue of the public transportation system;  
 		(3)  mortgage any part of the public transportation system, including any part of the system subsequently acquired;  
 		(4)  pledge all or part of funds the federal government  
@@ -92,7 +92,7 @@ Amends Section 452.357(a) to change the amount of revenue that can be pledged to
 	 	(1)  pay the expenses of operation and maintenance of a  
  	public transportation system, including salaries, labor,  
  	materials, and repairs necessary to provide efficient service and  
- 	every other proper item of expense; \[ <s>and</s> \]  
+ 	every other proper item of expense; \[ ~and~ \]  
 	 	(2)  fund operating reserves; and  
 		**(3)  fund a general mobility program established under  
  	Section 452.204.**
@@ -106,8 +106,8 @@ This section simply adds the GENERAL MOBILITY PROGRAM as an allowed used of 452 
  	(a)  The executive committee may impose for an authority a  sales and use tax at the rate of:  
 	 	(1)  one-quarter of one percent;  
  	    (2)  one-half of one percent; or  
- 	    (3)  three-quarters of one percent \[ <s>; or</s> 
- 	    \[ <s>(4)  one percent </s> \].
+ 	    (3)  three-quarters of one percent \[ ~; or~ 
+ 	    \[ ~(4)  one percent ~ \].
 
 This section amends Section 452.491(a) to remove “one percent” as an allowed sales and use tax rate. On its face this make look like blowing up DART's bond convents, remember this for when we get to section 8. 
 
