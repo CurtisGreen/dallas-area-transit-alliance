@@ -69,7 +69,7 @@ Alright what the heck does all of that mean? Basically it creates a new section 
 * Can only be used for Roads, Traffic Signals, Sidewalks, or drainage projects i.e Not transit  
 * Half made available at the beginning of the FY, Half available on a reimbursement basis  
 * The city must submit a list of projects they plan to use the funds for each year  
-* Unused funds go into a trust for additional debt payments on top of regularly scheduled bond payments \[reword\]
+* Unused funds go into a trust for additional debt payments on top of regularly scheduled bond payments
 
 ### Section 2\.
 
@@ -106,8 +106,8 @@ This section simply adds the GENERAL MOBILITY PROGRAM as an allowed used of 452 
  	(a)  The executive committee may impose for an authority a  sales and use tax at the rate of:  
 	 	(1)  one-quarter of one percent;  
  	    (2)  one-half of one percent; or  
- 	    (3)  three-quarters of one percent \[ ~; or~ 
- 	    \[ ~(4)  one percent ~ \].
+ 	    (3)  three-quarters of one percent \[ ~; or~ \]  
+ 	    \[ ~(4)  one percent~ \]
 
 This section amends Section 452.491(a) to remove “one percent” as an allowed sales and use tax rate. On its face this make look like blowing up DART's bond convents, remember this for when we get to section 8. 
 
@@ -215,7 +215,7 @@ This bill is about Plano raiding DART for money to pay for their road and street
 
 Importantly, this bill affects ALL of the member cities. The 25% General Mobility fund CAN NOT be used to fund transit operation regardless of the wishes of every other member city, and this restriction persists beyond when DART's current 1% pledged bonds are extinguished." In 1983 voters in every DART member city decided to dedicate a 1% sales to build a public transit system for the entire region, and they reaffirmed that vision in 2000 by authorizing DART to issue long term bonds for the construction and maintenance of its Light Rail system, the 2nd largest such system in the state. To have the state come in and decimate DART's ability to operate the system we have invested Billions of dollars to build would be fiscally irresponsible.
 
-It's hard to overstate how bad this bill is. What organization can you think of that can lose almost 40% of its funding (or even just 20%) and provide anywhere near the same level of service? And to try and do this on the eve of the suburban focused Silver Line opening? It's unconscionable, many member cities have been quite patient in waiting for their turn to get rail service, this bill will cripple that service as well as all of DART's other existing services.
+It's hard to overstate how bad this bill is. What organization can you think of that can lose over 40% of its funding (or even just 20%) and provide anywhere near the same level of service? And to try and do this on the eve of the suburban focused Silver Line opening? It's unconscionable, many member cities have been quite patient in waiting for their turn to get rail service, this bill will cripple that service as well as all of DART's other existing services.
 
 
 ## Call to action
