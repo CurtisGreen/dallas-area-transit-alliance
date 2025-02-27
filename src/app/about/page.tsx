@@ -42,7 +42,7 @@ export default function Index() {
           Keun Lee, Policy Research Chair
         </li>
         <li className="mb-1">
-          Mary Collier, Event Planning Chair
+          Qui Le, Event Planning Chair
         </li>
       </ul>
       <p>Want to help us out? <a href="mailto:info@ridewithdata.org">Email us</a> if you are interested in an Executive Committee Position. </p>
