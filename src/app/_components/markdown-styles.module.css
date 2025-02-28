@@ -27,6 +27,7 @@
 
 .markdown a {
   @apply underline;
+  @apply break-words;
 }
 
 .markdown blockquote {
