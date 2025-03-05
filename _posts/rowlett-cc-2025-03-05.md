@@ -22,7 +22,7 @@ The Dallas Area Transit Alliance (DATA) applauds the City of Rowlett for this st
 
 ---
 
-**About Dallas Area Transit Allaince:**  
+**About Dallas Area Transit Alliance:**  
 The Dallas Area Transit Alliance (DATA) is a grassroots organization dedicated to preserving and advancing public transit in the service area of Dallas Area Rapid Transit (DART). Founded in 2024, DATA advocates for the continued funding and improvement of services, ensuring that all residents have access to safe, reliable, and efficient public transportation.  
 
 Dallas Area Transit Alliance (DATA) is a rider-run advocacy group that is not affiliated with Dallas Area Rapid Transit (DART) or any other transit or government agency.  
