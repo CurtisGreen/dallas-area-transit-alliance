@@ -49,4 +49,4 @@ Plano Municipal Center is within walking distance of Downtown Plano Station, ser
 
 The press conference will be held on the north side lawn of the municipal center, near the flag poles. See image for reference.  
 
-[!Plano City Hall Directions](/assets/blog/March-2025-Plano-Press-Confrence/Plano-Press-Confrence-Directions.png)
+![Plano City Hall Directions](/assets/blog/March-2025-Plano-Press-Confrence/Plano-Press-Confrence-Directions.png)
