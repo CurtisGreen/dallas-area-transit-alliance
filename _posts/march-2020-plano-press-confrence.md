@@ -2,7 +2,7 @@
 title: "DATA Action In Plano Ahead of Lobby Day"
 excerpt: "Dallas Area Transit Alliance will host a press conference in Plano, during which members of DATA and allied organizations will speak out against the transportation bills that could irreparably harm DART"
 coverImage: "/assets/blog/hb3187-2025-02-25/cover.jpg"
-date: "2025-02-26T05:00:00.000Z"
+date: "2025-03-20T05:00:00.000Z"
 author:
   name: DATA Team
   picture: "/assets/blog/authors/data-team.png"
