@@ -1,13 +1,13 @@
 ---
 title: "DATA Action In Plano Ahead of Lobby Day"
 excerpt: "Dallas Area Transit Alliance will host a press conference in Plano, during which members of DATA and allied organizations will speak out against the transportation bills that could irreparably harm DART"
-coverImage: "/assets/blog/hb3187-2025-02-25/cover.jpg"
+coverImage: "/assets/blog/March-2025-Plano-Press-Confrence/PlanoCityHall.png"
 date: "2025-03-20T05:00:00.000Z"
 author:
   name: DATA Team
   picture: "/assets/blog/authors/data-team.png"
 ogImage:
-  url: "/assets/blog/hb3187-2025-02-25/cover.jpg"
+  url: "/assets/blog/March-2025-Plano-Press-Confrence/PlanoCityHall.png"
 banner: 
   text: "DATA Action In Plano Ahead of Lobby Day: Join in speaking out for DART!"
 ---
@@ -26,7 +26,7 @@ Dallas Area Transit Alliance will host a press conference in Plano, during which
 
 ## Plano Council Attendance and Public Comment
 
-Immediately following the DATA press conference, we will enter the Plano City Council Chambers during their regular session and sit in until comments of public interest. You can register to speak during this portion at [City of Plano Meeting Registration](https://forms.plano.gov/Forms/Sign_Up_Citizen) . If you wish to speak on DART during the sit in, prepare for a 1 minute or even 30 second speech.
+Immediately following the DATA press conference, we will enter the Plano City Council Chambers during their regular session and sit in until comments of public interest. You can register to speak during this portion at [City of Plano Meeting Registration](https://forms.plano.gov/Forms/Sign_Up_Citizen) . If you wish to speak on DART during the meeting, prepare for a 1 minute or even 30 second speech.
 
 **Location:** Plano Municipal Center, north lawn by the flag poles: 1520 K Ave, Plano, TX 75074 
 
