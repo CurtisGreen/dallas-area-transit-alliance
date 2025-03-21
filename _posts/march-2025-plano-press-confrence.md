@@ -16,7 +16,7 @@ banner:
 
 Dallas Area Transit Alliance will host a press conference in Plano, during which members of DATA and allied organizations will speak out against the transportation bills that could irreparably harm DART and its ability to serve the riders. HB 3187 and SB 1557 would ultimately result in a 44% funding cut to DART at a time where transit is becoming increasingly popular and critical to a growing region. The members of DATA believe that if any of these bills pass, there will be serious transportation, economic, and environmental impacts that could harm the prosperity of the entire DFW region. 
 
-Additional Press Conference Details below:
+### Additional Press Conference Details below:
 
 **Location:** Plano Municipal Center, north lawn by the flag poles: 1520 K Ave, Plano, TX 75074 
 
