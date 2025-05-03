@@ -98,7 +98,7 @@ Do you love DART? Do you want to show that you love DART? We are running a petit
 ## Transit Tangents Podcast 
 We held a podcast earlier in the month regarding Transit in Texas Communities but namely Dallas. Check out the recording below. An updated recording and a future Transit Tangents podcast will be coming in the future.
 
-[Watch the Podcast (DATA Version)](https://www.youtube.com/watch?v=wcVZL5xYevM)
+[youtube](https://www.youtube.com/watch?v=wcVZL5xYevM)
 
 ---
 
