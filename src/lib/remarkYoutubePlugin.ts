@@ -1,5 +1,5 @@
 // Copied and modified from https://github.com/pkolt/remark-youtube
-import type { Root, Text, Link } from "mdast";
+import type { Root, Text } from "mdast";
 import { visit } from "unist-util-visit";
 
 const URL_PATTERN =
@@ -10,11 +10,11 @@ const remarkYoutubePlugin = () => (tree: Root) => {
     let videoId = "";
     let videoUrl = "";
     for (const child of node.children) {
-      // parse type = 'link' for 'remark-gfm'
-      if (child.type === "text" || child.type === "link") {
-        const url = (child as Link)?.url ?? (child as Text)?.value;
+      if (child.type === "link") {
+        const url = child?.url;
+        const isYoutube = (child.children[0] as Text)?.value == "youtube";
         const match = url.match(URL_PATTERN);
-        if (match && match[1]) {
+        if (isYoutube && match?.[1]) {
           videoId = match[1];
           videoUrl = url;
           break;

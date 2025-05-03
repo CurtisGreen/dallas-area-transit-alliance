@@ -50,14 +50,15 @@ Join us for our first-ever Holiday Social at Pegasus City Brewery on December 15
 RSVP and purchase tickets on Action Network
 
 ## IYCMI: Transit Tangent
-![Image](/assets/blog/december-2024-newsletter/tt.jpg)
 Our President and Vice-President were on the Transit Tangent podcast earlier this month detailing the DART cuts and how they impact us; give it a watch!
 
-[Watch on YouTube](https://www.youtube.com/watch?v=mDSqIIgvDf4)
+[youtube](https://www.youtube.com/watch?v=mDSqIIgvDf4)
 
 
 Dallas Area Transit Alliance
+
 Dallas Area Transit Alliance is not affiliated with DART
+
 Dallas, Texas, U.S.A. 
 
 To get the latest updates and news, follow DATA's social media listed at [https://dallasareatransitalliance.org/contact](https://dallasareatransitalliance.org/contact).
