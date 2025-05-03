@@ -18,7 +18,7 @@ On Thursday April 24th, 2025 DART Board Members, Elected Mayors, Amalgamated Tra
 Click below to veiw select individuals who spoke in opposition:
 - [DARTs President and CEO Nadine Lee](https://www.youtube.com/watch?v=j9yiPQIkzWI&t=955s)
 - [DART Board Memebr Randel Bryant](https://www.youtube.com/watch?v=j9yiPQIkzWI&t=5634s)
-- [DATA Member Brandon Bullock](ttps://www.youtube.com/watch?v=j9yiPQIkzWI&t=5841s)
+- [DATA Member Brandon Bullock](https://www.youtube.com/watch?v=j9yiPQIkzWI&t=5841s)
 - [DART Board memeber Mark Enoch](https://www.youtube.com/watch?v=j9yiPQIkzWI&t=6969s)
 - [Youngest Data Memebr in attendance and 8th grader Shyam](https://www.youtube.com/watch?v=j9yiPQIkzWI&t=8247s)
 - [Dallas legend Walter Human and father of DART](https://www.youtube.com/watch?v=j9yiPQIkzWI&t=8626s)
