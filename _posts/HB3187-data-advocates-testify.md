@@ -22,9 +22,9 @@ Click below to veiw select individuals who spoke in opposition:
 - [DART Board memeber Mark Enoch](https://www.youtube.com/watch?v=j9yiPQIkzWI&t=6969s)
 - [Youngest Data Memebr in attendance and 8th grader Shyam](https://www.youtube.com/watch?v=j9yiPQIkzWI&t=8247s)
 - [Dallas legend Walter Human and father of DART](https://www.youtube.com/watch?v=j9yiPQIkzWI&t=8626s)
-- [DFW Urbanist's founder Courtney Hunter](https://www.youtube.com/watch?v=j9yiPQIkzWI&t=9066s)
+- [DFW Urbanistas founder Courtney Hunter](https://www.youtube.com/watch?v=j9yiPQIkzWI&t=9066s)
 
-Veiw the full hearing on HB3187 below
+View the full hearing on HB3187 below
 
 [youtube](https://www.youtube.com/watch?v=j9yiPQIkzWI)
 
