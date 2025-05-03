@@ -1,3 +1,4 @@
+---
 title: "DATA Advocates Testify Against HB3187 before the Texas House Transportation Committee"
 excerpt: "Data Advocates at the state capitol voiced their opposition to possible devasitaing cuts to DARTs funding"
 coverImage: "/assets/blog/hb3187-2025-02-25/cover.jpg"
