@@ -1,13 +1,13 @@
 ---
 title: "Remembering Mary"
 excerpt: "A Friend, Advocate, and Champion of DATA. Your passion and commitment will always be remembered."
-coverImage: "/assets/blog/remembering-mary/cover.jpg"
+coverImage: "/assets/blog/2025-01-25-remembering-mary/cover.jpg"
 date: "2025-01-25T05:00:00.000Z"
 author:
   name: DATA Team
   picture: "/assets/blog/authors/data-team.png"
 ogImage:
-  url: "/assets/blog/remembering-mary/cover.jpg"
+  url: "/assets/blog/2025-01-25-remembering-mary/cover.jpg"
 banner: 
   text: "Remembering Mary - A Friend, Advocate, and Champion of DATA. Your passion and commitment will always be remembered."
 ---
@@ -17,7 +17,7 @@ Mary was a fierce warrior for public transportation while also planning so many 
 
 Mary started her work in DATA with organizing our founding event caused by city council member remarks and organizing a trash cleanup in Farmers Branch, Texas. Mary exemplified how to get to work and make a difference in the community. 
 
-<!-- ![Image](/assets/blog/remembering-mary/FB-Trash-Cleanup-2024) -->
+<!-- ![Image](/assets/blog/2025-01-25-remembering-mary/FB-Trash-Cleanup-2024) -->
 
 Mary continued her advocacy by speaking at City Council meetings (namely in Carrollton, Plano, and the City of Dallas) and DART Board meetings to advocate for continued DART funding (No Caps, No Cuts), Bus Procurement, and Bus Frequency Improvements.
 

@@ -1,13 +1,13 @@
 ---
 title: "October Newsletter"
 excerpt: "We will be discussing more plans about our state legislative strategy, giving some advocacy updates, and socializing with our fellow transit advocates as we always do."
-coverImage: "/assets/blog/october-2024-newsletter/cover.png"
+coverImage: "/assets/blog/2024-10-10-newsletter/cover.png"
 date: "2024-10-10T05:00:00.000Z"
 author:
   name: DATA Newsletter
   picture: "/assets/blog/authors/data-team.png"
 ogImage:
-  url: "/assets/blog/october-2024-newsletter/cover.png"
+  url: "/assets/blog/2024-10-10-newsletter/cover.png"
 ---
 
 Join in in our next General Meeting. 

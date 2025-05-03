@@ -1,13 +1,13 @@
 ---
 title: "HB3187 Bill Analysis"
 excerpt: "It finally happened, The legislation that Plano has been threatening they would be pursuing has finally been filed. "
-coverImage: "/assets/blog/HB-3187-Bill-analysis/Texas-capitol-darren-irvin-unsplash.jpg"
+coverImage: "/assets/blog/2025-02-24-hb-3187-bill-analysis/Texas-capitol-darren-irvin-unsplash.jpg"
 date: "2025-02-24T05:00:00.000Z"
 author:
   name: Patric Morgan
   picture: "/assets/blog/authors/patric-morgan.jpg"
 ogImage:
-  url: "/assets/blog/HB-3187-Bill-analysis/Texas-capitol-darren-irvin-unsplash.jpg"
+  url: "/assets/blog/2025-02-24-hb-3187-bill-analysis/Texas-capitol-darren-irvin-unsplash.jpg"
 banner: 
   text: "Read Our Parlimentarian's Analysis of the Upcoming HB3187 filed in the Texas House of Representatives"
 ---
@@ -24,7 +24,7 @@ The following article can be pretty wonky, if you're into municipal finance and 
 
 A bond is like a little piece of a loan, when a governmental entity like DART has a big project they want to build (like say a 27-mile suburban commuter rail line) they probably don’t have the cash on hand to pay for it all at once. They need to get a loan to spread out the cost because it would take a LONG time to save up all the money needed. 
 
-![Image](/assets/blog/HB-3187-Bill-analysis/HB3187-fig1.png)
+![Image](/assets/blog/2025-02-24-hb-3187-bill-analysis/HB3187-fig1.png)
 *Fig. 1 \- This is an overly simplistic example, in reality the bond holder might only get interest payment monthly or quarterly, or just a large lump sum at when the bond reaches maturity. Those details are not important for this discussion.*  
 
 DART issues a particular type of bond called a Sales Tax Revenue Bonds. Instead of putting up a piece of collateral (like you would with a mortgage) these bonds are secured by future sales tax revenues   

@@ -1,13 +1,13 @@
 ---
 title: "Formation of Dallas Area Transit Alliance (DATA)"
 excerpt: "Today we officially announce the formation of the Dallas Area Transit Alliance (DATA), a grassroots organization committed to the preservation and advancement of Dallas Area Rapid Transit (DART)."
-coverImage: "/assets/blog/data-announces-formation/cover.jpg"
+coverImage: "/assets/blog/2024-07-30-data-announces-formation/cover.jpg"
 date: "2024-07-30T05:00:00.000Z"
 author:
   name: DATA Team
   picture: "/assets/blog/authors/data-team.png"
 ogImage:
-  url: "/assets/blog/data-announces-formation/cover.jpg"
+  url: "/assets/blog/2024-07-30-data-announces-formation/cover.jpg"
 banner: 
   text: "Read our latest press release announcing our formation."
   hide: true

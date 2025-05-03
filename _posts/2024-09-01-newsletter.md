@@ -1,13 +1,13 @@
 ---
 title: "September Newsletter"
 excerpt: "Our September newsletter highlights key events, including our General Meeting on September 21 at a brand new venue."
-coverImage: "/assets/blog/september-2024-newsletter/cover.jpg"
+coverImage: "/assets/blog/2024-09-01-newsletter/cover.jpg"
 date: "2024-09-01T05:00:00.000Z"
 author:
   name: DATA Newsletter
   picture: "/assets/blog/authors/data-team.png"
 ogImage:
-  url: "/assets/blog/september-2024-newsletter/cover.jpg"
+  url: "/assets/blog/2024-09-01-newsletter/cover.jpg"
 ---
 
 August has been a busy month with budget season for all the cities, so here's what's upcoming in September!
@@ -45,7 +45,7 @@ Election details will be sent via [GroupMe](https://go.ridewithdata.org/groupme)
 
 ## Week without Driving (September 30 - October 6, 2024)
 
-![Image](/assets/blog/september-2024-newsletter/DallasBicycleCoalition2.png)
+![Image](/assets/blog/2024-09-01-newsletter/DallasBicycleCoalition2.png)
 
 <!-- DATA is proud to announce that we will be participating in the Dallas Week without Driving co-hosted by [Dallas Bike Coalition](https://www.instagram.com/dallasbicyclecoalition/) and [Better Block](https://www.betterblock.org/). Also partnered are with [Feonix Mobility](https://feonix.org/), [DFW Urbanistas](https://www.instagram.com/urbanistasdfw/), [Dallas Youth Commission](https://dallascityhall.com/government/Boards-and-Commissions/Youth-Commission/Pages/default.aspx), [Dallas Disability Commission](https://dallascityhall.com/government/Boards-and-Commissions/Commission-on-Disabilities/Pages/default.aspx), and [Dallas Neighbors for Housing](https://www.dallasneighborsforhousing.org/). -->
 
