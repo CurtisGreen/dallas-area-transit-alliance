@@ -1,6 +1,6 @@
 ---
 title: "DATA Advocates Testify Against HB3187 before the Texas House Transportation Committee"
-excerpt: "Data Advocates at the state capitol voiced their opposition to possible devasitaing cuts to DARTs funding"
+excerpt: "DATA Advocates at the State Capitol voiced their opposition to possible devastating cuts to DART's funding"
 coverImage: "/assets/blog/hb3187-2025-02-25/cover.jpg"
 date: "2025-04-25T05:00:00.000Z"
 author:
@@ -12,17 +12,17 @@ banner:
   text: "DATA Advocates Testify Against HB3187 before the Texas House Transportation Committee"
 ---
 
-On Thursday April 24th, 2025 DART Board Members, Elected Mayors, Amalgamated Tranist Union Members and DATA Citizen Advocates desended upon the Texas Captiol to protect DARTs full 1% sales tax funding. Advocates arrived at the Capitol early in the morning around 8am when the Transportation Committee was first scheduled to meet but it would be nearly 14 hours before the committee would finally get to the bill they where there to oppose.
+On Thursday, April 24th, 2025, DART Board Members, elected mayors, Amalgamated Transit Union members, and DATA Citizen Advocates descended upon the Texas Capitol to protect DART's full 1% sales tax funding. Advocates arrived at the Capitol early in the morning around 8am, when the Transportation Committee was first scheduled to meet, but it would be nearly 14 hours before the committee would finally get to the bill they were there to oppose.
 
 
 
-Click below to veiw select individuals who spoke in opposition:
-- [DARTs President and CEO Nadine Lee](https://www.youtube.com/watch?v=j9yiPQIkzWI&t=955s)
-- [DART Board Memebr Randel Bryant](https://www.youtube.com/watch?v=j9yiPQIkzWI&t=5634s)
-- [DATA Member Brandon Bullock](https://www.youtube.com/watch?v=j9yiPQIkzWI&t=5841s)
-- [DART Board memeber Mark Enoch](https://www.youtube.com/watch?v=j9yiPQIkzWI&t=6969s)
-- [Youngest Data Memebr in attendance and 8th grader Shyam](https://www.youtube.com/watch?v=j9yiPQIkzWI&t=8247s)
-- [Dallas legend Walter Human and father of DART](https://www.youtube.com/watch?v=j9yiPQIkzWI&t=8626s)
+Click below to view select individuals who spoke in opposition:
+- [DART's President and CEO, Nadine Lee](https://www.youtube.com/watch?v=j9yiPQIkzWI&t=955s)
+- [DART Board Member, Randall Bryant](https://www.youtube.com/watch?v=j9yiPQIkzWI&t=5634s)
+- [DATA Member, Brandon Bullock](https://www.youtube.com/watch?v=j9yiPQIkzWI&t=5841s)
+- [DART Board Member, Mark Enoch](https://www.youtube.com/watch?v=j9yiPQIkzWI&t=6969s)
+- [Youngest DATA member in attendance and 8th grader, Shyam](https://www.youtube.com/watch?v=j9yiPQIkzWI&t=8247s)
+- [Dallas legend Walter Humann and father of DART](https://www.youtube.com/watch?v=j9yiPQIkzWI&t=8626s)
 - [DFW Urbanistas founder Courtney Hunter](https://www.youtube.com/watch?v=j9yiPQIkzWI&t=9066s)
 
 View the full hearing on HB3187 below
