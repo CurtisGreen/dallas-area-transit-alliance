@@ -22,7 +22,7 @@ Click below to view select individuals who spoke in opposition:
 - [DATA Member, Brandon Bullock](https://www.youtube.com/watch?v=j9yiPQIkzWI&t=5841s)
 - [DART Board Member, Mark Enoch](https://www.youtube.com/watch?v=j9yiPQIkzWI&t=6969s)
 - [Youngest DATA member in attendance and 8th grader, Shyam](https://www.youtube.com/watch?v=j9yiPQIkzWI&t=8247s)
-- [Dallas legend Walter Humann and father of DART](https://www.youtube.com/watch?v=j9yiPQIkzWI&t=8626s)
+- [Dallas legend and Father of DART Walter Humann](https://www.youtube.com/watch?v=j9yiPQIkzWI&t=8626s)
 - [DFW Urbanistas founder Courtney Hunter](https://www.youtube.com/watch?v=j9yiPQIkzWI&t=9066s)
 
 View the full hearing on HB3187 below
@@ -37,8 +37,7 @@ The Dallas Area Transit Alliance (DATA) is a grassroots organization dedicated t
 Dallas Area Transit Alliance (DATA) is a rider-run advocacy group that is not affiliated with Dallas Area Rapid Transit (DART) or any other transit or government agency.  
 
 **Press Contact:**  
-Dallas Area Transit Alliance (DATA)  
-Evan Rosner, Media/Government Relations Chair    
+Dallas Area Transit Alliance (DATA)   
 Email: [press@ridewithdata.org](mailto:press@ridewithdata.org)  
 
 **For General Inquiries**
