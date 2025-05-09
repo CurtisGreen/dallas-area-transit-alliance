@@ -21,6 +21,6 @@ DART will be unable to maintain their assets. They will lose federal funding, th
 
 This bill really truly means the end of DART. It's unlikely they will be able to maintain any political support. All the infrastructure we invested will go to waste, and ultimately the agency will die. Even if DART does survive, the service will be unrecognizable.
 
-We implore all of you reading this comment to please [contact your state representatives](go.ridewithdata.org/wrm) at your earliest convenience. 
+We implore all of you reading this comment to please [contact your state representatives](https://go.ridewithdata.org/wrm) at your earliest convenience. 
 
 [You can also use our action network campaign to email all your reps in one easy click.](https://actionnetwork.org/letters/save-dart-from-funding-cuts)
