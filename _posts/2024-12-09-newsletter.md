@@ -35,12 +35,12 @@ This month, instead of our regular general meetings, we’re excited to host two
 
 
 ## 1st Annual Holiday Social
-![Image](/assets/blog/december-2024-newsletter/hs.png)
+![Image](/assets/blog/2024-12-09-newsletter/hs.png)
 Join us for our first-ever Holiday Social at Pegasus City Brewery on December 15th from 2pm to 4pm. Enjoy festive vibes, local brews, and the opportunity to meet and mingle with fellow transit enthusiasts. Stick around afterwards for Mappy Hour, an informal social for local urbanists to contribute to OpenStreetMap together.
 
 
 ## DATA & Trains at NorthPark
-![Image](/assets/blog/december-2024-newsletter/tanp.jpg)
+![Image](/assets/blog/2024-12-09-newsletter/tanp.jpg)
 - Join DATA for a social field trip to NorthPark Center for Trains at NorthPark. 
 
 - Explore the wonder of intricate model train exhibits while contributing to a great cause—all ticket proceeds go to the Ronald McDonald House of Dallas.
