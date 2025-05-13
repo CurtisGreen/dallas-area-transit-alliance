@@ -4,7 +4,7 @@ import { SocialIcons } from "@/app/_components/social-icons";
 
 export default function Index() {
   return (
-    <>
+    <div>
       <h1 className="my-16 md:mb-12 text-5xl md:text-7xl font-bold tracking-tighter leading-tight md:pr-8">
         Contact Us
       </h1>
@@ -30,6 +30,6 @@ export default function Index() {
           className="block dark:invert dark:brightness-75 dark:grayscale w-[350px] md:w-[600px] h-[2100px] md:h-[1800px] ml-[-15px] md:ml-[-30px]"
         />
       </div>
-    </>
+    </div>
   );
 }
