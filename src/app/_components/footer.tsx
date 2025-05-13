@@ -58,7 +58,7 @@ export function Footer() {
               <FooterLink href="https://docs.google.com/forms/d/e/1FAIpQLSeE-SrnsbjniO7I0BkdHourNdQYO_MKaYhKa6iQjN63_eubBg/viewform">
                 Newsletter
               </FooterLink>
-              <FooterLink href="privacy-policy">Privacy Policy</FooterLink>
+              <FooterLink href="/privacy-policy">Privacy Policy</FooterLink>
             </div>
           </div>
         </div>
