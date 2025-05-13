@@ -2,15 +2,20 @@ export default function PrivacyPolicy() {
   return (
     <div className="mb-8">
       <h1>Dallas Area Transit Alliance – Privacy Policy</h1>
-      <b>Last Updated: May XX, 2025</b>
-      The Dallas Area Transit Alliance (“DATA,” “we,” “our,” or “us”) respects
-      your privacy and is committed to protecting the personal information you
-      share with us. This Privacy Policy outlines how we collect, use, store,
-      and share your information when you engage with our website, forms, or
-      services.
+      <b>Last Updated: May 13, 2025</b>
+      <div>
+        The Dallas Area Transit Alliance (“DATA,” “we,” “our,” or “us”) respects
+        your privacy and is committed to protecting the personal information you
+        share with us. This Privacy Policy outlines how we collect, use, store,
+        and share your information when you engage with our website, forms, or
+        services.
+      </div>
       <br />
       <h2>1. Information We Collect</h2>
-      We may collect personal information that you voluntarily provide when you:
+      <div>
+        We may collect personal information that you voluntarily provide when
+        you:
+      </div>
       <ul>
         <li>
           Fill out a form on our website or through one of our subprocessors
@@ -19,7 +24,7 @@ export default function PrivacyPolicy() {
         <li>Register for an event or volunteer opportunity</li>
         <li>Contact us directly via email or social media</li>
       </ul>
-      This information may include:
+      <div>This information may include:</div>
       <ul>
         <li>Name</li>
         <li>Email address</li>
@@ -41,7 +46,7 @@ export default function PrivacyPolicy() {
       </ul>
       <br />
       <h2>2. How We Collect Information</h2>
-      We collect your information through:
+      <div>We collect your information through:</div>
       <ul>
         <li>Web forms submitted through our website or subprocessors</li>
         <li>Letter writing campaigns submitted through our subprocessors</li>
@@ -52,12 +57,14 @@ export default function PrivacyPolicy() {
           statistical analysis)
         </li>
       </ul>
-      We do <b>not</b> collect sensitive personal data (such as financial,
-      medical, or government ID information) unless explicitly required and
-      clearly disclosed.
+      <div>
+        We do <b>not</b> collect sensitive personal data (such as financial,
+        medical, or government ID information) unless explicitly required and
+        clearly disclosed.
+      </div>
       <br />
       <h2>3. Where Your Information Is Stored</h2>
-      Your information may be stored in the following locations:
+      <div>Your information may be stored in the following locations:</div>
       <ul>
         <li>
           Secure cloud-based services such as Google Workspace, Action Network,
@@ -66,23 +73,29 @@ export default function PrivacyPolicy() {
         <li>Encrypted internal databases</li>
         <li>Email platforms used for outreach and communications</li>
       </ul>
-      We implement reasonable administrative, technical, and physical safeguards
-      to protect your data from unauthorized access or disclosure.
+      <div>
+        We implement reasonable administrative, technical, and physical
+        safeguards to protect your data from unauthorized access or disclosure.
+      </div>
       <br />
       <h2>4. Sharing with Third Parties</h2>
-      We do <b>not</b> sell or rent your personal information. We may share your
-      data with trusted third-party service providers strictly for the purpose
-      of operating our organization, including:
+      <div>
+        We do <b>not</b> sell or rent your personal information. We may share
+        your data with trusted third-party service providers strictly for the
+        purpose of operating our organization, including:
+      </div>
       <ul>
         <li>Email newsletter platforms</li>
         <li>Form processing tools</li>
         <li>CRM and analytics software</li>
       </ul>
-      All third-party service providers we work with are contractually obligated
-      to protect your data and use it only for authorized purposes.
+      <div>
+        All third-party service providers we work with are contractually
+        obligated to protect your data and use it only for authorized purposes.
+      </div>
       <br />
       <h2>5. Subprocessors</h2>
-      Our subprocessors may include:
+      <div>Our subprocessors may include:</div>
       <ul>
         <li>
           <b>Google Workspace</b> – document storage, forms, and email
@@ -108,13 +121,15 @@ export default function PrivacyPolicy() {
           subprocessors
         </li>
       </ul>
-      A full list of subprocessors is available upon request.
+      <div>A full list of subprocessors is available upon request.</div>
       <br />
       <h2>6. Your Rights and How to Contact Us</h2>
-      You have the right to access, correct, or request deletion of any personal
-      information we have collected about you. You may also request to
-      unsubscribe from any communications at any time. To submit a request
-      regarding your personal data, including:
+      <div>
+        You have the right to access, correct, or request deletion of any
+        personal information we have collected about you. You may also request
+        to unsubscribe from any communications at any time. To submit a request
+        regarding your personal data, including:
+      </div>
       <ul>
         <li>Accessing or reviewing the data we have on file</li>
         <li>Correcting or updating your personal information</li>
@@ -128,20 +143,24 @@ export default function PrivacyPolicy() {
         timeframe and in accordance with applicable data protection laws.
       </div>
       <h2>7. How We May Contact You</h2>
-      By providing your contact information to the Dallas Area Transit Alliance,
-      you consent to receive communications from us through the methods you have
-      provided, which may include:
+      <div>
+        By providing your contact information to the Dallas Area Transit
+        Alliance, you consent to receive communications from us through the
+        methods you have provided, which may include:
+      </div>
       <ul>
         <li>Email</li>
         <li>Phone calls</li>
         <li>Text messages (SMS)</li>
         <li>Postal mail</li>
       </ul>
-      We use these channels to share updates about our advocacy work, events,
-      volunteer opportunities, policy alerts, or administrative information
-      related to your interactions with DATA. You may opt out of any or all of
-      these communications at any time by following the instructions included in
-      the message or by contacting us at <b>privacy@ridewithdata.org</b>.
+      <div>
+        We use these channels to share updates about our advocacy work, events,
+        volunteer opportunities, policy alerts, or administrative information
+        related to your interactions with DATA. You may opt out of any or all of
+        these communications at any time by following the instructions included
+        in the message or by contacting us at <b>privacy@ridewithdata.org</b>.
+      </div>
     </div>
   );
 }
