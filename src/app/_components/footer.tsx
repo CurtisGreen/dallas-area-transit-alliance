@@ -35,7 +35,11 @@ export function Footer() {
               any other transit or government agency.
             </div>
             <div className="mb-4 text-center lg:text-left">
-              <i>In Honor and Dedication to Mary Collier – A Friend, Advocate, and Champion of DATA. Your passion and commitment will always be remembered.</i>
+              <i>
+                In Honor and Dedication to Mary Collier – A Friend, Advocate,
+                and Champion of DATA. Your passion and commitment will always be
+                remembered.
+              </i>
             </div>
             <SocialIcons showGitHub={true} />
 
@@ -54,10 +58,11 @@ export function Footer() {
               <FooterLink href="https://docs.google.com/forms/d/e/1FAIpQLSeE-SrnsbjniO7I0BkdHourNdQYO_MKaYhKa6iQjN63_eubBg/viewform">
                 Newsletter
               </FooterLink>
+              <FooterLink href="/privacy-policy">Privacy Policy</FooterLink>
             </div>
           </div>
         </div>
       </div>
-    </footer >
+    </footer>
   );
 }

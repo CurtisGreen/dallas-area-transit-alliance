@@ -24,6 +24,14 @@ h6 {
   text-wrap: pretty;
 }
 
+h1 {
+  @apply my-8 text-3xl font-bold tracking-tighter leading-tight;
+}
+
+h2 {
+  @apply mt-6 mb-4 text-xl font-bold tracking-tighter leading-tight;
+}
+
 pre {
   @apply bg-slate-100 dark:bg-slate-800 p-4 rounded;
 }
