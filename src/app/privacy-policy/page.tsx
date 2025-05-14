@@ -1,7 +1,7 @@
 export default function PrivacyPolicy() {
   return (
     <div className="mb-8">
-      <h1>Dallas Area Transit Alliance – Privacy Policy</h1>
+      <h1>Dallas Area Transit Alliance - Privacy Policy</h1>
       <b>Last Updated: May 13, 2025</b>
       <div>
         The Dallas Area Transit Alliance (“DATA,” “we,” “our,” or “us”) respects
@@ -98,26 +98,26 @@ export default function PrivacyPolicy() {
       <div>Our subprocessors may include:</div>
       <ul>
         <li>
-          <b>Google Workspace</b> – document storage, forms, and email
+          <b>Google Workspace</b> - document storage, forms, and email
           communication
         </li>
         <li>
-          <b>Action Network</b> – letter writing, contact and event management
+          <b>Action Network</b> - letter writing, contact and event management
         </li>
         <li>
-          <b>MailerLite</b> – email marketing and newsletters
+          <b>MailerLite</b> - email marketing and newsletters
         </li>
         <li>
-          <b>Cloudflare</b> – website performance, security and analytics
+          <b>Cloudflare</b> - website performance, security and analytics
         </li>
         <li>
-          <b>Vercel</b> – website hosting and analytics
+          <b>Vercel</b> - website hosting and analytics
         </li>
         <li>
-          <b>Short.io</b> – branded short links
+          <b>Short.io</b> - branded short links
         </li>
         <li>
-          <b>Make</b> – automations and synchronization between our
+          <b>Make</b> - automations and synchronization between our
           subprocessors
         </li>
       </ul>
