@@ -137,7 +137,7 @@ export default function PrivacyPolicy() {
         <li>Unsubscribing from newsletters or outreach emails</li>
       </ul>
       Please contact us at:
-      <b>📧 privacy@ridewithdata.org</b>
+      <b>privacy@ridewithdata.org</b>
       <div>
         We will respond to all privacy-related requests within a reasonable
         timeframe and in accordance with applicable data protection laws.
