@@ -1,13 +1,13 @@
 ---
 title: "Dallas Area Transit Alliance Applauds Rowlett City Council’s Support for Full DART Funding"
 excerpt: "Tonight, the Rowlett City Council adopted a resolution to rescind Resolution 044-24, which supported a cut of the DART sales tax by 25%, and instead support the full funding of the Dallas Area Rapid Transit (DART) system."
-coverImage: "/assets/blog/rowlett-cc-2025-03-05/cover.jpg"
+coverImage: "/assets/blog/2025-03-04-rowlett-cc/cover.jpg"
 date: "2025-03-04T05:00:00.000Z"
 author:
   name: DATA Team
   picture: "/assets/blog/authors/data-team.png"
 ogImage:
-  url: "/assets/blog/rowlett-cc-2025-03-05/cover.jpg"
+  url: "/assets/blog/2025-03-04-rowlett-cc/cover.jpg"
 ---
 
 FOR IMMEDIATE RELEASE
