@@ -12,13 +12,13 @@ banner:
   text: "One Down One To Go: HB3187 dies in the Texas House"
 ---
 
-As midnight has arived at The Texas House of Representatives the Dallas Area Transit Alliance(DATA) celebrates that HB3187, the bill to defund DART, has died. The bill failed to get passed the deadline for a 2nd reading on May 15, 2025.
+As midnight has arrived at The Texas House of Representatives the Dallas Area Transit Alliance (DATA) celebrates that HB3187, the bill to defund DART, has died. The bill failed to get passed the deadline for a 2nd reading on May 15, 2025.  
 
-But SB1557 still looms in The Texas Senate. It has not yet had a public hearing in the upper chamber, and has only a little over a week before it would fail to meet a similar deadline in the house. While its chances of passing dwindle each day, DATA is remaining vigilent in monitoring the bills movement.
+But SB1557 still looms in The Texas Senate. It has not yet had a public hearing in the upper chamber, and has only a little over a week before it would fail to meet a similar deadline in the house. While its chances of passing dwindle each day, DATA is remaining vigilent in monitoring the bills movement.  
 
-We also celebrate many of the GREAT bills that have successfuly made their way to the govenors office, such as SB 1555 that would fund a grant program for grade seprated rail crossings.
+We also celebrate many of the GREAT bills that have successfuly made their way to the Governor's office, such as SB 1555 that would fund a grant program for grade seprated rail crossings.  
 
-Finalley we invite everyone to our next general meeing on May 17th at 1:30PM at the Dallas Centeral libary in Classsroom E (6th Floor).
+Finally, we invite everyone to our next general meeting on May 17th at 1:30PM at the Dallas Central libary in Classroom E (6th Floor).  
 
 ---
 
@@ -28,14 +28,13 @@ The Dallas Area Transit Alliance (DATA) is a grassroots organization dedicated t
 Dallas Area Transit Alliance (DATA) is a rider-run advocacy group that is not affiliated with Dallas Area Rapid Transit (DART) or any other transit or government agency.  
 
 **Press Contact:**  
-Dallas Area Transit Alliance (DATA)  
-Evan Rosner, Media/Government Relations Chair    
+Dallas Area Transit Alliance (DATA)   
 Email: [press@ridewithdata.org](mailto:press@ridewithdata.org)  
 
 **For General Inquiries**
-Email: [info@ridewithdata.org](mailto:info@ridewithdata.org)
+Email: [info@ridewithdata.org](mailto:info@ridewithdata.org)  
 Website: [dallasareatransitalliance.org](https://dallasareatransitalliance.org) or [ridewithdata.org](https://ridewithdata.org)  
 
 **Social Media:**  
-Dallas Area Transit Alliance [Facebook Group](https://www.facebook.com/groups/7092451177524504) and [Facebook Page](https://www.facebook.com/profile.php?id=61563559341185)  
-@ridewithdata on [Instagram](https://instagram.com/ridewithdata) and [Bluesky](https://bsky.app/profile/ridewithdata.org) 
+Dallas Area Transit Alliance [Facebook Group](https://www.facebook.com/groups/7092451177524504) and [Facebook Page](https://www.facebook.com/profile.php?id=61563559341185)    
+@ridewithdata on [Instagram](https://instagram.com/ridewithdata) and [Bluesky](https://bsky.app/profile/ridewithdata.org)   
