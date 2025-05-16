@@ -18,7 +18,7 @@ But SB1557 still looms in The Texas Senate. It has not yet had a public hearing 
 
 We also celebrate many of the GREAT bills that have successfuly made their way to the Governor's office, such as SB 1555 that would fund a grant program for grade seprated rail crossings.  
 
-Finally, we invite everyone to our next general meeting on May 17th at 1:30PM at the Dallas Central libary in Classroom E (6th Floor).  
+Finally, we invite everyone to our next general meeting on May 17th at 1:30PM at the Dallas Central library in Classroom E (6th Floor).  
 
 ---
 
