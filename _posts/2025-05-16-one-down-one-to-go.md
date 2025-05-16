@@ -14,7 +14,7 @@ banner:
 
 As midnight has arrived at The Texas House of Representatives the Dallas Area Transit Alliance (DATA) celebrates that HB3187, the bill to defund DART, has died. The bill failed to get passed the deadline for a 2nd reading on May 15, 2025.  
 
-But SB1557 still looms in The Texas Senate. It has not yet had a public hearing in the upper chamber, and has only a little over a week before it would fail to meet a similar deadline in the house. While its chances of passing dwindle each day, DATA is remaining vigilent in monitoring the bills movement.  
+But SB1557 still looms in The Texas Senate. It has not yet had a public hearing in the upper chamber, and has only a little over a week before it would fail to meet a similar deadline in the house. While its chances of passing dwindle each day, DATA is remaining vigilant in monitoring the bills movement.  
 
 We also celebrate many of the GREAT bills that have successfully made their way to the Governor's office, such as SB 1555 that would fund a grant program for grade-separated rail crossings.  
 
