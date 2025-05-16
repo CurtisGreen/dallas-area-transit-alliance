@@ -63,7 +63,7 @@ export const Navbar = () => {
                   href="https://actionnetwork.org/letters/save-dart-from-funding-cuts?source=website_navbar&"
                   target="_blank"
                 >
-                  Contact your Reps to Say NO! to HB3187 and SB1557
+                  Say NO! to SB1557
                 </NavbarLink>
               </div>
               <div>
