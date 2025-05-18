@@ -97,24 +97,19 @@ export default function PrivacyPolicy() {
       <h2>5. Subprocessors</h2>
       <div>Our subprocessors may include:</div>
       <ul>
-        <li>
-          <b>Google Workspace</b> - document storage, forms, and email
-          communication
-        </li>
+
         <li>
           <b>Action Network</b> - letter writing, contact and event management
-        </li>
-        <li>
-          <b>MailerLite</b> - email marketing and newsletters
         </li>
         <li>
           <b>Cloudflare</b> - website performance, security and analytics
         </li>
         <li>
-          <b>Vercel</b> - website hosting and analytics
+          <b>Google Workspace</b> - document storage, forms, and email
+          communication
         </li>
         <li>
-          <b>Short.io</b> - branded short links
+          <b>MailerLite</b> - email marketing and newsletters
         </li>
         <li>
           <b>Make</b> - automations and synchronization between our
@@ -123,6 +118,13 @@ export default function PrivacyPolicy() {
         <li>
           <b>Substack</b> - blog articles, newsletters, and analytics
         </li>
+        <li>
+          <b>Short.io</b> - branded short links
+        </li>
+        <li>
+          <b>Vercel</b> - website hosting and analytics
+        </li>
+
       </ul>
       <div>A full list of subprocessors is available upon request.</div>
       <br />
