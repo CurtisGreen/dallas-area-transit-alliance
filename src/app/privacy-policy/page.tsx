@@ -141,8 +141,7 @@ export default function PrivacyPolicy() {
         <li>Requesting deletion of your information from our systems</li>
         <li>Unsubscribing from newsletters or outreach emails</li>
       </ul>
-      Please contact us at:
-      <b>privacy@ridewithdata.org</b>
+      Please contact us at: <b><a href="mailto:privacy@ridewithdata.org">privacy@ridewithdata.org</a></b>
       <div>
         We will respond to all privacy-related requests within a reasonable
         timeframe and in accordance with applicable data protection laws.
@@ -164,7 +163,7 @@ export default function PrivacyPolicy() {
         volunteer opportunities, policy alerts, or administrative information
         related to your interactions with DATA. You may opt out of any or all of
         these communications at any time by following the instructions included
-        in the message or by contacting us at <b>privacy@ridewithdata.org</b>.
+        in the message or by contacting us at <b><a href="mailto:privacy@ridewithdata.org">privacy@ridewithdata.org</a></b>.
       </div>
     </div>
   );
