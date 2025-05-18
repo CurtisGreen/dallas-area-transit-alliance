@@ -34,7 +34,7 @@ export function Footer() {
               that is not affiliated with Dallas Area Rapid Transit (DART) or
               any other transit or government agency.
             </div>
-            <div className="mb-4 text-center lg:text-left">
+            <div href="/posts/remembering-mary" className="mb-4 text-center lg:text-left">
               <i>
                 In Honor and Dedication to Mary Collier – A Friend, Advocate,
                 and Champion of DATA. Your passion and commitment will always be
@@ -45,21 +45,15 @@ export function Footer() {
 
             <div className="py-4 flex flex-wrap flex-row max-sm:justify-center gap-x-8 gap-y-4">
               <FooterLink href="/about">About</FooterLink>
-              <FooterLink href="https://actionnetwork.org/groups/dallas-area-transit-alliance">
-                Action Network
-              </FooterLink>
+              <FooterLink href="https://actionnetwork.org/groups/dallas-area-transit-alliance">Action Network</FooterLink>
               <FooterLink href="/calendar">Calendar</FooterLink>
               <FooterLink href="/contact">Contact</FooterLink>
-              <DownloadButton href="/logos/data-logos.zip">
-                <div className="underline hover:text-gray-600 dark:hover:text-slate-300 cursor-pointer">
-                  Media Kit
-                </div>
-              </DownloadButton>
+              <FooterLink href="/logos/data-logos.zip">Media Kit</FooterLink>
               <FooterLink href="/documents/DATA_Code_of_Conduct_2025-05-17.pdf">Code of Conduct</FooterLink>
-              <FooterLink href="https://docs.google.com/forms/d/e/1FAIpQLSeE-SrnsbjniO7I0BkdHourNdQYO_MKaYhKa6iQjN63_eubBg/viewform">
-                Newsletter
-              </FooterLink>
+              <FooterLink href="/documents/DATA_Bylaws_2025-05-17.pdf">Bylaws</FooterLink>
+              <FooterLink href="https://docs.google.com/forms/d/e/1FAIpQLSeE-SrnsbjniO7I0BkdHourNdQYO_MKaYhKa6iQjN63_eubBg/viewform">Newsletter</FooterLink>
               <FooterLink href="/privacy-policy">Privacy Policy</FooterLink>
+              <FooterLink href="https://rideiwthdata.substack.com">Substack</FooterLink>
             </div>
           </div>
         </div>
