@@ -33,10 +33,10 @@ export default function Index() {
           Qui Le, Systems Administrator
         </li>
         <li className="mb-1">
-          Evan Rosner, Media and Government Relations Chair
+          David Yaqubuin, External Affairs Chair
         </li>
         <li className="mb-1">
-          Rohan Kodibagkar, Social Media and Outreach Chair
+          Rohan Kodibagkar, Community Outreach Chair
         </li>
         <li className="mb-1">
           Keun Lee, Policy Research Chair
