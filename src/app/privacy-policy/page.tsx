@@ -2,7 +2,7 @@ export default function PrivacyPolicy() {
   return (
     <div className="mb-8">
       <h1>Dallas Area Transit Alliance - Privacy Policy</h1>
-      <b>Last Updated: May 13, 2025</b>
+      <b>Last Updated: May 18, 2025</b>
       <div>
         The Dallas Area Transit Alliance (“DATA,” “we,” “our,” or “us”) respects
         your privacy and is committed to protecting the personal information you
@@ -67,7 +67,7 @@ export default function PrivacyPolicy() {
       <div>Your information may be stored in the following locations:</div>
       <ul>
         <li>
-          Secure cloud-based services such as Google Workspace, Action Network,
+          Secure cloud-based services such as Google Workspace, Action Network, Substack
           and MailerLite
         </li>
         <li>Encrypted internal databases</li>
@@ -119,6 +119,9 @@ export default function PrivacyPolicy() {
         <li>
           <b>Make</b> - automations and synchronization between our
           subprocessors
+        </li>
+        <li>
+          <b>Substack</b> - blog articles, newsletters, and analytics
         </li>
       </ul>
       <div>A full list of subprocessors is available upon request.</div>
