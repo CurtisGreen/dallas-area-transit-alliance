@@ -53,7 +53,7 @@ export function Footer() {
               <FooterLink href="/logos/data-logos.zip">Media Kit</FooterLink>
               <FooterLink href="https://docs.google.com/forms/d/e/1FAIpQLSeE-SrnsbjniO7I0BkdHourNdQYO_MKaYhKa6iQjN63_eubBg/viewform">Newsletter</FooterLink>
               <FooterLink href="/privacy-policy">Privacy Policy</FooterLink>
-              <FooterLink href="https://rideiwthdata.substack.com">Substack</FooterLink>
+              <FooterLink href="https://ridewithdata.substack.com">Substack</FooterLink>
             </div>
           </div>
         </div>
