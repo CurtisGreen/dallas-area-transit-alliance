@@ -67,8 +67,8 @@ export default function PrivacyPolicy() {
       <div>Your information may be stored in the following locations:</div>
       <ul>
         <li>
-          Secure cloud-based services such as Google Workspace, Action Network, Substack
-          and MailerLite
+          Secure cloud-based services such as Google Workspace, Action Network,
+          Substack and MailerLite
         </li>
         <li>Encrypted internal databases</li>
         <li>Email platforms used for outreach and communications</li>
@@ -97,7 +97,6 @@ export default function PrivacyPolicy() {
       <h2>5. Subprocessors</h2>
       <div>Our subprocessors may include:</div>
       <ul>
-
         <li>
           <b>Action Network</b> - letter writing, contact and event management
         </li>
@@ -124,7 +123,6 @@ export default function PrivacyPolicy() {
         <li>
           <b>Vercel</b> - website hosting and analytics
         </li>
-
       </ul>
       <div>A full list of subprocessors is available upon request.</div>
       <br />
@@ -141,7 +139,10 @@ export default function PrivacyPolicy() {
         <li>Requesting deletion of your information from our systems</li>
         <li>Unsubscribing from newsletters or outreach emails</li>
       </ul>
-      Please contact us at: <b><a href="mailto:privacy@ridewithdata.org">privacy@ridewithdata.org</a></b>
+      Please contact us at:{" "}
+      <a href="mailto:privacy@ridewithdata.org" className="underline font-bold">
+        privacy@ridewithdata.org
+      </a>
       <div>
         We will respond to all privacy-related requests within a reasonable
         timeframe and in accordance with applicable data protection laws.
@@ -163,7 +164,14 @@ export default function PrivacyPolicy() {
         volunteer opportunities, policy alerts, or administrative information
         related to your interactions with DATA. You may opt out of any or all of
         these communications at any time by following the instructions included
-        in the message or by contacting us at <b><a href="mailto:privacy@ridewithdata.org">privacy@ridewithdata.org</a></b>.
+        in the message or by contacting us at{" "}
+        <a
+          href="mailto:privacy@ridewithdata.org"
+          className="underline font-bold"
+        >
+          privacy@ridewithdata.org
+        </a>
+        .
       </div>
     </div>
   );
