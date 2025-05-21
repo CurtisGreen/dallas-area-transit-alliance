@@ -2,7 +2,7 @@ export default function PrivacyPolicy() {
   return (
     <div className="mb-8">
       <h1>Dallas Area Transit Alliance - Privacy Policy</h1>
-      <b>Last Updated: May 13, 2025</b>
+      <b>Last Updated: May 18, 2025</b>
       <div>
         The Dallas Area Transit Alliance (“DATA,” “we,” “our,” or “us”) respects
         your privacy and is committed to protecting the personal information you
@@ -68,7 +68,7 @@ export default function PrivacyPolicy() {
       <ul>
         <li>
           Secure cloud-based services such as Google Workspace, Action Network,
-          and MailerLite
+          Substack and MailerLite
         </li>
         <li>Encrypted internal databases</li>
         <li>Email platforms used for outreach and communications</li>
@@ -98,27 +98,30 @@ export default function PrivacyPolicy() {
       <div>Our subprocessors may include:</div>
       <ul>
         <li>
-          <b>Google Workspace</b> - document storage, forms, and email
-          communication
-        </li>
-        <li>
           <b>Action Network</b> - letter writing, contact and event management
-        </li>
-        <li>
-          <b>MailerLite</b> - email marketing and newsletters
         </li>
         <li>
           <b>Cloudflare</b> - website performance, security and analytics
         </li>
         <li>
-          <b>Vercel</b> - website hosting and analytics
+          <b>Google Workspace</b> - document storage, forms, and email
+          communication
+        </li>
+        <li>
+          <b>MailerLite</b> - email marketing and newsletters
+        </li>
+        <li>
+          <b>Make</b> - automations and synchronization between our
+          subprocessors
+        </li>
+        <li>
+          <b>Substack</b> - blog articles, newsletters, and analytics
         </li>
         <li>
           <b>Short.io</b> - branded short links
         </li>
         <li>
-          <b>Make</b> - automations and synchronization between our
-          subprocessors
+          <b>Vercel</b> - website hosting and analytics
         </li>
       </ul>
       <div>A full list of subprocessors is available upon request.</div>
@@ -136,8 +139,10 @@ export default function PrivacyPolicy() {
         <li>Requesting deletion of your information from our systems</li>
         <li>Unsubscribing from newsletters or outreach emails</li>
       </ul>
-      Please contact us at:
-      <b>privacy@ridewithdata.org</b>
+      Please contact us at:{" "}
+      <a href="mailto:privacy@ridewithdata.org" className="underline font-bold">
+        privacy@ridewithdata.org
+      </a>
       <div>
         We will respond to all privacy-related requests within a reasonable
         timeframe and in accordance with applicable data protection laws.
@@ -159,7 +164,14 @@ export default function PrivacyPolicy() {
         volunteer opportunities, policy alerts, or administrative information
         related to your interactions with DATA. You may opt out of any or all of
         these communications at any time by following the instructions included
-        in the message or by contacting us at <b>privacy@ridewithdata.org</b>.
+        in the message or by contacting us at{" "}
+        <a
+          href="mailto:privacy@ridewithdata.org"
+          className="underline font-bold"
+        >
+          privacy@ridewithdata.org
+        </a>
+        .
       </div>
     </div>
   );

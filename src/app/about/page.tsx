@@ -15,37 +15,36 @@ export default function Index() {
       </div>
       <ul className="mb-16 md:mb-12 text-lg">
         <li className="mb-1">
-          Connor Hulla, President
+          Connor Hulla, President, <u><a href="mailto:president@ridewithdata.org">Email</a></u>
         </li>
         <li className="mb-1">
-          Tyler Wright, Vice President
+          Tyler Wright, Vice President, <u><a href="mailto:vp@ridewithdata.org">Email</a></u>
         </li>
         <li className="mb-1">
-          Alexander Dunn, Secretary
+          Alexander Dunn, Secretary, <u><a href="mailto:secretary@ridewithdata.org">Email</a></u>
         </li>
         <li className="mb-1">
-          Patric Morgan, Parliamentarian
+          Patric Morgan, Parliamentarian, <u><a href="mailto:rules@ridewithdata.org">Email</a></u>
         </li>
         <li className="mb-1">
           To be appointed, Treasurer
         </li>
         <li className="mb-1">
-          Qui Le, Systems Administrator
+          Qui Le, Systems Administrator, <u><a href="mailto:sysadmin@ridewithdata.org">Email</a></u>
         </li>
         <li className="mb-1">
-          Evan Rosner, Media and Government Relations Chair
+          David Yaqubuin, External Affairs Chair, <u><a href="mailto:external-affairs@ridewithdata.org">Email</a></u>
         </li>
         <li className="mb-1">
-          Rohan Kodibagkar, Social Media and Outreach Chair
+          Rohan Kodibagkar, Community Outreach Chair, <u><a href="mailto:community-outreach@ridewithdata.org">Email</a></u>
         </li>
         <li className="mb-1">
-          Keun Lee, Policy Research Chair
+          Keun Lee, Policy Research Chair, <u><a href="mailto:policy-research@ridewithdata.org">Email</a></u>
         </li>
         <li className="mb-1">
-          Qui Le, Event Planning Chair
+          Qui Le, Event Planning Chair, <u><a href="mailto:events@ridewithdata.org">Email</a></u>
         </li>
       </ul>
-      <p>Want to help us out? <a href="mailto:info@ridewithdata.org">Email us</a> if you are interested in an Executive Committee Position. </p>
       <div className="text-2xl md:text-3xl mt-8 md:mt-12 mb-4 font-bold">
         History
       </div>

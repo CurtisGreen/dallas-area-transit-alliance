@@ -1,5 +1,5 @@
 ---
-title: "One Down One To Go: HB3187 dies in the Texas House"
+title: "One Down, One To Go: HB3187 dies in the Texas House"
 excerpt: "House Bill 3187 has been voted out of committee"
 coverImage: "/assets/blog/hb3187-2025-02-25/cover.jpg"
 date: "2025-05-16T05:00:00.000Z"
@@ -9,12 +9,12 @@ author:
 ogImage:
   url: "/assets/blog/hb3187-2025-02-25/cover.jpg"
 banner: 
-  text: "One Down One To Go: HB3187 dies in the Texas House"
+  text: "One Down, One To Go: HB3187 dies in the Texas House"
 ---
 
-As midnight has arrived at The Texas House of Representatives the Dallas Area Transit Alliance (DATA) celebrated that HB3187, the bill to defund DART, has **officially** died. The bill failed to get a 2nd reading on May 15, 2025. A hard deadline for any House Bill.    
+As midnight has arrived at The Texas House of Representatives the Dallas Area Transit Alliance (DATA) celebrated that HB3187, the bill to defund DART, has **officially** died. The bill failed to get a 2nd reading on May 15, 2025, a hard deadline for any House Bill.    
 
-But SB1557 still looms in The Texas Senate. It has not yet had a public hearing in the upper chamber, and has only a little over a week before it would fail to meet a similar deadline in the House. While its chances of passing dwindle each day, DATA is remaining vigilant in monitoring the bills movement.  
+But SB1557 still looms in The Texas Senate. It has not yet had a public hearing in the upper chamber, and has only a little over a week before it would fail to meet a similar deadline in the House. While its chances of passing dwindle each day, DATA is remaining vigilant in monitoring the bill's movement.  
 
 We also celebrate many of the GREAT bills that have successfully made their way to the Governor's office, such as SB 1555 that would fund a grant program for grade-separated rail crossings.  
 
