@@ -6,6 +6,7 @@ import Link from "next/link";
 import { Logo } from "@/app/_components/logo";
 import { ThemeSwitcher } from "./theme-switcher";
 import { NavbarLink } from "./navbar-link";
+import { ExternalLinkIcon } from "./icons/external-link-icon";
 
 export const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -63,7 +64,10 @@ export const Navbar = () => {
                   href="https://ridewithdata.substack.com"
                   target="_blank"
                 >
-                  Substack
+                  <div className="flex items-center">
+                    Substack
+                    <ExternalLinkIcon className="h-8 stroke-slate-400 w-[16px]" />
+                  </div>
                 </NavbarLink>
               </div>
               <div>
