@@ -66,7 +66,7 @@ export const Navbar = () => {
                 >
                   <div className="flex items-center">
                     Substack
-                    <ExternalLinkIcon className="h-8 stroke-slate-400 w-[16px]" />
+                    <ExternalLinkIcon className="h-8 fill-none stroke-slate-700 dark:stroke-slate-400 w-[16px]" />
                   </div>
                 </NavbarLink>
               </div>
