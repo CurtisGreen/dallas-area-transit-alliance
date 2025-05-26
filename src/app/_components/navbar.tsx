@@ -6,6 +6,7 @@ import Link from "next/link";
 import { Logo } from "@/app/_components/logo";
 import { ThemeSwitcher } from "./theme-switcher";
 import { NavbarLink } from "./navbar-link";
+import { ExternalLinkIcon } from "./icons/external-link-icon";
 
 export const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -60,10 +61,13 @@ export const Navbar = () => {
             <div className="font-medium flex flex-col max-lg:gap-2 lg:items-center p-3 lg:p-0 border border-slate-100 rounded-lg bg-slate-50 lg:flex-row lg:space-x-8 rtl:space-x-reverse lg:border-0 lg:bg-white dark:bg-slate-800 lg:dark:bg-slate-900 dark:border-slate-700 leading-none">
               <div>
                 <NavbarLink
-                  href="https://actionnetwork.org/letters/save-dart-from-funding-cuts?source=website_navbar&"
+                  href="https://ridewithdata.substack.com"
                   target="_blank"
                 >
-                  Contact your State Reps
+                  <div className="flex items-center">
+                    Substack
+                    <ExternalLinkIcon className="h-8 fill-none stroke-slate-700 dark:stroke-slate-400 w-[16px]" />
+                  </div>
                 </NavbarLink>
               </div>
               <div>

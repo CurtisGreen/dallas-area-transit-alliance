@@ -10,6 +10,7 @@ ogImage:
   url: "/assets/blog/hb3187-2025-02-25/cover.jpg"
 banner: 
   text: "One Down, One To Go: HB3187 dies in the Texas House"
+  hide: true
 ---
 
 As midnight has arrived at The Texas House of Representatives the Dallas Area Transit Alliance (DATA) celebrated that HB3187, the bill to defund DART, has **officially** died. The bill failed to get a 2nd reading on May 15, 2025, a hard deadline for any House Bill.    
