@@ -25,12 +25,13 @@ export const SubstackFeed = async () => {
           </Link>
 
           <div className="mt-4">
-            <Link
-              href={post.canonical_url}
-              className="hover:underline text-xl leading-snug"
-            >
+            <Link href={post.canonical_url} className="text-xl leading-snug">
               <div>{post.title}</div>
               <div className="text-base text-slate-500">{post.description}</div>
+              <div className="bm-2 flex text-base text-slate-500 gap-4">
+                <div>{post.publishedBylines[0].name}</div>
+                <div>{post.post_date}</div>
+              </div>
             </Link>
           </div>
         </div>
