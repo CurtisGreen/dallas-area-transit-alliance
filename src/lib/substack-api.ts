@@ -32,7 +32,7 @@ type Article = {
 
 export const getSubstackArticles = async (name: string, count: number) => {
   const url = `https://substackapi.com/api/feeds/${name}.substack.com?limit=${count}&sort=new`;
-  const data = await fetch(url);
+  const data = await fetch(url, { next: { revalidate: 600 } });
   const articles: Article[] = await data.json();
   return articles;
 };
