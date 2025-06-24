@@ -24,7 +24,7 @@ export const Navbar = () => {
           className="flex items-center space-x-3 rtl:space-x-reverse"
         >
           <Logo className="w-24 max-lg:w-16 max-md:w-12" />
-          <span className="self-center text-3xl max-lg:text-2xl max-md:text-xl max-sm:text-lg max-[420px]:text-sm font-semibold whitespace-nowrap">
+          <span className="self-center text-3xl max-lg:text-2xl max-md:text-xl max-sm:text-lg max-[420px]:text-base font-semibold whitespace-nowrap">
             Dallas Area Transit Alliance
           </span>
         </Link>
