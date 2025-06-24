@@ -9,7 +9,7 @@ export const SubstackFeed = async () => {
 
   return (
     <div>
-      <div className="mt-8 mb-2 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+      <div className="mt-8 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
         {posts.map((post) => (
           <div key={post.slug} className="justify-center">
             <Link href={post.canonical_url} aria-label={post.title}>
@@ -41,12 +41,14 @@ export const SubstackFeed = async () => {
         ))}
       </div>
 
-      <Link
-        href="https://ridewithdata.substack.com"
-        className="px-4 py-2 mt-2 mb-2 rounded-lg bg-[#f4c906] hover:bg-[#f7931e] text-black"
-      >
-        See more on our blog
-      </Link>
+      <div className="2xl:mt-6 xl:mt-2 md:mt-4 mt-6">
+        <Link
+          href="https://ridewithdata.substack.com"
+          className="px-4 py-2 rounded-lg bg-[#f4c906] hover:bg-[#f7931e] text-black"
+        >
+          See more on our blog
+        </Link>
+      </div>
     </div>
   );
 };
