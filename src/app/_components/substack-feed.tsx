@@ -43,7 +43,7 @@ export const SubstackFeed = async () => {
 
       <Link
         href="https://ridewithdata.substack.com"
-        className="px-4 py-2 mb-2 rounded-lg bg-[#f4c906] hover:bg-[#f7931e] text-black"
+        className="px-4 py-2 mt-2 mb-2 rounded-lg bg-[#f4c906] hover:bg-[#f7931e] text-black"
       >
         See more on our blog
       </Link>
