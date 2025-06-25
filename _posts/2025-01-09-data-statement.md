@@ -1,13 +1,13 @@
 ---
 title: "DATA Statement on DART Board Workshop on January 8th, 2025"
 excerpt: "The DART board is discussing cutting back fixed route bus service in Plano in order to fund city wide GoLink service"
-coverImage: "/assets/blog/dart-workshop-01-25-response/cover.png"
+coverImage: "/assets/blog/2025-01-07-dart-workshop-response/cover.png"
 date: "2025-01-09T05:00:00.000Z"
 author:
   name: DATA Team
   picture: "/assets/blog/authors/data-team.png"
 ogImage:
-  url: "/assets/blog/dart-workshop-01-25-response/cover.png"
+  url: "/assets/blog/2025-01-07-dart-workshop-response/cover.png"
 ---
 
 ## Contact your DART board members!
@@ -33,7 +33,7 @@ While we do not oppose a single Plano GoLink zone, it is not prudent for this to
 - Email and/or call your DART board representative and board chair Gary Slagel, indicating that you do not support Plano’s demands nor any non-population-based board governance model. Contact information for the DART Board can be found below this message.
 - Attend one or both of the upcoming board workshops on January 8th and 10th and submit a public comment related to the above
 - [January 10th meeting agenda and location details](https://dartorgcmsblob.dart.org/prod/docs/default-source/about-dart/2025-01-10-special-called-meeting-of-the-committee-of-the-whole-agenda-packet.pdf?sfvrsn=1c859ef6_1)
-- [Presentation of Slides](/assets/blog/dart-workshop-01-25-response/presentation.pdf)
+- [Presentation of Slides](/assets/blog/2025-01-07-dart-workshop-response/presentation.pdf)
 - [Livestream link](https://www.dart.org/about/public-access-information/board-meetings-information/dart-board-meeting-video)
 - [Follow @ridewithdata on Instagram/Twitter/Bluesky for updates](/contact)
 - [Join the DATA discord to interact with the members directly](https://discord.gg/DF23rXbY)

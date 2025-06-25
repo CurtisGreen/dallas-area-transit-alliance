@@ -1,13 +1,13 @@
 ---
 title: "Dallas Area Transit Alliance Announces New Officers in Member Election"
 excerpt: "On September 21, 2024, the Dallas Area Transit Alliance (DATA) convened and proudly announced its newly elected officers committed to advocating for public transit improvements and funding in the Dallas area."
-coverImage: "/assets/blog/data-election-results-sept-2024/cover.jpg"
+coverImage: "/assets/blog/2024-09-21-data-election-results/cover.jpg"
 date: "2024-09-21T05:00:00.000Z"
 author:
   name: DATA Team
   picture: "/assets/blog/authors/data-team.png"
 ogImage:
-  url: "/assets/blog/data-election-results-sept-2024/cover.jpg"
+  url: "/assets/blog/2024-09-21-data-election-results/cover.jpg"
 banner: 
   text: "Read our latest press release announcing our new officers."
   hide: true

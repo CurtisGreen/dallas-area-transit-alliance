@@ -1,13 +1,13 @@
 ---
 title: "November Newsletter"
 excerpt: "We’ll be discussing proposed sales tax cuts, taking a detailed look at their potential impacts and the essential frequency plans they could jeopardize. This is also a great opportunity to connect with fellow transit advocates in our community."
-coverImage: "/assets/blog/november-2024-newsletter/cover.png"
+coverImage: "/assets/blog/2024-11-02-newsletter/cover.png"
 date: "2024-11-02T05:00:00.000Z"
 author:
   name: DATA Newsletter
   picture: "/assets/blog/authors/data-team.png"
 ogImage:
-  url: "/assets/blog/november-2024-newsletter/cover.png"
+  url: "/assets/blog/2024-11-02-newsletter/cover.png"
 ---
 
 Join in in our next General Meeting with a special guest! 
