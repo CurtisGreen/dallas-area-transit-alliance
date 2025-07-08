@@ -33,7 +33,7 @@ export default function Index() {
           Qui Le, Systems Administrator, <u><a href="mailto:sysadmin@ridewithdata.org">Email</a></u>
         </li>
         <li className="mb-1">
-          David Yaqubuin, External Affairs Chair, <u><a href="mailto:external-affairs@ridewithdata.org">Email</a></u>
+          David Yaqubian, External Affairs Chair, <u><a href="mailto:external-affairs@ridewithdata.org">Email</a></u>
         </li>
         <li className="mb-1">
           Rohan Kodibagkar, Community Outreach Chair, <u><a href="mailto:community-outreach@ridewithdata.org">Email</a></u>
