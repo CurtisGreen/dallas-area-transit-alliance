@@ -81,6 +81,7 @@ export const Navbar = () => {
               </div>
               <div>
                 <NavbarLink href="https://go.ridewithdata.org/bonfire">Store</NavbarLink>
+                <ExternalLinkIcon className="h-8 fill-none stroke-slate-700 dark:stroke-slate-400 w-[16px]" />
               </div>
               <div>
                 <div className="flex items-center h-8 px-4 lg:h-auto lg:p-0">
