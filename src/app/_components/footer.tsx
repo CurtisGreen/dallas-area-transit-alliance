@@ -54,6 +54,7 @@ export function Footer() {
               <FooterLink href="https://docs.google.com/forms/d/e/1FAIpQLSeE-SrnsbjniO7I0BkdHourNdQYO_MKaYhKa6iQjN63_eubBg/viewform">Newsletter</FooterLink>
               <FooterLink href="/privacy-policy">Privacy Policy</FooterLink>
               <FooterLink href="/sitemap.xml">Sitemap</FooterLink>
+              <FooterLink href="https://go.ridewithdata.org/bonfire">Store</FooterLink>
               <FooterLink href="https://ridewithdata.substack.com">Substack</FooterLink>
             </div>
           </div>
