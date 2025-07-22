@@ -101,6 +101,9 @@ export default function PrivacyPolicy() {
           <b>Action Network</b> - letter writing, contact and event management
         </li>
         <li>
+          <b>Bonfire</b> - non-profit sales management and merchandise sales
+        </li>
+        <li>
           <b>Cloudflare</b> - website performance, security and analytics
         </li>
         <li>
