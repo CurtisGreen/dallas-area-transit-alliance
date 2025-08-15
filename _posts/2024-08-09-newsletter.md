@@ -1,13 +1,13 @@
 ---
 title: "August Newsletter"
 excerpt: "Our August newsletter highlights key events, including our General Meeting on August 18 and upcoming public meetings at the DART Board and Dallas City Council."
-coverImage: "/assets/blog/august-2024-newsletter/cover.jpg"
+coverImage: "/assets/blog/2024-08-09-newsletter/cover.jpg"
 date: "2024-08-09T05:00:00.000Z"
 author:
   name: DATA Newsletter
   picture: "/assets/blog/authors/data-team.png"
 ogImage:
-  url: "/assets/blog/august-2024-newsletter/cover.jpg"
+  url: "/assets/blog/2024-08-09-newsletter/cover.jpg"
 ---
 
 DATA's August newsletter highlights key events, including our General Meeting on August 18 and upcoming public meetings at the DART Board and Dallas City Council.

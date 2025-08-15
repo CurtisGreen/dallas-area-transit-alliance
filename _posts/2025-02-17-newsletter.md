@@ -84,12 +84,12 @@ Last Sunday, DATA held a memorial ride in honor of the passing of our Event Plan
 
 - Enrique MacGregor, DART Board of Director gave a wonderful tribute at the [DART Committee of the Whole Meeting on February 11](). As did Hexel Colorado, founder of Dallas Urbanists at the [Transit Tangents podcast recording](). Our executive committee also made [a post on our website](/posts/remembering-mary) of all the accomplishments Mary has done for DATA, DART, and Dallas a a whole.
 
-![Image](/assets/blog/february-2025-newsletter/Memorial_Ride_OfficeRedacted.png)  
-![Image](/assets/blog/february-2025-newsletter/Memorial_Ride_DTC_Station.jpg)  
+![Image](/assets/blog/2025-02-17-newsletter/Memorial_Ride_OfficeRedacted.png)  
+![Image](/assets/blog/2025-02-17-newsletter/Memorial_Ride_DTC_Station.jpg)  
 		
 ## #iheartDART
 
-![Image](/assets/blog/february-2025-newsletter/IHEARTDART.png)
+![Image](/assets/blog/2025-02-17-newsletter/IHEARTDART.png)
 
 Do you love DART? Do you want to show that you love DART? We are running a petition the Texas legislature as follows: To oppose any proposed legislation that would cap or reduce DART’s sales tax revenue & to promote access to public transportation across the state through funding, infrastructure improvements, and advocacy. 
 

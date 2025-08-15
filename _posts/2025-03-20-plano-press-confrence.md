@@ -1,13 +1,13 @@
 ---
 title: "DATA Action In Plano Ahead of Lobby Day"
 excerpt: "Dallas Area Transit Alliance will host a press conference in Plano, during which members of DATA and allied organizations will speak out against the transportation bills that could irreparably harm DART"
-coverImage: "/assets/blog/March-2025-Plano-Press-Confrence/PlanoCityHall.png"
+coverImage: "/assets/blog/2025-03-20-plano-press-confrence/PlanoCityHall.png"
 date: "2025-03-20T05:00:00.000Z"
 author:
   name: DATA Team
   picture: "/assets/blog/authors/data-team.png"
 ogImage:
-  url: "/assets/blog/March-2025-Plano-Press-Confrence/PlanoCityHall.png"
+  url: "/assets/blog/2025-03-20-plano-press-confrence/PlanoCityHall.png"
 banner: 
   text: "DATA Action In Plano Ahead of Lobby Day: Join in speaking out for DART!"
 ---
@@ -49,4 +49,4 @@ Plano Municipal Center is within walking distance of Downtown Plano Station, ser
 
 The press conference will be held on the north side lawn of the municipal center, near the flag poles. See image for reference.  
 
-![Plano City Hall Directions](/assets/blog/March-2025-Plano-Press-Confrence/Plano-Press-Confrence-Directions.png)
+![Plano City Hall Directions](/assets/blog/2025-03-20-plano-press-confrence/Plano-Press-Confrence-Directions.png)
