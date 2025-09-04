@@ -53,7 +53,7 @@ export default function Index() {
       </div>
       <ul className="mb-16 md:mb-12 text-lg">
        <li className="mb-1">
-          DFW Urbanistas, <u><a href="mailto:urbanistas@ridewithdata.org">Email</a></u>, <u><a href="https://instagram.com/dfwurbanistas"></a>Instagram</u>
+          DFW Urbanistas, <u><a href="mailto:urbanistas@ridewithdata.org">Email</a></u>, <u><a href="https://instagram.com/urbanistasdfw"></a>Instagram</u> (DFW Urbanistas is a women-led group that advocates for public transportation) 
         </li>
        <li className="mb-1">
           Merch, <u><a href="mailto:merch.adhoc@ridewithdata.org">Email</a></u>
