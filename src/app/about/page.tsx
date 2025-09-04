@@ -58,6 +58,7 @@ export default function Index() {
        <li className="mb-1">
           Merch, <u><a href="mailto:merch.adhoc@ridewithdata.org">Email</a></u>
        </li>
+       </ul>
       <div className="text-2xl md:text-3xl mt-8 md:mt-12 mb-4 font-bold">
         History
       </div>
