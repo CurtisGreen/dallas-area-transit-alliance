@@ -51,12 +51,13 @@ export default function Index() {
       <div className="text-2xl md:text-3xl mt-8 md:mt-12 mb-4 font-bold">
         Our Ad-Hoc Committees
       </div>
-      <li className="mb-1">
+      <ul className="mb-16 md:mb-12 text-lg">
+       <li className="mb-1">
           DFW Urbanistas, <u><a href="mailto:urbanistas@ridewithdata.org">Email</a></u>
         </li>
-      <li className="mb-1">
+       <li className="mb-1">
           Merch, <u><a href="mailto:merch.adhoc@ridewithdata.org">Email</a></u>
-      </li>
+       </li>
       <div className="text-2xl md:text-3xl mt-8 md:mt-12 mb-4 font-bold">
         History
       </div>
