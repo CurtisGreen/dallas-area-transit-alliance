@@ -52,8 +52,11 @@ export default function Index() {
         Our Ad-Hoc Committees
       </div>
       <li className="mb-1">
-          DFW Urbanistas,<u><a href="mailto:urbanistas@ridewithdata.org">Email</a></u>
+          DFW Urbanistas, <u><a href="mailto:urbanistas@ridewithdata.org">Email</a></u>
         </li>
+      <li className="mb-1">
+          Merch, <u><a href="mailto:merch.adhoc@ridewithdata.org">Email</a></u>
+      </li>
       <div className="text-2xl md:text-3xl mt-8 md:mt-12 mb-4 font-bold">
         History
       </div>
