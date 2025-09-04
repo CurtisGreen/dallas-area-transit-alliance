@@ -33,18 +33,27 @@ export default function Index() {
           Qui Le, Systems Administrator, <u><a href="mailto:sysadmin@ridewithdata.org">Email</a></u>
         </li>
         <li className="mb-1">
-          David Yaqubian, External Affairs Chair, <u><a href="mailto:external-affairs@ridewithdata.org">Email</a></u>
-        </li>
-        <li className="mb-1">
-          Rohan Kodibagkar, Community Outreach Chair, <u><a href="mailto:community-outreach@ridewithdata.org">Email</a></u>
-        </li>
-        <li className="mb-1">
-          Keun Lee, Policy Research Chair, <u><a href="mailto:policy-research@ridewithdata.org">Email</a></u>
+         To be elected, Community Outreach Chair, <u><a href="mailto:community-outreach@ridewithdata.org">Email</a></u>
         </li>
         <li className="mb-1">
           Qui Le, Event Planning Chair, <u><a href="mailto:events@ridewithdata.org">Email</a></u>
         </li>
+        <li className="mb-1">
+          David Yaqubian, External Affairs Chair, <u><a href="mailto:external-affairs@ridewithdata.org">Email</a></u>
+        </li>
+        <li className="mb-1">
+          To be elected, Finance Chair, <u><a href="mailto:finance@ridewithdata.org">Email</a></u>
+        </li>
+        <li className="mb-1">
+          Keun Lee, Policy Research Chair, <u><a href="mailto:policy-research@ridewithdata.org">Email</a></u>
+        </li>
       </ul>
+      <div className="text-2xl md:text-3xl mt-8 md:mt-12 mb-4 font-bold">
+        Our Ad-Hoc Committees
+      </div>
+      <li className="mb-1">
+          DFW Urbanistas,<u><a href="mailto:urbanistas@ridewithdata.org">Email</a></u>
+        </li>
       <div className="text-2xl md:text-3xl mt-8 md:mt-12 mb-4 font-bold">
         History
       </div>
