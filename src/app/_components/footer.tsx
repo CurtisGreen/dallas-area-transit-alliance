@@ -48,7 +48,7 @@ export function Footer() {
               <FooterLink href="https://actionnetwork.org/groups/dallas-area-transit-alliance">
                 Action Network
               </FooterLink>
-              <FooterLink href="/documents/DATA_Bylaws_2025-05-17.pdf">
+              <FooterLink href="/documents/DATA_Bylaws_2025-09-27.pdf">
                 Bylaws
               </FooterLink>
               <FooterLink href="/calendar">Calendar</FooterLink>
