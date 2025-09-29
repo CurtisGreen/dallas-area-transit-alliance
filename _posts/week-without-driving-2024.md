@@ -1,18 +1,18 @@
 ---
-title: "Week Without Driving: Monday, September 29 – Sunday, October 5, 2025"
-excerpt: "Nearly a third of people living in the United States – people with disabilities, young people, seniors and people who can’t afford cars or gas- do not drive. Join us in Week Without Driving partnered with Better Block, Dallas Area Transit Alliance, Dallas Bicycle Coalition, Dallas Housing Coalition, Dallas Neighbors for Housing, Dallas Urbanists STLC, and DFW Urbanistas"
+title: "Week Without Driving: September 30 - October 6, 2024"
+excerpt: "Nearly a third of people living in the United States – people with disabilities, young people, seniors and people who can’t afford cars or gas- do not drive. Join us in Week Without Driving co-hosted by Dallas Bicycle Coalition and Better Block, and partnered by Feonix Mobility, Dallas Area Transit Alliance, DFW Urbanistas, Dallas Youth Commission, and Dallas Neighbors for Housing"
 coverImage: "/assets/blog/week-without-driving/WWD_Cover.png"
-date: "2025-09-05T05:00:00.000Z"
+date: "2024-09-16T05:00:00.000Z"
 author:
   name: DATA Team
   picture: "/assets/blog/authors/data-team.png"
 ogImage:
   url: "/assets/blog/week-without-driving/WWD_Cover.png"
 banner: 
-  text: "Join us in Week without Driving Monday, September 29 through Sunday, October 5, 2025"
-  hide: false
+  text: "Join us in Week without Driving September 30 to October 6, 2024"
+  hide: true
 ---
-## Week without Driving (Monday, September 29 – Sunday, October 5, 2025)
+## Week without Driving (September 30 - October 6, 2024)
 
 ## About the National Campaign
 
@@ -32,10 +32,11 @@ Dallas is a city built for cars, where it is difficult or dangerous to travel al
 
 ## Dallas Week Without Driving Partner Organizations:
 
-Partners: [Dallas Bicycle Coalition](https://www.instagram.com/dallasbicyclecoalition/) and [Better Block](https://www.betterblock.org/), [Feonix Mobility](https://feonix.org/), [DFW Urbanistas](https://www.instagram.com/urbanistasdfw/), [Dallas Youth Commission](https://dallascityhall.com/government/Boards-and-Commissions/Youth-Commission/Pages/default.aspx), and [Dallas Neighbors for Housing](https://www.dallasneighborsforhousing.org/).  
+Co-hosts: [Dallas Bicycle Coalition](https://www.instagram.com/dallasbicyclecoalition/) and [Better Block](https://www.betterblock.org/).   
+Partners: [Feonix Mobility](https://feonix.org/), [DFW Urbanistas](https://www.instagram.com/urbanistasdfw/), [Dallas Youth Commission](https://dallascityhall.com/government/Boards-and-Commissions/Youth-Commission/Pages/default.aspx), and [Dallas Neighbors for Housing](https://www.dallasneighborsforhousing.org/).  
 
-<!-- ![Image](/assets/blog/week-without-driving/WWD_Cover.png) --!>
-<!-- ![Image](/assets/blog/week-without-driving/WWD_How_To.png) --!>
-<!-- ![Image](/assets/blog/week-without-driving/WWD_Partners.png) --!>
+![Image](/assets/blog/week-without-driving/WWD_Cover.png)  
+![Image](/assets/blog/week-without-driving/WWD_How_To.png) 
+![Image](/assets/blog/week-without-driving/WWD_Partners.png)
 <!-- When old partner graphic arrives ![Image](/assets/blog/week-without-driving/WWD_Partners_Old.png) --!>
   
