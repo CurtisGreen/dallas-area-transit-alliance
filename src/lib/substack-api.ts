@@ -1,3 +1,5 @@
+import { cache } from "react";
+
 type PostTag = {
   name: string; // 'Strong Towns'
   slug: string; // 'strong-towns
@@ -30,9 +32,41 @@ type Article = {
   comment_count: number;
 };
 
+const SUBSTACK_CACHE_SECONDS = 300;
+
+const fetchSubstackArticles = cache(
+  async (name: string, count: number): Promise<Article[]> => {
+    const url = `https://substackapi.com/api/feeds/${name}.substack.com?limit=${count}&sort=new`;
+    const signal =
+      typeof AbortSignal !== "undefined" && "timeout" in AbortSignal
+        ? AbortSignal.timeout(5000)
+        : undefined;
+
+    const response = await fetch(url, {
+      next: {
+        revalidate: SUBSTACK_CACHE_SECONDS,
+        tags: [`substack-feed:${name}`],
+      },
+      cache: "force-cache",
+      signal,
+    });
+
+    if (!response.ok) {
+      throw new Error(
+        `Failed to load Substack posts: ${response.status} ${response.statusText}`,
+      );
+    }
+
+    return (await response.json()) as Article[];
+  },
+);
+
 export const getSubstackArticles = async (name: string, count: number) => {
-  const url = `https://substackapi.com/api/feeds/${name}.substack.com?limit=${count}&sort=new`;
-  const data = await fetch(url, { next: { revalidate: 0 } });
-  const articles: Article[] = await data.json();
-  return articles;
+  try {
+    const articles = await fetchSubstackArticles(name, count);
+    return articles.slice(0, count);
+  } catch (error) {
+    console.error(error);
+    return [];
+  }
 };

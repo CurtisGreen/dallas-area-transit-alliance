@@ -1,430 +1,321 @@
-import Link from "next/link";
+import {
+  addMonths,
+  eachDayOfInterval,
+  endOfDay,
+  endOfMonth,
+  endOfWeek,
+  format,
+  isSameDay as isSameDayDateFns,
+  isSameMonth,
+  startOfDay,
+  startOfMonth,
+  startOfWeek,
+} from "date-fns";
+
+import {
+  getCalendarEvents,
+  isGoogleCalendarConfigured,
+} from "@/lib/googleCalendar";
+import EventsSection from "./_components/eventsSection";
 
 // Invalidate the cache when a request comes in, at most once every hour
 export const revalidate = 3600;
 
-const scheduleData = [
-  {
-    title: "DATA Book Club & Mappy Hour",
-    date: new Date("2025-02-23 16:00-05:00"),
-    points: [
-      "Sunday, February 23 from 1:00PM - 4:00PM",
-      "Dolce Paradiso in Addison (5030 Addison Cir, Addison)",
-      "Nearest station: Addison Transit Center",
-      "Reading Human Transit for the month of February",
-      "Stick around afterwards for Mappy Hour, an informal social for local urbanists to contribute to OpenStreetMap together.",
-    ],
-  },
-  {
-    title: "DATA February General Meeting",
-    date: new Date("2025-02-22 15:30-05:00"),
-    points: [
-      "Saturday, February 22 from 1:30PM - 3:30PM",
-      "J. Erik Jonsson Central Library at 1515 Young Street, Dallas",
-      "Hamon Training Room, 5th floor",
-      "Nearest station: Akard Station",
-      "We will be electing an Events Planning Chair",
-      <Link
-        href="https://go.ridewithdata.org/feb2025-candidate-pdf"
-        className="underline"
-      >
-        Events Planning Chair Candidates
-      </Link>,
-      <i>
-        Disclosure: This event is not sponsored by the Dallas Public Library
-      </i>,
-    ],
-  },
-  {
-    title: "How TxDOT works, with the Texas Streets Coalition",
-    date: new Date("2025-02-19 21:00-05:00"),
-    points: [
-      "Wednesday, February 19 from 7:00PM - 9:00PM",
-      <Link
-        href="https://us02web.zoom.us/j/81049941304?pwd=oh3lkbelO9a5nbGfoBQJx8Snmw5PUj.1"
-        className="underline"
-      >
-        Zoom Meeting
-      </Link>,
-    ],
-  },
-  {
-    title: "Honor ride for Mary",
-    date: new Date("2025-02-16 15:00-05:00"),
-    points: [
-      "Sunday, February 16 from 3:00PM",
-      "Downtown Carrollton Station",
-      <Link href="/posts/remembering-mary" className="underline">
-        About the ride
-      </Link>,
-    ],
-  },
-  {
-    title: "Discussing the Future of Public Transit in Texas",
-    date: new Date("2025-02-01 14:00-05:00"),
-    points: [
-      "Saturday, February 1 from 1:00PM - 2:00PM",
-      "J. Erik Jonsson Central Library at 1515 Young Street, Dallas",
-      "Hamon Training Room, 5th floor",
-      "Live podcast recording with Transit Tangents. Special guests TBD.",
-      <i>
-        Disclosure: This event is not sponsored by the Dallas Public Library
-      </i>,
-    ],
-  },
-  {
-    title: "Speak at DART board meeting",
-    date: new Date("2025-01-28 18:00-05:00"),
-    points: [
-      "Tuesday, January 28, 5:45PM",
-      "DART Headquarters at Akard Station, 1401 Pacific Avenue",
-    ],
-  },
-  {
-    title: "DATA January General Meeting",
-    date: new Date("2025-01-18 16:00-05:00"),
-    points: [
-      "Saturday, January 18 from 2:00PM - 4:00PM",
-      "J. Erik Jonsson Central Library at 1515 Young Street, Dallas",
-      "Hamon Training Room, 5th floor",
-      <i>
-        Disclosure: This event is not sponsored by the Dallas Public Library
-      </i>,
-    ],
-  },
-  {
-    title: "Speak at Plano City Council Meeting",
-    date: new Date("2025-01-13 22:00-05:00"),
-    points: [
-      "Monday, January 13, 7:00PM - 10:00PM",
-      "1520 K Ave, Plano",
-      "Do you live or work in Plano? Show up or comment over zoom to show your support for DART",
-      <Link href="https://forms.gle/H1CD5qY5qbcd25eTA" className="underline">
-        Please fill out this form to let us know you are going to comment
-      </Link>,
-    ],
-  },
-  {
-    title: "DART Board Workshop - Plano Demands, Part 2",
-    date: new Date("2025-01-10 13:00-05:00"),
-    points: [
-      "Wednesday, January 10, 1:00PM",
-      "DART Headquarters at Akard Station, 1401 Pacific Avenue",
-      "Workshop to address Plano's demands and potential governance changes",
-      <Link
-        href="https://dartorgcmsblob.dart.org/prod/docs/default-source/about-dart/2025-01-10-special-called-meeting-of-the-committee-of-the-whole-agenda.pdf"
-        className="underline"
-      >
-        Agenda
-      </Link>,
-    ],
-  },
-  {
-    title: "DART Board Workshop - Plano Demands, Part 1",
-    date: new Date("2025-01-08 13:00-05:00"),
-    points: [
-      "Wednesday, January 8, 1:00PM",
-      "DART Headquarters at Akard Station, 1401 Pacific Avenue",
-      "Workshop to address Plano's demands and potential governance changes",
-      <Link
-        href="https://dartorgcmsblob.dart.org/prod/docs/default-source/about-dart/2025-01-08-special-called-meeting-of-the-committee-of-the-whole-agenda.pdf"
-        className="underline"
-      >
-        Agenda
-      </Link>,
-    ],
-  },
-  {
-    title: "Tabling events at Parker Road Station",
-    date: new Date("2025-01-09 12:00-05:00"),
-    points: [
-      "Tuesday - Thursday, January 7 - 9 from 6:00AM - 9:00AM",
-      "Parker Road Station, Plano",
-      "Tabling during rush hour at Parker Road station. " +
-        "If you can only help for 30m or an hour during this time it would still be extremely helpful!",
-    ],
-  },
-  {
-    title: "Plano Hangout at 1418 Coffee",
-    date: new Date("2025-01-04 16:00-05:00"),
-    points: [
-      "Saturday, January 4 from 1:00PM - 4:00PM",
-      "1418 K Ave, Plano",
-      "A chill social hangout at 1418 coffee in Downtown Plano. Invite your friends from Plano!",
-    ],
-  },
-  {
-    title: "DATA Holiday Social",
-    date: new Date("2024-12-15 17:00-05:00"),
-    points: [
-      "Sunday, December 15, 2024 from 2:00PM - 5:00PM",
-      "1508 Commerce St, Dallas",
-      "Holiday social at Pegasus City Brewery",
-    ],
-  },
-  {
-    title: "DATA November General Meeting",
-    date: new Date("2024-11-16 16:00-05:00"),
-    points: [
-      "Saturday, November 16, 2024 from 1:30PM - 4:00PM",
-      "J. Erik Jonsson Central Library at 1515 Young Street, Dallas",
-      "Hamon Training Room, 5th floor",
-      <i>
-        Disclosure: This event is not sponsored by the Dallas Public Library
-      </i>,
-      <Link
-        href="https://docs.google.com/document/d/1St9CluXzDuQ0GcypXZreNAVkr2kL71O0qkOZV_6o3wk/edit?tab=t.0"
-        className="underline"
-      >
-        Agenda
-      </Link>,
-      <Link
-        href="https://drive.google.com/file/d/18SQQaRO3-QF_bM621SlqNByy5em8jchj/view"
-        className="underline"
-      >
-        Recording
-      </Link>,
-      <Link
-        href="https://docs.google.com/document/d/17ng6F8GmilgPP4dMpzQAqt-ygDfh6ZmBz_qVlgRd92g/edit?usp=sharing"
-        className="underline"
-      >
-        Transcript
-      </Link>,
-      <Link
-        href="https://drive.google.com/file/d/16Z7G_uqV5-lwlsXk-auaGnW3RsK5D6Ao/view?usp=sharing"
-        className="underline"
-      >
-        Slides
-      </Link>,
-    ],
-  },
-  {
-    title: "DATA October General Meeting",
-    date: new Date("2024-10-19 00:00-05:00"),
-    points: [
-      "Saturday, October 19, 2024 from 2:00 - 4:00PM",
-      "J. Erik Jonsson Central Library at 1515 Young Street, Dallas",
-      "Hamon Training Room, 5th floor",
-      <i>
-        Disclosure: This event is not sponsored by the Dallas Public Library
-      </i>,
-      <Link
-        href="https://docs.google.com/document/d/e/2PACX-1vQnUY6UbuIx1m5rX8eJnzp6CRlEYEe4XXkBOPdsCoXm2fzrzSFfKORe3AhpTLyWiqrdfEwN-38xaT31/pub"
-        className="underline"
-      >
-        Agenda
-      </Link>,
-      <Link
-        href="https://drive.google.com/file/d/1QlmEhxOhUI3ZMFiN32fOtvYGdXUSAhfI/view?usp=sharing"
-        className="underline"
-      >
-        Recording
-      </Link>,
-      <Link
-        href="https://docs.google.com/document/d/e/2PACX-1vR6a3KGKdJzVHfQwe5IC0m-tC9NG690ByBI335GlMU841QjZc_7Os1GfI5j-PgGIruZUjH6GPkRUtvz/pub"
-        className="underline"
-      >
-        Minutes
-      </Link>,
-      <Link
-        href="https://docs.google.com/document/d/e/2PACX-1vSlLwpU4GrjALEvaYKLVMQjHAw2e7BbiXy_0gJVUY1k7UTEtq5_uyx-u1FtDvD05rL3WaUy7lAmbVQF/pub"
-        className="underline"
-      >
-        Transcript
-      </Link>,
-      <Link
-        href="https://drive.google.com/file/d/16Z7G_uqV5-lwlsXk-auaGnW3RsK5D6Ao/view?usp=sharing"
-        className="underline"
-      >
-        Slides
-      </Link>,
-    ],
-  },
-  {
-    title: "Week Without Driving",
-    date: new Date("2024-10-07 00:00-05:00"),
-    points: [
-      "Monday, September 30th - Sunday October 6th, 2024",
-      "Partnering with Dallas Bicycle Coalition",
-      <a href="https://weekwithoutdriving.org/" className="underline">
-        Week Without Driving website
-      </a>,
-    ],
-  },
-  {
-    title: "Speak at DART board meeting to support staff recommended budget",
-    date: new Date("2024-09-25 00:00-05:00"),
-    points: [
-      "Tuesday, September 24th, 5:45PM",
-      "DART Headquarters at Akard Station, 1401 Pacific Avenue",
-      <Link href="/posts/august-2024-newsletter" className="underline">
-        Speaking info & advice
-      </Link>,
-    ],
-  },
-  {
-    title: "DATA September General Meeting",
-    date: new Date("2024-09-21 00:00-05:00"),
-    points: [
-      "Saturday, September 21, 2024 from 1:30 - 3:30PM",
-      "J. Erik Jonsson Central Library at 1515 Young Street, Dallas",
-      "Hamon Training Room, 5th floor",
-      <i>
-        Disclosure: This event is not sponsored by the Dallas Public Library
-      </i>,
-      <>
-        <b>DATA Election Info</b>
-        <div className="ml-8 grid grid-cols-2 w-fit gap-1">
-          <div>- Candidacy period</div>
-          <div>Sept 2 - Sept 10</div>
+const PAST_EVENTS_PREVIEW_LIMIT = 6;
+const UPCOMING_EVENTS_MONTH_LIMIT = 3;
 
-          <div>- Early Voting</div>
-          <div>Sept 16 - Sept 20</div>
+type CalendarPageProps = {
+  searchParams?: Promise<
+    Record<string, string | string[] | undefined>
+  >;
+  params?: Promise<Record<string, string>>;
+};
 
-          <div>- Voting</div>
-          <div>Sept 21, 2:00 - 2:30PM</div>
+export default async function CalendarPage({ searchParams }: CalendarPageProps) {
+  const resolvedSearchParams =
+    ((await searchParams) ?? {}) as Record<string, string | string[] | undefined>;
+  const configured = isGoogleCalendarConfigured();
+  const events = configured ? await getCalendarEvents() : [];
 
-          <div>- Tabulation</div>
-          <div>Sept 21, 2:45PM</div>
+  const now = new Date();
+  const upcomingEvents: typeof events = [];
+  const pastEvents: typeof events = [];
 
-          <div>- Results announced</div>
-          <div>Sept 21 2:50PM</div>
-        </div>
-      </>,
-      <Link
-        href="https://docs.google.com/document/d/1M7-IS2JjXPPeE9pMLfwlhCjHqUlHczwBEYSWs1e316k"
-        className="underline"
-      >
-        Meeting agenda
-      </Link>,
-      <Link
-        href="https://drive.google.com/file/d/1dBjeae9kadSivVdb90S0wb2eAitrLRNv"
-        className="underline"
-      >
-        Meeting recording
-      </Link>,
-      <Link
-        href="https://docs.google.com/document/d/1A6VkltTQvLb_tDSgPfe9DDb7Ee4JmDatXhn4AdVgb2M"
-        className="underline"
-      >
-        Meeting transcript
-      </Link>,
-    ],
-  },
-  {
-    title: "Speak at Dallas City Council meeting to oppose cuts/caps",
-    date: new Date("2024-08-28 09:00-05:00"),
-    points: [
-      "Wednesday, August 28th, 9AM",
-      "Dallas City Hall at 1500 Marilla Street, Dallas",
-      "Dallas residents should prioritize attending this over the DART board meeting",
-      <Link href="/posts/august-2024-newsletter" className="underline">
-        Speaking info & advice
-      </Link>,
-    ],
-  },
-  {
-    title: "Speak at DART board meeting to oppose cuts/caps",
-    date: new Date("2024-08-27 17:30-05:00"),
-    points: [
-      "Tuesday, August 27th, 5:30PM",
-      "DART Headquarters at Akard Station, 1401 Pacific Avenue",
-      <Link href="/posts/august-2024-newsletter" className="underline">
-        Speaking info & advice
-      </Link>,
-    ],
-  },
-  {
-    title: "Trash Pickup & Brunch at Farmers Branch Station",
-    date: new Date("2024-08-04 09:00-05:00"),
-    points: ["Sunday, August 4th, 9AM", "12800 Denton Drive, Farmers Branch"],
-  },
-  {
-    title: "DATA August General Meeting",
-    date: new Date("2024-08-18 15:00-05:00"),
-    points: [
-      "Sunday, August 18th, 3PM - 5PM",
-      "The Metropolitan, 1200 Main Street, Dallas",
-      <a
-        href="https://go.ridewithdata.org/august2024-vod"
-        className="underline"
-      >
-        Recording
-      </a>,
-      <a
-        href="https://go.ridewithdata.org/august2024-minutes"
-        className="underline"
-      >
-        Minutes
-      </a>,
-      <a
-        href="https://go.ridewithdata.org/august2024-transcript"
-        className="underline"
-      >
-        Transcript
-      </a>,
-    ],
-  },
-  {
-    title: "DATA July General Meeting",
-    date: new Date("2024-07-27 12:00-05:00"),
-    points: [
-      "Saturday, July 27th, 12PM - 3PM",
-      "The Metropolitan, 1200 Main Street, Dallas",
-    ],
-  },
-];
+  events.forEach((event) => {
+    const comparisonDate = event.end ?? event.start;
+    if (comparisonDate.getTime() >= now.getTime()) {
+      upcomingEvents.push(event);
+    } else {
+      pastEvents.push(event);
+    }
+  });
 
-export default function Index() {
+  pastEvents.reverse();
+
+  const rawShowAllPast = Array.isArray(resolvedSearchParams.showAllPast)
+    ? resolvedSearchParams.showAllPast[0]
+    : resolvedSearchParams.showAllPast;
+
+  const showAllPast =
+    rawShowAllPast === "1" ||
+    rawShowAllPast === "true" ||
+    rawShowAllPast === "yes";
+
+  const rawShowAllUpcoming = Array.isArray(resolvedSearchParams.showAllUpcoming)
+    ? resolvedSearchParams.showAllUpcoming[0]
+    : resolvedSearchParams.showAllUpcoming;
+
+  const showAllUpcoming =
+    rawShowAllUpcoming === "1" ||
+    rawShowAllUpcoming === "true" ||
+    rawShowAllUpcoming === "yes";
+
+  const {
+    previewEvents: upcomingPreviewEvents,
+    hasMore: hasMoreUpcomingToShow,
+  } = getUpcomingEventPreview(upcomingEvents);
+
+  const {
+    previewEvents: pastPreviewEvents,
+    hasMore: hasMorePastToShow,
+  } = getPastEventPreview(pastEvents);
+
+  const addToGoogleCalendarUrl = "https://go.ridewithdata.org/calendar";
+  const calendarIcsUrl = "https://go.ridewithdata.org/public-ics";
+
   return (
     <div className="leading-snug mb-20">
       <div className="my-12 md:my-16 md:mb-12 text-5xl md:text-7xl font-bold tracking-tighter">
         Calendar
       </div>
 
-      {/* Default to event list (agenda) when screen is small */}
-      <iframe
-        src="https://go.ridewithdata.org/calendar?mode=agenda"
-        className="md:hidden w-full h-[500px] md:h-[800px]"
-      />
-      <iframe
-        src="https://go.ridewithdata.org/calendar"
-        className="hidden md:block w-full h-[500px] md:h-[800px]"
-      />
-
-      <div className="text-3xl md:text-4xl mt-8 md:mt-12 mb-4 font-bold">
-        Upcoming events
-      </div>
-      {scheduleData
-        .filter(({ date }) => date.valueOf() > Date.now())
-        .sort((a, b) => a.date.valueOf() - b.date.valueOf())
-        .map(({ title, date, points }) => (
-          <div key={date.valueOf()}>
-            <div className="text-lg mt-8 font-semibold">{title}</div>
-            <ul>
-              {points.map((point) => (
-                <li key={point.toString()}>{point}</li>
-              ))}
+      {!configured ? (
+        <div className="mt-6 rounded-md border border-red-200 bg-red-50 p-4 text-sm text-red-800">
+          Google Calendar sync is not configured. Set the `GOOGLE_CALENDAR_ID`
+          and `GOOGLE_CALENDAR_API_KEY` environment variables to display events.
+        </div>
+      ) : (
+        <>
+          <div className="rounded-md border border-slate-200 bg-slate-50 p-4 text-sm">
+            <div className="font-semibold text-slate-800">Stay in sync</div>
+            <ul className="mt-2 list-disc space-y-1 pl-5 text-slate-700">
+              {addToGoogleCalendarUrl ? (
+                <li>
+                  <a
+                    href={addToGoogleCalendarUrl}
+                    className="underline"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    Add this calendar to your Google Calendar
+                  </a>
+                </li>
+              ) : null}
+              {calendarIcsUrl ? (
+                <li>
+                  <a
+                    href={calendarIcsUrl}
+                    className="underline"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    Subscribe with iCal (.ics) compatible apps
+                  </a>
+                </li>
+              ) : null}
             </ul>
           </div>
-        ))}
 
-      <div className="text-3xl md:text-4xl mt-12 md:mt-16 mb-4 font-bold">
-        Past events
-      </div>
-      {scheduleData
-        .filter(({ date }) => date.valueOf() < Date.now())
-        .sort((a, b) => b.date.valueOf() - a.date.valueOf())
-        .map(({ title, date, points }) => (
-          <div key={date.valueOf()}>
-            <div className="text-lg mt-8 font-semibold">{title}</div>
-            <ul>
-              {points.map((point) => (
-                <li key={point.toString()}>{point}</li>
-              ))}
-            </ul>
-          </div>
-        ))}
+          <CalendarMonthView events={events} />
+
+          <EventsSection
+            title="Upcoming events"
+            previewEvents={upcomingPreviewEvents}
+            allEvents={upcomingEvents}
+            hasMore={hasMoreUpcomingToShow}
+            expandLabel="Show additional future events"
+            collapseLabel="Show fewer future events"
+            emptyMessage="No upcoming events found."
+            forceExpanded={showAllUpcoming}
+          />
+
+          <EventsSection
+            title="Past events"
+            previewEvents={pastPreviewEvents}
+            allEvents={pastEvents}
+            hasMore={hasMorePastToShow}
+            expandLabel="Show older events"
+            collapseLabel="Show fewer past events"
+            emptyMessage="No past events found."
+            forceExpanded={showAllPast}
+          />
+        </>
+      )}
     </div>
   );
+}
+
+function getUpcomingEventPreview(
+  upcomingEvents: Awaited<ReturnType<typeof getCalendarEvents>>,
+) {
+  if (upcomingEvents.length === 0) {
+    return { previewEvents: upcomingEvents, hasMore: false };
+  }
+
+  const cutoffTime = addMonths(new Date(), UPCOMING_EVENTS_MONTH_LIMIT).getTime();
+  let selected = upcomingEvents.filter((event) => {
+    const eventTime = (event.end ?? event.start).getTime();
+    return eventTime <= cutoffTime;
+  });
+
+  if (selected.length === 0) {
+    selected = [upcomingEvents[0]];
+  }
+
+  const hasMore = selected.length < upcomingEvents.length;
+
+  return { previewEvents: selected, hasMore };
+}
+
+type CalendarMonthViewProps = {
+  events: Awaited<ReturnType<typeof getCalendarEvents>>;
+};
+
+function CalendarMonthView({ events }: CalendarMonthViewProps) {
+  const today = new Date();
+  const monthStart = startOfMonth(today);
+  const monthEnd = endOfMonth(today);
+  const calendarDays = eachDayOfInterval({
+    start: startOfWeek(monthStart, { weekStartsOn: 0 }),
+    end: endOfWeek(monthEnd, { weekStartsOn: 0 }),
+  });
+
+  const eventsByDay = groupEventsByDay(events);
+  const weekDayLabels = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
+
+  return (
+    <div className="mt-8 md:mt-12">
+      <div className="flex flex-col gap-2 md:flex-row md:items-end md:justify-between">
+        <div className="text-3xl md:text-4xl font-bold">Calendar view</div>
+        <div className="text-slate-600">
+          {format(monthStart, "MMMM yyyy")}
+        </div>
+      </div>
+
+      <div className="mt-4 grid grid-cols-7 gap-px rounded-lg border border-slate-200 bg-slate-200 text-xs md:text-sm">
+        {weekDayLabels.map((label) => (
+          <div
+            key={label}
+            className="bg-slate-50 py-2 text-center font-semibold uppercase tracking-wide text-slate-600"
+          >
+            {label}
+          </div>
+        ))}
+
+        {calendarDays.map((day) => {
+          const dayKey = format(day, "yyyy-MM-dd");
+          const eventsForDay = eventsByDay.get(dayKey) ?? [];
+          const displayEvents = eventsForDay.slice(0, 3);
+          const extraEventsCount = eventsForDay.length - displayEvents.length;
+
+          const isToday = isSameDayDateFns(day, today);
+          const isCurrentMonth = isSameMonth(day, monthStart);
+
+          return (
+            <div
+              key={dayKey}
+              className="min-h-[120px] bg-white p-2"
+              data-today={isToday ? "true" : undefined}
+            >
+              <div className="flex items-center justify-between text-xs font-semibold">
+                <span
+                  className={
+                    isCurrentMonth ? "text-slate-900" : "text-slate-400"
+                  }
+                >
+                  {format(day, "d")}
+                </span>
+                {isToday ? (
+                  <span className="rounded-full bg-slate-900 px-2 py-0.5 text-[10px] font-semibold text-white">
+                    Today
+                  </span>
+                ) : null}
+              </div>
+
+              <ul className="mt-2 space-y-1">
+                {displayEvents.map((event) => (
+                  <li
+                    key={`${event.id}-${dayKey}`}
+                    className="rounded bg-slate-100 px-2 py-1 text-[11px] font-medium leading-tight text-slate-700"
+                  >
+                    {event.isAllDay
+                      ? event.title
+                      : `${format(event.start, "h:mm a")} · ${event.title}`}
+                  </li>
+                ))}
+                {extraEventsCount > 0 ? (
+                  <li className="px-2 py-1 text-[11px] text-slate-500">
+                    +{extraEventsCount} more
+                  </li>
+                ) : null}
+              </ul>
+            </div>
+          );
+        })}
+      </div>
+
+      <div className="mt-3 text-xs text-slate-600">
+        Need the full calendar?{" "}
+        <a
+          href="https://go.ridewithdata.org/calendar"
+          className="underline"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Open it in Google Calendar
+        </a>
+        .
+      </div>
+    </div>
+  );
+}
+
+function groupEventsByDay(
+  events: Awaited<ReturnType<typeof getCalendarEvents>>,
+) {
+  const map = new Map<string, typeof events>();
+
+  events.forEach((event) => {
+    const start = startOfDay(event.start);
+    const end = startOfDay(event.end ?? event.start);
+
+    const days = eachDayOfInterval({
+      start,
+      end: endOfDay(end),
+    });
+
+    days.forEach((day) => {
+      const key = format(day, "yyyy-MM-dd");
+      if (!map.has(key)) {
+        map.set(key, []);
+      }
+
+      map.get(key)!.push(event);
+    });
+  });
+
+  return map;
+}
+
+function getPastEventPreview(
+  pastEvents: Awaited<ReturnType<typeof getCalendarEvents>>,
+) {
+  if (pastEvents.length === 0) {
+    return { previewEvents: pastEvents, hasMore: false };
+  }
+
+  const previewEvents = pastEvents.slice(0, PAST_EVENTS_PREVIEW_LIMIT);
+  const hasMore = pastEvents.length > PAST_EVENTS_PREVIEW_LIMIT;
+
+  return { previewEvents, hasMore };
 }

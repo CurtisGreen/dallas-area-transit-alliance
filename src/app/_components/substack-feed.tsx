@@ -7,6 +7,18 @@ import { getSubstackArticles } from "@/lib/substack-api";
 export const SubstackFeed = async () => {
   const posts = await getSubstackArticles("ridewithdata", 3);
 
+  if (!posts.length) {
+    return (
+      <div className="rounded-md border border-yellow-300 bg-yellow-50 p-6 text-sm text-yellow-900">
+        We couldn&apos;t load the latest blog posts right now.{" "}
+        <Link href="https://ridewithdata.substack.com" className="underline">
+          Visit our Substack
+        </Link>{" "}
+        to see the newest updates.
+      </div>
+    );
+  }
+
   return (
     <div>
       <div className="mt-8 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">

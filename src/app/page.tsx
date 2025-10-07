@@ -2,6 +2,8 @@ import Image from "next/image";
 import { SubstackFeed } from "./_components/substack-feed";
 import Link from "next/link";
 
+export const revalidate = 300;
+
 export default async function Index() {
   return (
     <>
