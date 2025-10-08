@@ -1,21 +1,10 @@
-import {
-  addMonths,
-  eachDayOfInterval,
-  endOfDay,
-  endOfMonth,
-  endOfWeek,
-  format,
-  isSameDay as isSameDayDateFns,
-  isSameMonth,
-  startOfDay,
-  startOfMonth,
-  startOfWeek,
-} from "date-fns";
+import { addMonths } from "date-fns";
 
 import {
   getCalendarEvents,
   isGoogleCalendarConfigured,
 } from "@/lib/googleCalendar";
+import CalendarMonthView from "./_components/calendarMonthView";
 import EventsSection from "./_components/eventsSection";
 
 // Invalidate the cache when a request comes in, at most once every hour
@@ -175,136 +164,6 @@ function getUpcomingEventPreview(
   const hasMore = selected.length < upcomingEvents.length;
 
   return { previewEvents: selected, hasMore };
-}
-
-type CalendarMonthViewProps = {
-  events: Awaited<ReturnType<typeof getCalendarEvents>>;
-};
-
-function CalendarMonthView({ events }: CalendarMonthViewProps) {
-  const today = new Date();
-  const monthStart = startOfMonth(today);
-  const monthEnd = endOfMonth(today);
-  const calendarDays = eachDayOfInterval({
-    start: startOfWeek(monthStart, { weekStartsOn: 0 }),
-    end: endOfWeek(monthEnd, { weekStartsOn: 0 }),
-  });
-
-  const eventsByDay = groupEventsByDay(events);
-  const weekDayLabels = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
-
-  return (
-    <div className="mt-8 md:mt-12">
-      <div className="flex flex-col gap-2 md:flex-row md:items-end md:justify-between">
-        <div className="text-3xl md:text-4xl font-bold">Calendar view</div>
-        <div className="text-slate-600">
-          {format(monthStart, "MMMM yyyy")}
-        </div>
-      </div>
-
-      <div className="mt-4 grid grid-cols-7 gap-px rounded-lg border border-slate-200 bg-slate-200 text-xs md:text-sm">
-        {weekDayLabels.map((label) => (
-          <div
-            key={label}
-            className="bg-slate-50 py-2 text-center font-semibold uppercase tracking-wide text-slate-600"
-          >
-            {label}
-          </div>
-        ))}
-
-        {calendarDays.map((day) => {
-          const dayKey = format(day, "yyyy-MM-dd");
-          const eventsForDay = eventsByDay.get(dayKey) ?? [];
-          const displayEvents = eventsForDay.slice(0, 3);
-          const extraEventsCount = eventsForDay.length - displayEvents.length;
-
-          const isToday = isSameDayDateFns(day, today);
-          const isCurrentMonth = isSameMonth(day, monthStart);
-
-          return (
-            <div
-              key={dayKey}
-              className="min-h-[120px] bg-white p-2"
-              data-today={isToday ? "true" : undefined}
-            >
-              <div className="flex items-center justify-between text-xs font-semibold">
-                <span
-                  className={
-                    isCurrentMonth ? "text-slate-900" : "text-slate-400"
-                  }
-                >
-                  {format(day, "d")}
-                </span>
-                {isToday ? (
-                  <span className="rounded-full bg-slate-900 px-2 py-0.5 text-[10px] font-semibold text-white">
-                    Today
-                  </span>
-                ) : null}
-              </div>
-
-              <ul className="mt-2 space-y-1">
-                {displayEvents.map((event) => (
-                  <li
-                    key={`${event.id}-${dayKey}`}
-                    className="rounded bg-slate-100 px-2 py-1 text-[11px] font-medium leading-tight text-slate-700"
-                  >
-                    {event.isAllDay
-                      ? event.title
-                      : `${format(event.start, "h:mm a")} · ${event.title}`}
-                  </li>
-                ))}
-                {extraEventsCount > 0 ? (
-                  <li className="px-2 py-1 text-[11px] text-slate-500">
-                    +{extraEventsCount} more
-                  </li>
-                ) : null}
-              </ul>
-            </div>
-          );
-        })}
-      </div>
-
-      <div className="mt-3 text-xs text-slate-600">
-        Need the full calendar?{" "}
-        <a
-          href="https://go.ridewithdata.org/calendar"
-          className="underline"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Open it in Google Calendar
-        </a>
-        .
-      </div>
-    </div>
-  );
-}
-
-function groupEventsByDay(
-  events: Awaited<ReturnType<typeof getCalendarEvents>>,
-) {
-  const map = new Map<string, typeof events>();
-
-  events.forEach((event) => {
-    const start = startOfDay(event.start);
-    const end = startOfDay(event.end ?? event.start);
-
-    const days = eachDayOfInterval({
-      start,
-      end: endOfDay(end),
-    });
-
-    days.forEach((day) => {
-      const key = format(day, "yyyy-MM-dd");
-      if (!map.has(key)) {
-        map.set(key, []);
-      }
-
-      map.get(key)!.push(event);
-    });
-  });
-
-  return map;
 }
 
 function getPastEventPreview(

@@ -62,7 +62,7 @@ export default function EventsSection({
           className="mt-4 inline-flex items-center gap-2 text-sm font-semibold text-slate-700 underline decoration-slate-500 underline-offset-4 hover:text-slate-900"
           aria-expanded={expanded}
         >
-          <span aria-hidden>{expanded ? "▴" : "▾"}</span>
+          <span aria-hidden>{expanded ? "\u25b2" : "\u25bc"}</span>
           {expanded ? collapseLabel : expandLabel}
         </button>
       ) : null}
