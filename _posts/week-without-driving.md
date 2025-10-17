@@ -10,7 +10,7 @@ ogImage:
   url: "/assets/blog/week-without-driving/WWD_Cover.png"
 banner: 
   text: "Join us in Week without Driving Monday, September 29 through Sunday, October 5, 2025"
-  hide: false
+  hide: true
 ---
 ## Week without Driving (Monday, September 29 – Sunday, October 5, 2025)
 
