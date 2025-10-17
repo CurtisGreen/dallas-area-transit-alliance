@@ -15,36 +15,50 @@ export default function Index() {
       </div>
       <ul className="mb-16 md:mb-12 text-lg">
         <li className="mb-1">
-          Connor Hulla, President, <u><a href="mailto:president@ridewithdata.org">Email</a></u>
+          Connor Hulla, President, <u><a href="mailto:president@ridewithdata.org" target="_blank">Email</a></u>
         </li>
         <li className="mb-1">
-          Tyler Wright, Vice President, <u><a href="mailto:vp@ridewithdata.org">Email</a></u>
+          Tyler Wright, Vice President, <u><a href="mailto:vp@ridewithdata.org" target="_blank">Email</a></u>
         </li>
         <li className="mb-1">
-          Alexander Dunn, Secretary, <u><a href="mailto:secretary@ridewithdata.org">Email</a></u>
+          Alexander Dunn, Secretary, <u><a href="mailto:secretary@ridewithdata.org" target="_blank">Email</a></u>
         </li>
         <li className="mb-1">
-          Patric Morgan, Parliamentarian, <u><a href="mailto:rules@ridewithdata.org">Email</a></u>
+          Patric Morgan, Parliamentarian, <u><a href="mailto:rules@ridewithdata.org" target="_blank">Email</a></u>
         </li>
         <li className="mb-1">
           To be appointed, Treasurer
         </li>
         <li className="mb-1">
-          Qui Le, Systems Administrator, <u><a href="mailto:sysadmin@ridewithdata.org">Email</a></u>
+          Qui Le, Systems Administrator, <u><a href="mailto:sysadmin@ridewithdata.org" target="_blank">Email</a></u>
         </li>
         <li className="mb-1">
-          David Yaqubian, External Affairs Chair, <u><a href="mailto:external-affairs@ridewithdata.org">Email</a></u>
+         Chelsea Limboy, Community Outreach Chair, <u><a href="mailto:community-outreach@ridewithdata.org" target="_blank">Email</a></u>
         </li>
         <li className="mb-1">
-          Rohan Kodibagkar, Community Outreach Chair, <u><a href="mailto:community-outreach@ridewithdata.org">Email</a></u>
+          Qui Le, Event Planning Chair, <u><a href="mailto:events@ridewithdata.org" target="_blank">Email</a></u>
         </li>
         <li className="mb-1">
-          Keun Lee, Policy Research Chair, <u><a href="mailto:policy-research@ridewithdata.org">Email</a></u>
+          David Yaqubian, External Affairs Chair, <u><a href="mailto:external-affairs@ridewithdata.org" target="_blank">Email</a></u>
         </li>
         <li className="mb-1">
-          Qui Le, Event Planning Chair, <u><a href="mailto:events@ridewithdata.org">Email</a></u>
+          Warren Peña, Finance Chair, <u><a href="mailto:finance@ridewithdata.org" target="_blank">Email</a></u>
+        </li>
+        <li className="mb-1">
+          Keun Lee, Policy Research Chair, <u><a href="mailto:policy-research@ridewithdata.org" target="_blank">Email</a></u>
         </li>
       </ul>
+      <div className="text-2xl md:text-3xl mt-8 md:mt-12 mb-4 font-bold">
+        Our Ad-Hoc Committees
+      </div>
+      <ul className="mb-16 md:mb-12 text-lg">
+       <li className="mb-1">
+         Chelsea Limboy, DFW Urbanistas, <u><a href="mailto:urbanistas@ridewithdata.org" target="_blank">Email</a></u>, <u><a href="https://instagram.com/urbanistasdfw" target="_blank">Instagram</a></u> (DFW Urbanistas is a women-led group that advocates for public transportation) 
+        </li>
+       <li className="mb-1">
+         Qui Le, Merch, <u><a href="mailto:merch.adhoc@ridewithdata.org" target="_blank">Email</a></u> (Our Merch Committee helps make merch for DATA to promote public transit in the Dallas area)
+       </li>
+       </ul>
       <div className="text-2xl md:text-3xl mt-8 md:mt-12 mb-4 font-bold">
         History
       </div>
