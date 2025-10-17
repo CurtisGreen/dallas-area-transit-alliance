@@ -13,20 +13,20 @@ export default function Index() {
         <SocialIcons />
         <div className="mb-2 mt-10">Or join the conversation!</div>
         <div className="mb-4 flex flex-wrap gap-6">
-          <a href="https://groupme.com/join_group/92468276/JsoCAH57">
+          <a href="https://groupme.com/join_group/92468276/JsoCAH57" target="_blank">
             <GroupMeIcon className="h-9 fill-slate-700 dark:fill-white hover:fill-blue-700 dark:hover:fill-blue-700" />
           </a>
-          <a href="https://discord.gg/ZKwDE2s4qx">
+          <a href="https://discord.gg/ZKwDE2s4qx" target="_blank">
             <DiscordIcon className="h-8 fill-slate-700 dark:fill-white hover:fill-blue-700 dark:hover:fill-blue-700" />
           </a>
         </div>
         <div className="mb-2 mt-10">Press Contact</div>
         <div className="font-semibold dark:text-white dark:font-normal">
-          <a href="mailto:press@ridewithdata.org">press@ridewithdata.org</a>
+          <a href="mailto:press@ridewithdata.org" target="_blank">press@ridewithdata.org</a>
         </div>
         <div className="mb-2 mt-10">General Inquiries</div>
         <div className="font-semibold dark:text-white dark:font-normal">
-          <a href="mailto:info@ridewithdata.org">info@ridewithdata.org</a>
+          <a href="mailto:info@ridewithdata.org" target="_blank">info@ridewithdata.org</a>
         </div>
         <div className="mb-2 mt-10">Subscribe to our Newsletter</div>
         <iframe

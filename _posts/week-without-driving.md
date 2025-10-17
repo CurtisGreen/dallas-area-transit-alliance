@@ -2,7 +2,7 @@
 title: "Week Without Driving: Monday, September 29 – Sunday, October 5, 2025"
 excerpt: "Nearly a third of people living in the United States – people with disabilities, young people, seniors and people who can’t afford cars or gas- do not drive. Join us in Week Without Driving partnered with Better Block, Dallas Area Transit Alliance, Dallas Bicycle Coalition, Dallas Housing Coalition, Dallas Neighbors for Housing, Dallas Urbanists STLC, and DFW Urbanistas"
 coverImage: "/assets/blog/week-without-driving/WWD_Cover.png"
-date: "2024-09-16T05:00:00.000Z"
+date: "2025-09-05T05:00:00.000Z"
 author:
   name: DATA Team
   picture: "/assets/blog/authors/data-team.png"
