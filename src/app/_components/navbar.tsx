@@ -80,7 +80,7 @@ export const Navbar = () => {
                 <NavbarLink href="/calendar">Calendar</NavbarLink>
               </div>
               <div>
-                <NavbarLink href="https://go.ridewithdata.org/bonfire">
+                <NavbarLink href="https://go.ridewithdata.org/bonfire?utm_source=header&utm_medium=website&utm_campaign=data-store">
                   Store
                 </NavbarLink>
               </div>
