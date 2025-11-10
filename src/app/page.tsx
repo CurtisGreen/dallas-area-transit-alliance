@@ -97,7 +97,7 @@ export default async function Index() {
             </div>
           </Link>
 
-          <Link
+          {/* <Link
             href="https://www.dallasnews.com/news/transportation/2025/07/09/appalled-hundreds-decry-dart-cuts-fare-hikes-at-raucous-hearing"
             className="max-w-[400px]"
           >
@@ -113,7 +113,7 @@ export default async function Index() {
               'Appalled': Hundreds decry proposed DART cuts, fare hikes at
               raucous hearing
             </div>
-          </Link>
+          </Link> */}
 
           <Link
             href="https://www.dallasobserver.com/news/dart-says-texas-bill-will-kill-the-public-transit-system-22259069"
