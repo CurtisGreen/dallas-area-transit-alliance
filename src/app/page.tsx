@@ -79,24 +79,41 @@ export default async function Index() {
 
       <div className="w-full my-10 p-12 bg-yellow-500 text-black rounded-sm flex justify-center items-center flex-col">
         <div className="text-2xl font-semibold my-4">DATA in the news</div>
-        <div className="flex gap-6 flex-wrap justify-center items-center">
+        <div className="flex gap-x-6 gap-y-8 flex-wrap justify-center items-center">
           <Link
+            href="https://labreportdallas.com/p/dart-s-big-problem-and-the-little-group-that-wants-to-solve-it"
+            className="max-w-[400px]"
+          >
+            <Image
+              src="/assets/default/data-at-the-capitol.jpg"
+              alt="No caps no cuts"
+              width={400}
+              height={300}
+              className="rounded-sm object-contain w-[400px] mb-2"
+            />
+            <div>The Lab Report Dallas - Matt Goodman</div>
+            <div className="text-neutral-600">
+              DART's Big Problem and the Little Group That Wants to Solve It
+            </div>
+          </Link>
+
+          {/* <Link
             href="https://www.dallasnews.com/news/transportation/2025/07/09/appalled-hundreds-decry-dart-cuts-fare-hikes-at-raucous-hearing"
             className="max-w-[400px]"
           >
             <Image
-              src="/assets/default/no-caps-no-cuts.webp"
+              src="/assets/default/no-caps-no-cuts.jpg"
               alt="No caps no cuts"
               width={400}
               height={300}
-              className="rounded-sm object-contain h-[300px] w-[400px]"
+              className="rounded-sm object-contain w-[400px] mb-2"
             />
             <div>Dallas Morning News - Amber Gaudet</div>
             <div className="text-neutral-600">
               'Appalled': Hundreds decry proposed DART cuts, fare hikes at
               raucous hearing
             </div>
-          </Link>
+          </Link> */}
 
           <Link
             href="https://www.dallasobserver.com/news/dart-says-texas-bill-will-kill-the-public-transit-system-22259069"
@@ -107,7 +124,7 @@ export default async function Index() {
               alt="Dart train"
               width={400}
               height={300}
-              className="rounded-sm object-contain h-[300px] w-[400px]"
+              className="rounded-sm object-contain w-[400px] mb-2"
             />
             <div>Dallas Observer - Alyssa Fields</div>
             <div className="text-neutral-600">
@@ -120,11 +137,11 @@ export default async function Index() {
             className="max-w-[400px]"
           >
             <Image
-              src="/assets/default/data-press-conference.webp"
+              src="/assets/default/data-press-conference.jpg"
               alt="DATA press conference"
               width={400}
               height={300}
-              className="rounded-sm object-contain h-[300px] w-[400px]"
+              className="rounded-sm object-contain w-[400px] mb-2"
             />
             <div>KERA - Pablo Arauz Peña</div>
             <div className="text-neutral-600">
