@@ -1,6 +1,35 @@
 import Image from "next/image";
 import { SubstackFeed } from "./_components/substack-feed";
 import Link from "next/link";
+import { sub } from "date-fns";
+
+const inTheNews = [
+  {
+    title: "DART's Big Problem and the Little Group That Wants to Solve It",
+    subtitle: "The Lab Report Dallas - Matt Goodman",
+    imgSource: "/assets/default/data-at-the-capitol.jpg",
+    href: "https://labreportdallas.com/p/dart-s-big-problem-and-the-little-group-that-wants-to-solve-it",
+  },
+  // {
+  //   title:
+  //     "'Appalled': Hundreds decry proposed DART cuts, fare hikes at raucous hearing",
+  //   subtitle: "Dallas Morning News - Amber Gaudet",
+  //   imgSource: "/assets/default/no-caps-no-cuts.jpg",
+  //   href: "https://www.dallasnews.com/news/transportation/2025/07/09/appalled-hundreds-decry-dart-cuts-fare-hikes-at-raucous-hearing",
+  // },
+  {
+    title: "'DART Killer' Bill Would Immobilize Thousands of Dallasites",
+    subtitle: "Dallas Observer - Alyssa Fields",
+    imgSource: "/assets/default/dart-train-airport.png",
+    href: "https://www.dallasobserver.com/news/dart-says-texas-bill-will-kill-the-public-transit-system-22259069",
+  },
+  {
+    title: "DART advocates speak out against proposed funding cuts",
+    subtitle: "KERA - Pablo Arauz Peña",
+    imgSource: "/assets/default/data-press-conference.jpg",
+    href: "https://www.keranews.org/news/2025-03-25/dart-advocates-oppose-funding-cuts-legislature",
+  },
+];
 
 export default async function Index() {
   return (
@@ -80,74 +109,22 @@ export default async function Index() {
       <div className="w-full my-10 p-12 bg-yellow-500 text-black rounded-sm flex justify-center items-center flex-col">
         <div className="text-2xl font-semibold my-4">DATA in the news</div>
         <div className="flex gap-x-6 gap-y-8 flex-wrap justify-center items-center">
-          <Link
-            href="https://labreportdallas.com/p/dart-s-big-problem-and-the-little-group-that-wants-to-solve-it"
-            className="max-w-[400px]"
-          >
-            <Image
-              src="/assets/default/data-at-the-capitol.jpg"
-              alt="No caps no cuts"
-              width={400}
-              height={300}
-              className="rounded-sm object-contain w-[400px] mb-2"
-            />
-            <div>The Lab Report Dallas - Matt Goodman</div>
-            <div className="text-neutral-600">
-              DART's Big Problem and the Little Group That Wants to Solve It
-            </div>
-          </Link>
-
-          {/* <Link
-            href="https://www.dallasnews.com/news/transportation/2025/07/09/appalled-hundreds-decry-dart-cuts-fare-hikes-at-raucous-hearing"
-            className="max-w-[400px]"
-          >
-            <Image
-              src="/assets/default/no-caps-no-cuts.jpg"
-              alt="No caps no cuts"
-              width={400}
-              height={300}
-              className="rounded-sm object-contain w-[400px] mb-2"
-            />
-            <div>Dallas Morning News - Amber Gaudet</div>
-            <div className="text-neutral-600">
-              'Appalled': Hundreds decry proposed DART cuts, fare hikes at
-              raucous hearing
-            </div>
-          </Link> */}
-
-          <Link
-            href="https://www.dallasobserver.com/news/dart-says-texas-bill-will-kill-the-public-transit-system-22259069"
-            className="max-w-[400px]"
-          >
-            <Image
-              src="/assets/default/dart-train-airport.png"
-              alt="Dart train"
-              width={400}
-              height={300}
-              className="rounded-sm object-contain w-[400px] mb-2"
-            />
-            <div>Dallas Observer - Alyssa Fields</div>
-            <div className="text-neutral-600">
-              'DART Killer' Bill Would Immobilize Thousands of Dallasites
-            </div>
-          </Link>
-
-          <Link
-            href="https://www.keranews.org/news/2025-03-25/dart-advocates-oppose-funding-cuts-legislature"
-            className="max-w-[400px]"
-          >
-            <Image
-              src="/assets/default/data-press-conference.jpg"
-              alt="DATA press conference"
-              width={400}
-              height={300}
-              className="rounded-sm object-contain w-[400px] mb-2"
-            />
-            <div>KERA - Pablo Arauz Peña</div>
-            <div className="text-neutral-600">
-              DART advocates speak out against proposed funding cuts
-            </div>
-          </Link>
+          {inTheNews.map((item) => (
+            <Link
+              href="https://labreportdallas.com/p/dart-s-big-problem-and-the-little-group-that-wants-to-solve-it"
+              className="max-w-[400px]"
+            >
+              <Image
+                src={item.imgSource}
+                alt="DATA in the news"
+                width={400}
+                height={300}
+                className="rounded-sm object-contain w-[400px] mb-2"
+              />
+              <div>{item.title}</div>
+              <div className="text-neutral-600">{item.subtitle}</div>
+            </Link>
+          ))}
         </div>
       </div>
     </>
