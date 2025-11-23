@@ -392,7 +392,7 @@ export default function Index() {
         className="hidden md:block w-full h-[500px] md:h-[800px]"
       />
 
-      <div className="text-3xl md:text-4xl mt-8 md:mt-12 mb-4 font-bold">
+      {/* <div className="text-3xl md:text-4xl mt-8 md:mt-12 mb-4 font-bold">
         Upcoming events
       </div>
       {scheduleData
@@ -424,7 +424,7 @@ export default function Index() {
               ))}
             </ul>
           </div>
-        ))}
+        ))} */}
     </div>
   );
 }
