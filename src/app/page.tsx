@@ -110,10 +110,7 @@ export default async function Index() {
         <div className="text-2xl font-semibold my-4">DATA in the news</div>
         <div className="flex gap-x-6 gap-y-8 flex-wrap justify-center items-center">
           {inTheNews.map((item) => (
-            <Link
-              href="https://labreportdallas.com/p/dart-s-big-problem-and-the-little-group-that-wants-to-solve-it"
-              className="max-w-[400px]"
-            >
+            <Link href={item.href} className="max-w-[400px]">
               <Image
                 src={item.imgSource}
                 alt="DATA in the news"
