@@ -1,7 +1,6 @@
 import Image from "next/image";
 import { SubstackFeed } from "./_components/substack-feed";
 import Link from "next/link";
-import { sub } from "date-fns";
 
 const inTheNews = [
   {
@@ -39,7 +38,7 @@ export default async function Index() {
         <div className="max-w-3xl flex gap-6 flex-wrap">
           <div className="flex-1">
             <div className="text-2xl font-semibold my-4">
-              How to ride transit in North Texas
+              How To Ride Transit In North Texas
             </div>
 
             <div className="text-neutral-900">
@@ -53,7 +52,7 @@ export default async function Index() {
                 href="https://substack.com/home/post/p-169630364"
                 className="px-4 py-2 rounded-lg bg-slate-100 hover:bg-slate-200 text-black"
               >
-                Learn to ride
+                Learn To Ride
               </Link>
             </div>
           </div>
@@ -73,7 +72,7 @@ export default async function Index() {
       <div className="w-full my-10 p-6 rounded-sm flex justify-center">
         <div className="max-w-3xl flex gap-6 flex-wrap">
           <div className="flex-1">
-            <div className="text-2xl font-semibold my-4">Get involved</div>
+            <div className="text-2xl font-semibold my-4">Get Involved</div>
 
             <div className="">
               See our{" "}
@@ -89,7 +88,7 @@ export default async function Index() {
                 href="https://docs.google.com/forms/d/e/1FAIpQLSeE-SrnsbjniO7I0BkdHourNdQYO_MKaYhKa6iQjN63_eubBg/viewform"
                 className="px-4 py-2 rounded-lg bg-yellow-500 hover:bg-yellow-400 text-black text-nowrap"
               >
-                Subscribe to our newsletter
+                Subscribe To Our Newsletter
               </Link>
             </div>
           </div>
@@ -107,7 +106,7 @@ export default async function Index() {
       </div>
 
       <div className="w-full my-10 p-12 bg-yellow-500 text-black rounded-sm flex justify-center items-center flex-col">
-        <div className="text-2xl font-semibold my-4">DATA in the news</div>
+        <div className="text-2xl font-semibold my-4">DATA In The News</div>
         <div className="flex gap-x-6 gap-y-8 flex-wrap justify-center items-center">
           {inTheNews.map((item) => (
             <Link href={item.href} className="max-w-[400px]">
