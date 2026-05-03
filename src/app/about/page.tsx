@@ -67,9 +67,9 @@ export default function Index() {
           <i>Dallas Area Transit Alliance</i>, or <i>DATA</i>, was formed in
           response to a wave of{" "}
           <a href="/posts/dart-cuts">city council resolutions</a> aimed at
-          reducing DART funding. Our organization represents all 13 DART member
+          reducing DART funding. Our organization represents all 12 DART member
           cities: Dallas, Addison, Carrollton, Cockrell Hill, Farmers Branch,
-          Garland, Glenn Heights, Highland Park, Irving, Plano, Richardson,
+          Garland, Glenn Heights, Irving, Plano, Richardson,
           Rowlett, and University Park.
         </p>
 
@@ -94,7 +94,7 @@ export default function Index() {
           Since its launch on July 16, the petition garnered over 1,160
           signatures in two weeks. The petition called upon the DART Board of
           Directors to reject any proposals to reduce the sales tax
-          contributions from the thirteen member cities.
+          contributions from the twelve member cities.
         </p>
       </div>
       <div className="text-2xl md:text-3xl mt-8 md:mt-12 mb-4 font-bold">

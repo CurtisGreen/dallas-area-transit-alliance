@@ -102,5 +102,4 @@ Cities that haven't voted:
 - Cockrell Hill
 - Dallas
 - Glenn Heights
-- Highland Park
 - University Park
