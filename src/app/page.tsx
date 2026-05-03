@@ -2,6 +2,34 @@ import Image from "next/image";
 import { SubstackFeed } from "./_components/substack-feed";
 import Link from "next/link";
 
+const inTheNews = [
+  {
+    title: "DART's Big Problem and the Little Group That Wants to Solve It",
+    subtitle: "The Lab Report Dallas - Matt Goodman",
+    imgSource: "/assets/default/data-at-the-capitol.jpg",
+    href: "https://labreportdallas.com/p/dart-s-big-problem-and-the-little-group-that-wants-to-solve-it",
+  },
+  // {
+  //   title:
+  //     "'Appalled': Hundreds decry proposed DART cuts, fare hikes at raucous hearing",
+  //   subtitle: "Dallas Morning News - Amber Gaudet",
+  //   imgSource: "/assets/default/no-caps-no-cuts.jpg",
+  //   href: "https://www.dallasnews.com/news/transportation/2025/07/09/appalled-hundreds-decry-dart-cuts-fare-hikes-at-raucous-hearing",
+  // },
+  {
+    title: "'DART Killer' Bill Would Immobilize Thousands of Dallasites",
+    subtitle: "Dallas Observer - Alyssa Fields",
+    imgSource: "/assets/default/dart-train-airport.png",
+    href: "https://www.dallasobserver.com/news/dart-says-texas-bill-will-kill-the-public-transit-system-22259069",
+  },
+  {
+    title: "DART advocates speak out against proposed funding cuts",
+    subtitle: "KERA - Pablo Arauz Peña",
+    imgSource: "/assets/default/data-press-conference.jpg",
+    href: "https://www.keranews.org/news/2025-03-25/dart-advocates-oppose-funding-cuts-legislature",
+  },
+];
+
 export default async function Index() {
   return (
     <>
@@ -10,7 +38,7 @@ export default async function Index() {
         <div className="max-w-3xl flex gap-6 flex-wrap">
           <div className="flex-1">
             <div className="text-2xl font-semibold my-4">
-              How to ride transit in North Texas
+              How To Ride Transit In North Texas
             </div>
 
             <div className="text-neutral-900">
@@ -24,7 +52,7 @@ export default async function Index() {
                 href="https://substack.com/home/post/p-169630364"
                 className="px-4 py-2 rounded-lg bg-slate-100 hover:bg-slate-200 text-black"
               >
-                Learn to ride
+                Learn To Ride
               </Link>
             </div>
           </div>
@@ -44,7 +72,7 @@ export default async function Index() {
       <div className="w-full my-10 p-6 rounded-sm flex justify-center">
         <div className="max-w-3xl flex gap-6 flex-wrap">
           <div className="flex-1">
-            <div className="text-2xl font-semibold my-4">Get involved</div>
+            <div className="text-2xl font-semibold my-4">Get Involved</div>
 
             <div className="">
               See our{" "}
@@ -60,7 +88,7 @@ export default async function Index() {
                 href="https://docs.google.com/forms/d/e/1FAIpQLSeE-SrnsbjniO7I0BkdHourNdQYO_MKaYhKa6iQjN63_eubBg/viewform"
                 className="px-4 py-2 rounded-lg bg-yellow-500 hover:bg-yellow-400 text-black text-nowrap"
               >
-                Subscribe to our newsletter
+                Subscribe To Our Newsletter
               </Link>
             </div>
           </div>
@@ -78,59 +106,21 @@ export default async function Index() {
       </div>
 
       <div className="w-full my-10 p-12 bg-yellow-500 text-black rounded-sm flex justify-center items-center flex-col">
-        <div className="text-2xl font-semibold my-4">DATA in the news</div>
-        <div className="flex gap-6 flex-wrap justify-center items-center">
-          <Link
-            href="https://www.dallasnews.com/news/transportation/2025/07/09/appalled-hundreds-decry-dart-cuts-fare-hikes-at-raucous-hearing"
-            className="max-w-[400px]"
-          >
-            <Image
-              src="/assets/default/no-caps-no-cuts.webp"
-              alt="No caps no cuts"
-              width={400}
-              height={300}
-              className="rounded-sm object-contain h-[300px] w-[400px]"
-            />
-            <div>Dallas Morning News - Amber Gaudet</div>
-            <div className="text-neutral-600">
-              'Appalled': Hundreds decry proposed DART cuts, fare hikes at
-              raucous hearing
-            </div>
-          </Link>
-
-          <Link
-            href="https://www.dallasobserver.com/news/dart-says-texas-bill-will-kill-the-public-transit-system-22259069"
-            className="max-w-[400px]"
-          >
-            <Image
-              src="/assets/default/dart-train-airport.png"
-              alt="Dart train"
-              width={400}
-              height={300}
-              className="rounded-sm object-contain h-[300px] w-[400px]"
-            />
-            <div>Dallas Observer - Alyssa Fields</div>
-            <div className="text-neutral-600">
-              'DART Killer' Bill Would Immobilize Thousands of Dallasites
-            </div>
-          </Link>
-
-          <Link
-            href="https://www.keranews.org/news/2025-03-25/dart-advocates-oppose-funding-cuts-legislature"
-            className="max-w-[400px]"
-          >
-            <Image
-              src="/assets/default/data-press-conference.webp"
-              alt="DATA press conference"
-              width={400}
-              height={300}
-              className="rounded-sm object-contain h-[300px] w-[400px]"
-            />
-            <div>KERA - Pablo Arauz Peña</div>
-            <div className="text-neutral-600">
-              DART advocates speak out against proposed funding cuts
-            </div>
-          </Link>
+        <div className="text-2xl font-semibold my-4">DATA In The News</div>
+        <div className="flex gap-x-6 gap-y-8 flex-wrap justify-center items-center">
+          {inTheNews.map((item) => (
+            <Link href={item.href} className="max-w-[400px]">
+              <Image
+                src={item.imgSource}
+                alt="DATA in the news"
+                width={400}
+                height={300}
+                className="rounded-sm object-contain w-[400px] mb-2"
+              />
+              <div>{item.title}</div>
+              <div className="text-neutral-600">{item.subtitle}</div>
+            </Link>
+          ))}
         </div>
       </div>
     </>
