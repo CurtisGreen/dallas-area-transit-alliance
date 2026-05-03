@@ -53,7 +53,7 @@ export default function Index() {
       </div>
       <ul className="mb-16 md:mb-12 text-lg">
        <li className="mb-1">
-         Chelsea Limboy, DFW Urbanistas, <u><a href="mailto:urbanistas@ridewithdata.org" target="_blank">Email</a></u>, <u><a href="https://instagram.com/urbanistasdfw" target="_blank">Instagram</a></u> (DFW Urbanistas is a women-led group that advocates for public transportation) 
+         Chelsea Limboy, DFW Urbanistas, <u><a href="mailto:chelsea@dallasurbanists.org" target="_blank">Email</a></u>, <u><a href="https://instagram.com/urbanistasdfw" target="_blank">Instagram</a></u> (DFW Urbanistas is a women-led group that advocates for public transportation, now managed by Dallas Urnbanists) 
         </li>
        <li className="mb-1">
          Qui Le, Merch, <u><a href="mailto:merch.adhoc@ridewithdata.org" target="_blank">Email</a></u> (Our Merch Committee helps make merch for DATA to promote public transit in the Dallas area)
