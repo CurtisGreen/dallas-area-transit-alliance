@@ -15,7 +15,7 @@ export default function Index() {
       </div>
       <ul className="mb-16 md:mb-12 text-lg">
         <li className="mb-1">
-          Connor Hulla, President, <u><a href="mailto:president@ridewithdata.org" target="_blank">Email</a></u>
+          Tyler Wright, Interim President, <u><a href="mailto:president@ridewithdata.org" target="_blank">Email</a></u>
         </li>
         <li className="mb-1">
           Tyler Wright, Vice President, <u><a href="mailto:vp@ridewithdata.org" target="_blank">Email</a></u>
