@@ -62,12 +62,14 @@ const CalendarEvents = ({
               day: "numeric",
               month: "short",
               weekday: "short",
+              timeZone: "America/Chicago",
             })}
             {" - "}
             {end.toLocaleString("en-US", {
               hour12: true,
               hour: "numeric",
               minute: "numeric",
+              timeZone: "America/Chicago",
             })}
           </div>
         </Card>
