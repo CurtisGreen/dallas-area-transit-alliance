@@ -3,12 +3,17 @@ import cn from "classnames";
 import Link from "next/link";
 
 import { getSubstackArticles } from "@/lib/substack-api";
+import { getGoogleCalendarEvents } from "@/lib/google-calendar-api";
 
 export const SubstackFeed = async () => {
   const posts = await getSubstackArticles("ridewithdata", 3);
+  const a = await getGoogleCalendarEvents();
 
   return (
     <div>
+      <div className="text-3xl md:text-4xl mt-8 md:mt-12 mb-4 font-bold">
+        Latest Articles
+      </div>
       <div className="mt-8 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
         {posts.map((post) => (
           <div key={post.slug} className="justify-center">
@@ -17,7 +22,8 @@ export const SubstackFeed = async () => {
                 src={post.cover_image || "/logos/logo-blue.png"}
                 alt={post.title}
                 className={cn("shadow-sm rounded-md w-192 h-96 object-cover", {
-                  "hover:shadow-lg transition-shadow duration-200": post.slug,
+                  "hover:shadow-yellow-500/30 transition-shadow duration-200":
+                    post.slug,
                 })}
                 width={800}
                 height={400}
