@@ -50,7 +50,7 @@ const CalendarEvents = ({
     )}
   >
     {events.map(({ summary, start, end, htmlLink, location }) => (
-      <Link key={summary + events.length} href={htmlLink}>
+      <Link key={summary + events.length} target="_blank" href={htmlLink}>
         <Card className="h-full min-w-[220px] hover:shadow-yellow-500/30 dark:hover:shadow-yellow-500/20 transition-shadow duration-200">
           <div className="text-lg font-semibold">{summary}</div>
           <div className="text-sm text-slate-500">{location || "-"}</div>
