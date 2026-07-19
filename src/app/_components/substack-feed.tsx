@@ -14,7 +14,7 @@ export const SubstackFeed = async () => {
           <div key={post.slug} className="justify-center">
             <Link href={post.canonical_url} aria-label={post.title}>
               <Image
-                src={post.cover_image}
+                src={post.cover_image || "/logos/logo-blue.png"}
                 alt={post.title}
                 className={cn("shadow-sm rounded-md w-192 h-96 object-cover", {
                   "hover:shadow-lg transition-shadow duration-200": post.slug,
