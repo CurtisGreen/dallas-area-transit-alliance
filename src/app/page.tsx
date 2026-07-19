@@ -1,6 +1,7 @@
 import Image from "next/image";
 import { SubstackFeed } from "./_components/substack-feed";
 import Link from "next/link";
+import { CalendarFeed } from "./_components/calendar-feed";
 
 const inTheNews = [
   {
@@ -33,6 +34,7 @@ const inTheNews = [
 export default async function Index() {
   return (
     <>
+      <CalendarFeed />
       <SubstackFeed />
       <div className="w-full my-10 p-12 bg-yellow-500 text-black rounded-sm flex justify-center">
         <div className="max-w-3xl flex gap-6 flex-wrap">
@@ -109,7 +111,7 @@ export default async function Index() {
         <div className="text-2xl font-semibold my-4">DATA In The News</div>
         <div className="flex gap-x-6 gap-y-8 flex-wrap justify-center items-center">
           {inTheNews.map((item) => (
-            <Link href={item.href} className="max-w-[400px]">
+            <Link href={item.href} key={item.title} className="max-w-[400px]">
               <Image
                 src={item.imgSource}
                 alt="DATA in the news"
