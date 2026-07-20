@@ -3,11 +3,9 @@ import cn from "classnames";
 import Link from "next/link";
 
 import { getSubstackArticles } from "@/lib/substack-api";
-import { getGoogleCalendarEvents } from "@/lib/google-calendar-api";
 
 export const SubstackFeed = async () => {
   const posts = await getSubstackArticles("ridewithdata", 3);
-  const a = await getGoogleCalendarEvents();
 
   return (
     <div>
@@ -38,7 +36,10 @@ export const SubstackFeed = async () => {
                   {post.description}
                 </div>
                 <div className="bm-2 flex text-base text-slate-500 gap-4">
-                  <div>{post.publishedBylines[0].name}</div>
+                  <div>
+                    {post.publishedBylines[0]?.name ||
+                      "Dallas Area Transit Alliance"}
+                  </div>
                   <div>{post.post_date}</div>
                 </div>
               </Link>
@@ -47,7 +48,7 @@ export const SubstackFeed = async () => {
         ))}
       </div>
 
-      <div className="2xl:mt-6 xl:mt-2 md:mt-4 mt-6">
+      <div className="2xl:mt-6 xl:mt-4 md:mt-4 mt-6">
         <Link
           href="https://ridewithdata.substack.com"
           className="px-4 py-2 rounded-lg bg-yellow-500 hover:bg-yellow-400 text-black"
