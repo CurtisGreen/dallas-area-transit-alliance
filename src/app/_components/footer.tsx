@@ -55,7 +55,7 @@ export function Footer() {
               <FooterLink href="/documents/DATA_Code_of_Conduct_2025-05-17.pdf">
                 Code of Conduct
               </FooterLink>
-              <FooterLink href="/contact">Contact</FooterLink>
+              <FooterLink href="/contact">Contact Us</FooterLink>
               <FooterLink href="/logos/data-logos.zip">Media Kit</FooterLink>
               <FooterLink href="https://docs.google.com/forms/d/e/1FAIpQLSeE-SrnsbjniO7I0BkdHourNdQYO_MKaYhKa6iQjN63_eubBg/viewform">
                 Newsletter
