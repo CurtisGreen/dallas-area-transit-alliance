@@ -56,8 +56,9 @@ export const getGoogleCalendarEvents = async () => {
     .filter(({ status }) => status === "confirmed")
     .map((item) => {
       const hasTime = !!item.start.dateTime;
-      const sd = new Date(item.start.dateTime || item.start.date + " 0:00");
-      const ed = new Date(item.end.dateTime || item.end.date + " 0:00");
+      const centralTime = " 0:00-5:00";
+      const sd = new Date(item.start.dateTime || item.start.date + centralTime);
+      const ed = new Date(item.end.dateTime || item.end.date + centralTime);
 
       const startDateTimeFormat: Intl.DateTimeFormatOptions = hasTime
         ? {
