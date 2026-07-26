@@ -17,7 +17,7 @@ export const CalendarFeed = async () => {
         Upcoming events
       </div>
       <CalendarEvents
-        events={events.slice(0, 3)}
+        events={events.slice(0, 10)}
         className="sm:hidden lg:grid"
       />
       <CalendarEvents
@@ -55,22 +55,9 @@ const CalendarEvents = ({
           <div className="text-lg font-semibold">{summary}</div>
           <div className="text-sm text-slate-500">{location || "-"}</div>
           <div>
-            {start.toLocaleString("en-US", {
-              hour12: true,
-              hour: "numeric",
-              minute: "numeric",
-              day: "numeric",
-              month: "short",
-              weekday: "short",
-              timeZone: "America/Chicago",
-            })}
+            {start}
             {" - "}
-            {end.toLocaleString("en-US", {
-              hour12: true,
-              hour: "numeric",
-              minute: "numeric",
-              timeZone: "America/Chicago",
-            })}
+            {end}
           </div>
         </Card>
       </Link>
