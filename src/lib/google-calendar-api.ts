@@ -105,8 +105,8 @@ export const getGoogleCalendarEvents = async () => {
         summary: item.summary,
         location: item.location,
         date: sd,
-        start: start,
-        end: end,
+        start,
+        end,
       };
     })
     .sort((a, b) => a.date.getTime() - b.date.getTime());
