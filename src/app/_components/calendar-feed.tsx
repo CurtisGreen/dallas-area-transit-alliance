@@ -20,7 +20,7 @@ export const CalendarFeed = async () => {
         </div>
       </div>
       <CalendarEvents
-        events={events.slice(0, 10)}
+        events={events.slice(0, 3)}
         className="sm:hidden lg:grid"
       />
       <CalendarEvents
