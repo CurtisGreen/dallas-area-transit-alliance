@@ -17,7 +17,7 @@ export const CalendarFeed = async () => {
         Upcoming events
       </div>
       <CalendarEvents
-        events={events.slice(0, 3)}
+        events={events.slice(0, 10)}
         className="sm:hidden lg:grid"
       />
       <CalendarEvents
