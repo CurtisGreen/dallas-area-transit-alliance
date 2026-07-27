@@ -25,6 +25,43 @@ export type CalendarItem = {
   end: string;
 };
 
+const getDateFormat = (startDate?: string, endDate?: string) => {
+  if (!startDate || !endDate) return { start: "-", end: "-" };
+
+  const start = new Date(startDate).toLocaleString("en-US", {
+    day: "numeric",
+    month: "short",
+    weekday: "short",
+    timeZone: "UTC",
+  });
+  const end = new Date(endDate).toLocaleString("en-US", {
+    day: "numeric",
+    timeZone: "UTC",
+  });
+  return { start, end };
+};
+
+const getDateTimeFormat = (startDate?: string, endDate?: string) => {
+  if (!startDate || !endDate) return { start: "-", end: "-" };
+
+  const start = new Date(startDate).toLocaleString("en-US", {
+    hour12: true,
+    hour: "numeric",
+    minute: "numeric",
+    day: "numeric",
+    month: "short",
+    weekday: "short",
+    timeZone: "America/Chicago",
+  });
+  const end = new Date(endDate).toLocaleString("en-US", {
+    hour12: true,
+    hour: "numeric",
+    minute: "numeric",
+    timeZone: "America/Chicago",
+  });
+  return { start, end };
+};
+
 export const getGoogleCalendarEvents = async () => {
   const startOfDay = new Date();
   startOfDay.setUTCHours(0, 0, 0, 0);
@@ -55,49 +92,21 @@ export const getGoogleCalendarEvents = async () => {
   const formattedArticles: CalendarItem[] = res.items
     .filter(({ status }) => status === "confirmed")
     .map((item) => {
-      const hasTime = !!item.start.dateTime;
+      const hasTime = !!item.start.dateTime && !!item.end.dateTime;
+      const { start, end } = hasTime
+        ? getDateTimeFormat(item.start.dateTime, item.end.dateTime)
+        : getDateFormat(item.start.date, item.end.date);
+
       const centralTime = " 0:00-5:00";
       const sd = new Date(item.start.dateTime || item.start.date + centralTime);
-      const ed = new Date(item.end.dateTime || item.end.date + centralTime);
-
-      const startDateTimeFormat: Intl.DateTimeFormatOptions = hasTime
-        ? {
-            hour12: true,
-            hour: "numeric",
-            minute: "numeric",
-            day: "numeric",
-            month: "short",
-            weekday: "short",
-            timeZone: "America/Chicago",
-          }
-        : {
-            day: "numeric",
-            month: "short",
-            weekday: "short",
-            timeZone: "America/Chicago",
-          };
-      const endDateTimeFormat: Intl.DateTimeFormatOptions = hasTime
-        ? {
-            hour12: true,
-            hour: "numeric",
-            minute: "numeric",
-            timeZone: "America/Chicago",
-          }
-        : {
-            day: "numeric",
-            timeZone: "America/Chicago",
-          };
-
-      const s = sd.toLocaleString("en-US", startDateTimeFormat);
-      const e = ed.toLocaleString("en-US", endDateTimeFormat);
 
       return {
         htmlLink: item.htmlLink,
         summary: item.summary,
         location: item.location,
         date: sd,
-        start: s,
-        end: e,
+        start: start,
+        end: end,
       };
     })
     .sort((a, b) => a.date.getTime() - b.date.getTime());
