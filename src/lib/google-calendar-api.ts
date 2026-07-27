@@ -21,12 +21,11 @@ export type CalendarItem = {
   htmlLink: string;
   summary: string;
   location: string;
-  start: string;
-  end: string;
+  formattedTime: string;
 };
 
 const getDateFormat = (startDate?: string, endDate?: string) => {
-  if (!startDate || !endDate) return { start: "-", end: "-" };
+  if (!startDate || !endDate) return "-";
 
   const start = new Date(startDate).toLocaleString("en-US", {
     day: "numeric",
@@ -38,11 +37,16 @@ const getDateFormat = (startDate?: string, endDate?: string) => {
     day: "numeric",
     timeZone: "UTC",
   });
-  return { start, end };
+
+  // Handle 1-day events
+  const s = new Date(startDate);
+  const d = new Date(endDate);
+  if (s.getTime() + 86400000 >= d.getTime()) return start;
+  return `${start} - ${end}`;
 };
 
 const getDateTimeFormat = (startDate?: string, endDate?: string) => {
-  if (!startDate || !endDate) return { start: "-", end: "-" };
+  if (!startDate || !endDate) return "-";
 
   const start = new Date(startDate).toLocaleString("en-US", {
     hour12: true,
@@ -59,7 +63,7 @@ const getDateTimeFormat = (startDate?: string, endDate?: string) => {
     minute: "numeric",
     timeZone: "America/Chicago",
   });
-  return { start, end };
+  return `${start} - ${end}`;
 };
 
 export const getGoogleCalendarEvents = async () => {
@@ -86,6 +90,7 @@ export const getGoogleCalendarEvents = async () => {
     &$unique=gc237
   `;
   const cleanUrl = url.replaceAll("\n", "").replaceAll(" ", "");
+  console.log(cleanUrl);
   const data = await fetch(cleanUrl, { next: { revalidate: 0 } });
   const res: GoogleCalendarResponse = await data.json();
 
@@ -93,7 +98,7 @@ export const getGoogleCalendarEvents = async () => {
     .filter(({ status }) => status === "confirmed")
     .map((item) => {
       const hasTime = !!item.start.dateTime && !!item.end.dateTime;
-      const { start, end } = hasTime
+      const formattedTime = hasTime
         ? getDateTimeFormat(item.start.dateTime, item.end.dateTime)
         : getDateFormat(item.start.date, item.end.date);
 
@@ -105,8 +110,7 @@ export const getGoogleCalendarEvents = async () => {
         summary: item.summary,
         location: item.location,
         date: sd,
-        start,
-        end,
+        formattedTime,
       };
     })
     .sort((a, b) => a.date.getTime() - b.date.getTime());
