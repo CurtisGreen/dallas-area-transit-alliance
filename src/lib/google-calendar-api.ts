@@ -63,7 +63,7 @@ const getDateTimeFormat = (startDate?: string, endDate?: string) => {
     minute: "numeric",
     timeZone: "America/Chicago",
   });
-  return `${start} - ${end}`;
+  return `${start} - ${end} CT`;
 };
 
 export const getGoogleCalendarEvents = async () => {
@@ -90,7 +90,6 @@ export const getGoogleCalendarEvents = async () => {
     &$unique=gc237
   `;
   const cleanUrl = url.replaceAll("\n", "").replaceAll(" ", "");
-  console.log(cleanUrl);
   const data = await fetch(cleanUrl, { next: { revalidate: 0 } });
   const res: GoogleCalendarResponse = await data.json();
 

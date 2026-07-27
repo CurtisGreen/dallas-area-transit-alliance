@@ -15,9 +15,6 @@ export const CalendarFeed = async () => {
     <div>
       <div className="text-3xl md:text-4xl mt-8 md:mt-12 mb-4 font-bold">
         Upcoming events
-        <div className="text-xl md:text-2xl mt-8 md:mt-12 mb-4 italic">
-        All times in Central Time
-        </div>
       </div>
       <CalendarEvents
         events={events.slice(0, 3)}
@@ -34,8 +31,8 @@ export const CalendarFeed = async () => {
         >
           See more on our calendar
         </Link>
-        </div>
       </div>
+    </div>
   );
 };
 
