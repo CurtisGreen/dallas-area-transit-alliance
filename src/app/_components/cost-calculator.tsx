@@ -188,7 +188,7 @@ export const CostCalculator = () => {
               setValue={(v) => setMaintenance(v)}
             />
 
-            <div className="flex items-center">Model Year</div>
+            <div className="flex items-center">Vehicle Model Year</div>
             <select
               className="text-slate-500 border border-gray-300 rounded-sm py-2 px-4 focus:outline-none focus:ring-2 focus:ring-blue-500"
               value={modelYear}
