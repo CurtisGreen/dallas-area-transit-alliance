@@ -29,8 +29,8 @@ export const getGoogleCalendarEvents = async () => {
   const startOfDay = new Date();
   startOfDay.setUTCHours(0, 0, 0, 0);
 
-  const oneWeekLater = new Date(startOfDay);
-  oneWeekLater.setDate(oneWeekLater.getDate() + 8); // Use 8 since we're looking at start of day
+  const twoWeeksLater = new Date(startOfDay);
+  twoWeeksLater.setDate(twoWeeksLater.getDate() + 15); // Use 15 since we're looking at start of day
 
   const url = `
     https://clients6.google.com/calendar/v3/calendars/c_b84185fb0c5798bfc8d926ac5013d4ed1fdbd0c3fb79a960686fbb9250037595@group.calendar.google.com/events
@@ -44,7 +44,7 @@ export const getGoogleCalendarEvents = async () => {
     &maxResults=50
     &sanitizeHtml=true
     &timeMin=${startOfDay.toISOString()}
-    &timeMax=${oneWeekLater.toISOString()}
+    &timeMax=${twoWeeksLater.toISOString()}
     &key=AIzaSyDOtGM5jr8bNp1utVpG2_gSRH03RNGBkI8
     &$unique=gc237
   `;
