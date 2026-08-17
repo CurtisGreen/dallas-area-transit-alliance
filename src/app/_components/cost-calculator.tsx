@@ -29,8 +29,8 @@ const StyledInput = ({
       placeholder={placeholder}
       value={value}
       onChange={handleChange}
-      type="number"
-      pattern="[0-9]*|\.*"
+      type="text"
+      inputMode="decimal"
     />
   );
 };
