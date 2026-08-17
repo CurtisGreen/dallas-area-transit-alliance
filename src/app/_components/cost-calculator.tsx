@@ -30,6 +30,7 @@ const StyledInput = ({
       value={value}
       onChange={handleChange}
       type="number"
+      pattern="[0-9]*|\.*"
     />
   );
 };
@@ -124,7 +125,7 @@ export const CostCalculator = () => {
   );
 
   return (
-    <div className="w-full my-10 rounded-sm">
+    <div className="w-full my-10 rounded-sm" id="cost-calculator">
       <div className="text-2xl font-semibold my-4 ml-2">
         Cost of Driving vs Transit
       </div>
@@ -261,7 +262,7 @@ export const CostCalculator = () => {
             {monthlyCostOfDriving - monthlyCostOfTransit > 0 && (
               <>
                 {" - "}
-                <span className="text-green-500 italic">
+                <span className="text-green-500">
                   Save{" "}
                   <span className="font-bold text-xl">
                     +$
