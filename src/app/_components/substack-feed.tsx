@@ -12,41 +12,60 @@ export const SubstackFeed = async () => {
       <div className="text-3xl md:text-4xl mt-8 md:mt-12 mb-4 font-bold">
         Latest Articles
       </div>
-      <div className="mt-8 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-        {posts.map((post) => (
-          <div key={post.slug} className="justify-center">
-            <Link href={post.canonical_url} aria-label={post.title}>
-              <Image
-                src={post.cover_image || "/logos/logo-blue.png"}
-                alt={post.title}
-                className={cn("shadow-sm rounded-md w-192 h-96 object-cover", {
-                  "hover:shadow-yellow-500/30 transition-shadow duration-200":
-                    post.slug,
-                })}
-                width={800}
-                height={400}
-                priority
-              />
-            </Link>
-
-            <div className="mt-4">
-              <Link href={post.canonical_url} className="text-xl leading-snug">
-                <div>{post.title}</div>
-                <div className="text-base text-slate-500">
-                  {post.description}
-                </div>
-                <div className="bm-2 flex text-base text-slate-500 gap-4">
-                  <div>
-                    {post.publishedBylines[0]?.name ||
-                      "Dallas Area Transit Alliance"}
-                  </div>
-                  <div>{post.post_date}</div>
-                </div>
+      {posts.length === 0 && (
+        <div className="text-lg text-slate-500">
+          The blog feed is currently down, visit the blog directly by{" "}
+          <Link
+            href="https://ridewithdata.substack.com"
+            className="text-blue-500 hover:underline"
+          >
+            clicking here
+          </Link>
+        </div>
+      )}
+      {posts.length > 0 && (
+        <div className="mt-8 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+          {posts.map((post) => (
+            <div key={post.slug} className="justify-center">
+              <Link href={post.canonical_url} aria-label={post.title}>
+                <Image
+                  src={post.cover_image || "/logos/logo-blue.png"}
+                  alt={post.title}
+                  className={cn(
+                    "shadow-sm rounded-md w-192 h-96 object-cover",
+                    {
+                      "hover:shadow-yellow-500/30 transition-shadow duration-200":
+                        post.slug,
+                    },
+                  )}
+                  width={800}
+                  height={400}
+                  priority
+                />
               </Link>
+
+              <div className="mt-4">
+                <Link
+                  href={post.canonical_url}
+                  className="text-xl leading-snug"
+                >
+                  <div>{post.title}</div>
+                  <div className="text-base text-slate-500">
+                    {post.description}
+                  </div>
+                  <div className="bm-2 flex text-base text-slate-500 gap-4">
+                    <div>
+                      {post.publishedBylines[0]?.name ||
+                        "Dallas Area Transit Alliance"}
+                    </div>
+                    <div>{post.post_date}</div>
+                  </div>
+                </Link>
+              </div>
             </div>
-          </div>
-        ))}
-      </div>
+          ))}
+        </div>
+      )}
 
       <div className="2xl:mt-6 xl:mt-4 md:mt-4 mt-6">
         <Link

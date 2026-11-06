@@ -32,7 +32,12 @@ type Article = {
 
 export const getSubstackArticles = async (name: string, count: number) => {
   const url = `https://substackapi.com/api/feeds/${name}.substack.com?limit=${count}&sort=new`;
-  const data = await fetch(url, { next: { revalidate: 0 } });
-  const articles: Article[] = await data.json();
-  return articles;
+  try {
+    const data = await fetch(url, { next: { revalidate: 0 } });
+    const articles: Article[] = await data.json();
+    return articles;
+  } catch (error) {
+    console.error("Error fetching Substack articles:", error);
+    return [];
+  }
 };
